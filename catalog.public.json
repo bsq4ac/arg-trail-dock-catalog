@@ -1,0 +1,1914 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-06T18:00:50.053Z",
+  "items": [
+    {
+      "id": "1768375769999_e7dc8b2143fa",
+      "title": "Vtuber失踪案件",
+      "author": "sim3",
+      "introUrl": "https://note.com/sim/n/n9ccec3c0a871",
+      "startUrl": "https://phos.jp/",
+      "url": "https://phos.jp/",
+      "categories": [],
+      "playStyleTags": [
+        "長編"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "突如活動停止したVTuberからの公式DMを手掛かりに、失踪の真相を探る。",
+      "compatibility": "full",
+      "totalPages": 125,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-02-01"
+    },
+    {
+      "id": "1768475373361_0be672e8334c1",
+      "title": "紙岡聖子（仮）に関する考察",
+      "author": "sim3",
+      "introUrl": "https://note.com/sim/n/n4e5ae759b007",
+      "startUrl": "https://www.kamiokaseiko.jp/",
+      "url": "https://www.kamiokaseiko.jp/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "時代も場所も違う記録写真に現れる同じ顔の女、その正体を追う。前半無料、後半有料。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-25"
+    },
+    {
+      "id": "1768480376381_ff09a8d7badba8",
+      "title": "Case01 鹿取山の謎",
+      "author": "ナマケモノ",
+      "introUrl": "https://note.com/nmkmnbaby/n/n7f0c125a36a5",
+      "startUrl": "https://katori-san.namakelog.com/",
+      "url": "https://katori-san.namakelog.com/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [
+        "長編"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "遠足先の鹿取山サイトに起きた変化をきっかけに、芹沢高校インターネットオカルト研究部が調査を開始する。",
+      "compatibility": "full",
+      "totalPages": 80,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-05"
+    },
+    {
+      "id": "1768574836811_9eba043d5c6468",
+      "title": "覚えのないブックマーク",
+      "author": "笠",
+      "introUrl": "https://note.com/takenamaco/n/n85f017b0c7fe",
+      "startUrl": "https://atoril.com/aaa/login.html",
+      "url": "https://atoril.com/aaa/login.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "見覚えのないブックマークと付箋のIDを手掛かりに、記憶の空白をたどる。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-08",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0014"
+    },
+    {
+      "id": "1770624671155_854d3343ec1f38",
+      "title": "美昧しい給食",
+      "author": "Chirue",
+      "introUrl": "https://note.com/chirue_creates/n/n406f89234a03",
+      "startUrl": "https://chirue.shop/",
+      "url": "https://chirue.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "recommended",
+      "status": "active",
+      "shortDescription": "献立にない「めだまやき」の投稿を起点に、給食センターの違和感を探る。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-08",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0017"
+    },
+    {
+      "id": "1768664234190_6a76081f0e5fd",
+      "title": "如月探偵事務所乖譚",
+      "author": "あさぴん@赤毛廃",
+      "introUrl": "https://note.com/asapinakg/n/nb6dbe4e8654c",
+      "startUrl": "https://kisaragi-detective.x0.com/",
+      "url": "https://kisaragi-detective.x0.com/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "異変を察知したサポートAIの依頼で、探偵の身に起きた問題の解決に協力する。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-09",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1768731829027_0d976b42ae47f8",
+      "title": "Code:STIGMA",
+      "author": "しょん",
+      "introUrl": "https://note.com/shon_0_/n/neb35fc1ba706",
+      "startUrl": "https://futrpharmacy.shop/",
+      "url": "https://futrpharmacy.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [
+        "初心者向け"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "不気味な薬局サイトを調査し、散りばめられた謎を解き明かす。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-04",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0028"
+    },
+    {
+      "id": "1768738342764_1bcdbeb1143548",
+      "title": "明晰夢",
+      "author": "椨らさ",
+      "introUrl": "https://note.com/hakushi_no_bi/n/n31d08ecfb36c",
+      "startUrl": "https://taburarasa.shop/",
+      "url": "https://taburarasa.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "差出人不明の招待状を起点に、記憶を失った「彼」と送り主の真意を探る。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-09"
+    },
+    {
+      "id": "1768881739237_461c403dab701",
+      "title": "Re:Collection　青の境界",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/n640dc46d7dcb",
+      "startUrl": "https://neocities.stars.ne.jp/hatukoi/Console.html",
+      "url": "https://neocities.stars.ne.jp/hatukoi/Console.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "結婚を控えた主人公が再構築アプリを通じ、封じた過去の記憶に向き合う。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-01"
+    },
+    {
+      "id": "1768985917004_5fd9aee040afd",
+      "title": "またあした",
+      "author": "クレイ",
+      "introUrl": "https://note.com/cray_briony253/n/ne2c0bd0553ae",
+      "startUrl": "http://craygame.s323.xrea.com/index.html",
+      "url": "http://craygame.s323.xrea.com/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "保育園に届いた見知らぬ手紙をきっかけに、職員サイトに隠れた事情を辿る。",
+      "compatibility": "partial",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-09"
+    },
+    {
+      "id": "1769081880356_de5a9f329aced",
+      "title": "「Rhaps.」前編「メタバース異常調査」",
+      "author": "触覚",
+      "introUrl": "https://note.com/note_shokkaku/n/n312a2a5ae923",
+      "startUrl": "https://ss786678.stars.ne.jp/Rhaps./creator/creator.html",
+      "url": "https://ss786678.stars.ne.jp/Rhaps./creator/creator.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "長期ログアウト不能アカウントの増加を追い、メタバースの異常の背景を調べる。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-30"
+    },
+    {
+      "id": "1769252722063_4d6683c4d257d",
+      "title": "はなもり交通",
+      "author": "岡 鉄郎",
+      "introUrl": "https://note.com/oka_tetsuro/n/n5e20faa1c842",
+      "startUrl": "https://hanamori-taxi.com/",
+      "url": "https://hanamori-taxi.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "失踪した友人の最後のリンクを手掛かりに、タクシー会社サイトの裏側を追う。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-24",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0021"
+    },
+    {
+      "id": "1769353310410_f8b942f234323",
+      "title": "黒野市動物公園",
+      "author": "twinkle",
+      "introUrl": "https://note.com/twinkle_arg/n/nef0e515203e8",
+      "startUrl": "https://kurono-zoo.com/index.html",
+      "url": "https://kurono-zoo.com/index.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "異臭や失踪が続く動物公園の記録の断片から、園内で進む異常の実態を探る。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-24",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0012"
+    },
+    {
+      "id": "1769433783978_f5ecc5003c288",
+      "title": "AUDITION GRACE",
+      "author": "醸澄ビルカ",
+      "introUrl": "https://note.com/birukamosu/n/n79caa11c5e4c",
+      "startUrl": "https://grace-audition.com/",
+      "url": "https://grace-audition.com/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "大型オーディション番組への告発文を手掛かりに、隠された目的の真偽を追う。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0024"
+    },
+    {
+      "id": "1769578663164_3cf2efe15739c8",
+      "title": "その名前は館に眠る",
+      "author": "まるっち",
+      "introUrl": "https://note.com/maru444/n/ndf43994599e2",
+      "startUrl": "https://cf953505.cloudfree.jp/nameisasleep/1_first.html",
+      "url": "https://cf953505.cloudfree.jp/nameisasleep/1_first.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "recommended",
+      "status": "active",
+      "shortDescription": "土砂崩れ後の館で起きた集団死の謎を、外部調査員として解き明かしていく。ゲーム内に便利なリスト・メモ機能あり。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-27",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0029"
+    },
+    {
+      "id": "1769690233452_ca0039e494dff",
+      "title": "名前を呼ぶ海：深根ノ浜失踪事件調査",
+      "author": "24na",
+      "introUrl": "https://note.com/24naninu/n/n701700f22652",
+      "startUrl": "https://n248887.shop/index.html",
+      "url": "https://n248887.shop/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "旅行写真の不自然な光をきっかけに、海辺で続く失踪事件の謎を解明する。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-23",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0030"
+    },
+    {
+      "id": "1769766863154_c9b437ff4ecd28",
+      "title": "【ハイツ淀見】は住み込み管理人を募集しています。",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/n8f2df763a8b4",
+      "startUrl": "https://transmitter.sakura.ne.jp/yodomi/",
+      "url": "https://transmitter.sakura.ne.jp/yodomi/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "高待遇の管理人求人に潜む不審点をたどり、物件と前任者失踪の真相を探る。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-23",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0032"
+    },
+    {
+      "id": "1769772495890_9e4a999ff64ad",
+      "title": "好きの意味を検索しています",
+      "author": "ナマケモノ",
+      "introUrl": "https://note.com/nmkmnbaby/n/n9fc08940ce5f",
+      "startUrl": "https://lovesearch.namakelog.com/",
+      "url": "https://lovesearch.namakelog.com/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "中古ノートPCに残された少年のログを読み進め、断片的な過去を紐解いていく。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-14"
+    },
+    {
+      "id": "1769778775289_459e1e8cb1ac2",
+      "title": "籠の中の小鳥へ",
+      "author": "フネ",
+      "introUrl": "https://note.com/airshiplab_fune/n/naa631e398428",
+      "startUrl": "https://airshiplabfune-pynuq.wpcomstaging.com/",
+      "url": "https://airshiplabfune-pynuq.wpcomstaging.com/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "行方不明の友人を探すVtuberの投稿から、SNS上の手掛かりを調査する。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0009"
+    },
+    {
+      "id": "1769861427905_d57aa8a0cbd46",
+      "title": "ひもろぎ村移住者募集中",
+      "author": "ひもろぎ村へようこそ",
+      "introUrl": "https://note.com/himorogimura/n/nd379e467ee3f",
+      "startUrl": "https://www.argserver.shop/himorogimura/index.html",
+      "url": "https://www.argserver.shop/himorogimura/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "移住者募集サイトに潜む不穏な暗号を見抜き、村の実態を探る。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-10"
+    },
+    {
+      "id": "1770032724696_774f363b86a59",
+      "title": "ふたりのきろく",
+      "author": "ナマケモノ",
+      "introUrl": "https://note.com/nmkmnbaby/n/nf60b3b0ff465",
+      "startUrl": "https://ourjournal.namakelog.com/",
+      "url": "https://ourjournal.namakelog.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "突然送られてきたURLのブログに自分の記憶と重なる痕跡を見つけ、送り主の意図を追う。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-01"
+    },
+    {
+      "id": "1770092976212_fd62583c4ce0d8",
+      "title": "Archive",
+      "author": "岡 鉄郎",
+      "introUrl": "https://note.com/oka_tetsuro/n/nfe3adba45aee",
+      "startUrl": "https://project-archive.net/",
+      "url": "https://project-archive.net/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "記憶を失った主人公として白い部屋の端末を操作し、残された記録から真相へ迫る。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-31",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0022",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1770121301745_1de06704e4ad8",
+      "title": "首縊りの神様",
+      "author": "しるふ",
+      "introUrl": "https://note.com/legit_hound7580/n/n023836ef698b",
+      "startUrl": "http://www.athene1020.shop/ren-harisu-no-blog/index.html",
+      "url": "http://www.athene1020.shop/ren-harisu-no-blog/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人との通話に混じる不気味な軋み音を手掛かりに、背後の異変を追っていく。",
+      "compatibility": "partial",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-29"
+    },
+    {
+      "id": "1770533964225_39ae21bde1fc38",
+      "title": "Project: SUNRISE",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/na989362a7488",
+      "startUrl": "https://okaita.pages.dev/",
+      "url": "https://okaita.pages.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "乗っ取られた旧ゲームサイトの違和感を追い、現実に潜む危険の正体を探る。導入ページがないため、あとがきにリンク。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-07",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0013"
+    },
+    {
+      "id": "1770978063599_37a4df99dc4be8",
+      "title": "#春ヒコ何燃やそう #侵蝕する違和感について",
+      "author": "sim3",
+      "introUrl": "https://note.com/sim/n/n9265a69fbdb8",
+      "startUrl": "https://www.bakimemo.jp/",
+      "url": "https://www.bakimemo.jp/",
+      "categories": [],
+      "playStyleTags": [
+        "短編"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "番宣映像の一瞬の異常表示をきっかけに、公式サイトに潜む意図を調査する。",
+      "compatibility": "full",
+      "totalPages": 35,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-13",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0039"
+    },
+    {
+      "id": "1772090985780_d0909d04f9e818",
+      "title": "Subterranean.exe",
+      "author": "きなみ＠錯綜迷夢",
+      "introUrl": "https://note.com/kinami_eggyolk/n/n9ec48fd8df52",
+      "startUrl": "https://sakusoumeimu.kinamieggyolk.shop/hisuigawauniversity.html",
+      "url": "https://sakusoumeimu.kinamieggyolk.shop/hisuigawauniversity.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [
+        "長編"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "失踪者捜索依頼を受け、大学サイトと異常な観測記録から隠された事実を追う。",
+      "compatibility": "full",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-20",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0038"
+    },
+    {
+      "id": "1772457686955_7da413e0e996c",
+      "title": "明日の天気は選択日和。",
+      "author": "九龍",
+      "introUrl": "https://note.com/kuron_2424/n/nbf142e2fbce5",
+      "startUrl": "http://www.kuron666.shop/weather/index.html",
+      "url": "http://www.kuron666.shop/weather/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "天気を完璧に断定する『気象断定センター』。謎の施設のホームページを探索する。",
+      "compatibility": "partial",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11"
+    },
+    {
+      "id": "game-28",
+      "title": "霊域探査室File01: 喫茶店従業員失踪事件",
+      "author": "霊域探査室",
+      "introUrl": "https://note.com/reiki_files/n/n232dd00e876b",
+      "startUrl": "https://cafelumi.net/",
+      "url": "https://cafelumi.net/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [
+        "初心者向け"
+      ],
+      "curatorBadge": "recommended",
+      "status": "active",
+      "shortDescription": "喫茶店従業員の捜索依頼を受け、残された記録から居場所を特定する。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-02",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0025"
+    },
+    {
+      "id": "1772796155057_13faaded8cdae",
+      "title": "気象共鳴 ― 天の声、地に届く ―",
+      "author": "twinkle twinkle",
+      "introUrl": "https://note.com/twinkle_arg/n/n689fe696eed3",
+      "startUrl": "https://arcstorm.jp/",
+      "url": "https://arcstorm.jp/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "予報不能な異常気象が拡大する中、事件記録やSNS投稿を調査し真相に迫る。",
+      "compatibility": "",
+      "totalPages": 35,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772796367394_b8121a0c504",
+      "title": "その結婚相談所、失踪者アリ。",
+      "author": "光秀",
+      "introUrl": "https://note.com/mitsu_nazoarg/n/n93f38c2562dd",
+      "startUrl": "https://kaburayamc.stars.ne.jp/db/console.php",
+      "url": "https://kaburayamc.stars.ne.jp/db/console.php",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人の救難メッセージを手掛かりに、結婚相談所の内部データを調査する。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-01"
+    },
+    {
+      "id": "1772796434681_9bb07e712078c",
+      "title": "０時の日記",
+      "author": "智謎",
+      "introUrl": "https://note.com/tmnz/n/n5b028de4c5d9",
+      "startUrl": "http://ss558781.stars.ne.jp/",
+      "url": "http://ss558781.stars.ne.jp/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "recommended",
+      "status": "active",
+      "shortDescription": "兄を捜す投稿をきっかけに、日記サイト「0時の日記」を調査する。「謎解き」要素の強い作品。",
+      "compatibility": "",
+      "totalPages": 40,
+      "sortTitle": "れいじのにっき",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772796546834_dd0ecff0e4c5a8",
+      "title": "I AM NOT あるいは二階堂玲の場合",
+      "author": "いさかわ",
+      "introUrl": "https://note.com/yoryormary/n/n86fcc595ab84",
+      "startUrl": "https://www.yoryormary.com/iamnot.html",
+      "url": "https://www.yoryormary.com/iamnot.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "新人刑事として、不可解な身元不明遺体に関する調査を行う。",
+      "compatibility": "",
+      "totalPages": 36,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-02",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772796620704_fd2098e6a990d8",
+      "title": "青渓学園新聞部調査記録",
+      "author": "椚木",
+      "introUrl": "https://kunugi77.stars.ne.jp/Console.html",
+      "startUrl": "https://kunugi77.stars.ne.jp/Console.html",
+      "url": "https://kunugi77.stars.ne.jp/Console.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "新聞部員として過去の資料を洗い直し、決勝戦の決定的瞬間の人物を特定する。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-04"
+    },
+    {
+      "id": "1772796730009_1a91064f1b474",
+      "title": "瑞無高校七不思議",
+      "author": "黒埜棗",
+      "introUrl": "https://note.com/kurononatsume/n/nc632f018a865",
+      "startUrl": "https://chronoclebook.jp/content/seven/top.html",
+      "url": "https://chronoclebook.jp/content/seven/top.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "長年続く高校裏掲示板の怪談投稿を読み解き、七不思議の真相に迫る。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 1.5,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772797483375_5831ebc8d97b58",
+      "title": "アドメン失踪事件",
+      "author": "yzm",
+      "introUrl": "https://note.com/yzmchan/n/nfc20c758b6b5",
+      "startUrl": "http://yskwmnk.stars.ne.jp/index.html",
+      "url": "http://yskwmnk.stars.ne.jp/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人の失踪疑惑を追い、夏期講習サイトに残る情報から異変を調べる。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-07-17",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772797557387_6bb8546a941d7",
+      "title": "消えゆく無料サイト",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/ndc0fd1163506",
+      "startUrl": "https://neocities.stars.ne.jp/",
+      "url": "https://neocities.stars.ne.jp/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閉鎖迫る無料サイト群に残されたURLを手掛かりに、過去の接点を探る。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-07-07",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772797608104_36f1c4ca31fb38",
+      "title": "Good Luck",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/n430b3a7994b7",
+      "startUrl": "https://neocities.stars.ne.jp/goodluck/index.html",
+      "url": "https://neocities.stars.ne.jp/goodluck/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "記憶を失った探偵として、事務所のPCに残るファイルから自分の過去を辿る。",
+      "compatibility": "",
+      "totalPages": 32,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772797663192_0671143c621a28",
+      "title": "Love Letter",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/n0a8569b687a1",
+      "startUrl": "https://neocities.stars.ne.jp/loveletter/index.html",
+      "url": "https://neocities.stars.ne.jp/loveletter/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "誕生日に失踪した妻の痕跡を追い、夫の記憶に埋もれた関係の輪郭を探る。",
+      "compatibility": "",
+      "totalPages": 34,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772797672272_3b293b6d75b6f8",
+      "title": "Noct.",
+      "author": "触覚",
+      "introUrl": "https://note.com/note_shokkaku/n/n301ba81b2ca9",
+      "startUrl": "https://ss786678.stars.ne.jp/index.html",
+      "url": "https://ss786678.stars.ne.jp/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "昏睡症の噂がある村の公式サイトを読み進め、静かな違和感の正体を追う。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0040",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772797801999_9237367dd2d018",
+      "title": "しらはのや",
+      "author": "葵海亜",
+      "introUrl": "https://note.com/mia_aoi31/n/n12e6c8e2cdee",
+      "startUrl": "https://ma3ch.stars.ne.jp/",
+      "url": "https://ma3ch.stars.ne.jp/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "古参民失踪から始まる掲示板ミステリー。",
+      "compatibility": "",
+      "totalPages": 52,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-07-27",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0004"
+    },
+    {
+      "id": "1772797967843_7f836dadafc6a8",
+      "title": "○○を特定せよ。",
+      "author": "おタル民族",
+      "introUrl": "https://note.com/otaru_minzoku/n/n804272d0c81f",
+      "startUrl": "https://taraven0705.stars.ne.jp/index.html",
+      "url": "https://taraven0705.stars.ne.jp/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "謎のメールに残されたメッセージを手掛かりに、ある人物の行方を追跡する。",
+      "compatibility": "",
+      "sortTitle": "まるまるをとくていせよ",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772798303599_ae4511ec089918",
+      "title": "悠凛書店管理サイト",
+      "author": "ken",
+      "introUrl": "https://note.com/tegawara_ken/n/n9ede863a051a",
+      "startUrl": "https://coffeelove.stars.ne.jp/",
+      "url": "https://coffeelove.stars.ne.jp/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "火災で閉鎖された書店管理サイトの隠しページを辿り、事件の真相に迫る。",
+      "compatibility": "",
+      "totalPages": 29,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772798362463_157290236642f8",
+      "title": "ミャクセイ番地",
+      "author": "スミオン",
+      "introUrl": "https://note.com/sumi0n/n/n21591c4d678e",
+      "startUrl": "https://web-mystery-game-sumion.vercel.app/",
+      "url": "https://web-mystery-game-sumion.vercel.app/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "見知らぬ企業からの依頼文を起点に情報を追い、導かれる先の場所を突き止める。",
+      "compatibility": "",
+      "totalPages": 13,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-03"
+    },
+    {
+      "id": "1772798495527_5cbed006d5d7d",
+      "title": "ねこだいすき失踪事件",
+      "author": "ねこだいすき",
+      "introUrl": "https://note.com/nekodaisukicat/n/n683f030a0711",
+      "startUrl": "https://x.com/nd_parallel7m5",
+      "url": "https://x.com/nd_parallel7m5",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "相互フォロワーの失踪疑惑を受け、友人証言と残された記録から行方を追う。xのアカウントがスタートページです。",
+      "compatibility": "partial",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-07"
+    },
+    {
+      "id": "1772798824087_770021ab24142",
+      "title": "ことりの散歩道",
+      "author": "彩霞梓",
+      "introUrl": "https://note.com/saika_azsa/n/n739885afa7a0",
+      "startUrl": "https://watariyuki.web.fc2.com/blanc/top.html",
+      "url": "https://watariyuki.web.fc2.com/blanc/top.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "recommended",
+      "status": "active",
+      "shortDescription": "AIアプリで起きた不自然な表示と消えた履歴を手掛かりに、違和感の原因を探る。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-07-19"
+    },
+    {
+      "id": "1772798925550_17cd18ebe0578",
+      "title": "救済の権利",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/n9d7e16c979c7",
+      "startUrl": "https://neocities.stars.ne.jp/MWF/index.html",
+      "url": "https://neocities.stars.ne.jp/MWF/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "移植で生還した主人公がカルテの記号を手掛かりに、制度の裏側へ踏み込む。",
+      "compatibility": "",
+      "totalPages": 53,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-09"
+    },
+    {
+      "id": "1772799020103_796a9d53d0d438",
+      "title": "女子高校生行方不明事件",
+      "author": "mugi",
+      "introUrl": "https://note.com/firm_snipe5633/n/n126fb2af9048",
+      "startUrl": "http://ss591014.stars.ne.jp/%E5%AD%A6%E6%A0%A1%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%99.html",
+      "url": "http://ss591014.stars.ne.jp/%E5%AD%A6%E6%A0%A1%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%99.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "失踪した新聞部員の言葉を頼りに、学校サイト内の隠された手掛かりを探す。",
+      "compatibility": "partial",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-06"
+    },
+    {
+      "id": "1772799071006_d77f261be84c8",
+      "title": "カナちゃんを見つけて",
+      "author": "市勢",
+      "introUrl": "https://note.com/ichise_/n/naeab41d7672b",
+      "startUrl": "http://paramita6.stars.ne.jp/top.html",
+      "url": "http://paramita6.stars.ne.jp/top.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "都市伝説化したサイトに入り込み、カナちゃんの所在を突き止める。",
+      "compatibility": "",
+      "totalPages": 20,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-10"
+    },
+    {
+      "id": "1772799315950_8a3d296ce8da8",
+      "title": "ようこそ、特殊遺失物物品記録編纂室へ。Case:001",
+      "author": "夜野れーべ",
+      "introUrl": "https://note.com/yono_rabe/n/n43391da77bdf",
+      "startUrl": "http://ishitukanri.stars.ne.jp/",
+      "url": "http://ishitukanri.stars.ne.jp/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "新任職員として古い端末の記録を編纂し、特殊遺失物に隠れた背景を解き明かす。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-17",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0016"
+    },
+    {
+      "id": "1772799380926_52eee353321108",
+      "title": "桐生荘の301号室",
+      "author": "おタル民族",
+      "introUrl": "https://note.com/otaru_minzoku/n/ne6402d395a5e",
+      "startUrl": "https://taraven0705.infinityfreeapp.com/index.html",
+      "url": "https://taraven0705.infinityfreeapp.com/index.html",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "存在を否定された友人の痕跡を追い、行方を探る。",
+      "compatibility": "",
+      "totalPages": 25,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-30",
+      "estPlayHours": {
+        "normalMin": 1.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772799492998_9be179eaa669a",
+      "title": "霊域探査室File02: ハンドメイド作家動向調査",
+      "author": "霊域探査室",
+      "introUrl": "https://note.com/reiki_files/n/nab816dee1bf4",
+      "startUrl": "https://atelier-akari.net/",
+      "url": "https://atelier-akari.net/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "宝くじ効果をうたうアクセ作家を巡る依頼から、販売者の実態を調査する。",
+      "compatibility": "",
+      "totalPages": 49,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-08-31",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0026"
+    },
+    {
+      "id": "1772799582038_dfb024ec57a83",
+      "title": "Angel not found",
+      "author": "𝚄𝚃𝙴𝚁𝙾",
+      "introUrl": "https://h4lo-collective.com/prologue",
+      "startUrl": "https://h4lo-collective.com/",
+      "url": "https://h4lo-collective.com/",
+      "categories": [
+        "第1回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "失踪した歌姫Angelの噂の白いCDを手掛かりに、才能の所在を追う。",
+      "compatibility": "",
+      "totalPages": 36,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-11-16"
+    },
+    {
+      "id": "1772801028836_47d1d15fd79598",
+      "title": "Re:Collection+　のこされたものたち",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/n74d48a399c96",
+      "startUrl": "https://neocities.stars.ne.jp/hatukoi/Console.html",
+      "url": "https://neocities.stars.ne.jp/hatukoi/Console.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "亡き双子の妹が遺した品を手掛かりに、閉ざされた記憶を辿っていく。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-16"
+    },
+    {
+      "id": "1772801133941_89943a508fa46",
+      "title": "Family with Delusional Disorders",
+      "author": "ぬくぬく",
+      "introUrl": "https://sites.google.com/view/sphr09/family-with-delusional-disorders",
+      "startUrl": "https://www.sphr09.shop/",
+      "url": "https://www.sphr09.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "家庭用アンドロイドによる死亡事件の経緯を、残存機体のメモリー解析で解明する。",
+      "compatibility": "",
+      "totalPages": 19,
+      "addedAt": "2026-03-05"
+    },
+    {
+      "id": "1772801259068_70046750230548",
+      "title": "ラインエイジ オンライン",
+      "author": "椚木",
+      "introUrl": "https://note.com/kunugi77/n/ncf537d675ea4",
+      "startUrl": "https://kunugi77.stars.ne.jp/ProjectSteel/login.html",
+      "url": "https://kunugi77.stars.ne.jp/ProjectSteel/login.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "家庭用アンドロイドによる死亡事件の経緯を、残存機体のメモリー解析で解明する。",
+      "compatibility": "",
+      "totalPages": 163,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-20"
+    },
+    {
+      "id": "1772801268948_bc6c487d39ae6",
+      "title": "都市国家〈ヤシヲ〉調査ファイル：Case1 集団変死体放置事件",
+      "author": "朝香トオル",
+      "introUrl": "https://note.com/nvl_thr/n/nb50725072a49",
+      "startUrl": "https://underline001.shop/",
+      "url": "https://underline001.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "自警団員として集団変死事件の記録に向き合い、未解決案件を捜査する。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-17"
+    },
+    {
+      "id": "1772801490525_24929c4abd1d98",
+      "title": "ARG作ってみた",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/n4a6ecb909b69",
+      "startUrl": "https://haruba.shop/arboretum/",
+      "url": "https://haruba.shop/arboretum/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "第2回Webミステリーブートキャンプにて制作したARGが、想定外の挙動を始めたという。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-21",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0031"
+    },
+    {
+      "id": "1772801642004_26f9c1d36fbab",
+      "title": "魔法の夜のおとまり会",
+      "author": "彩霞梓",
+      "introUrl": "https://watariyuki.web.fc2.com/mimori-town-library/message/start.html",
+      "startUrl": "https://watariyuki.web.fc2.com/mimori-town-library/message/start.html",
+      "url": "https://watariyuki.web.fc2.com/mimori-town-library/message/start.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "図書館のおとまり会で届く館内画像を辿り、不思議な一夜を体験する。特殊なページのため本ツールは非対応です。",
+      "compatibility": "not_recommended",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-30"
+    },
+    {
+      "id": "1772801769092_2e55c63095af7",
+      "title": "潜影探偵事務所 vol.1「株式会社AIsle」",
+      "author": "マッサマン",
+      "introUrl": "https://note.com/matsaman_ai/n/n16797e97453d",
+      "startUrl": "https://matsaman.shop/aisle/",
+      "url": "https://matsaman.shop/aisle/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "AI恋愛サービス企業への潜入調査で、急成長の裏に潜む問題を暴いていく。",
+      "compatibility": "",
+      "totalPages": 60,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-08",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0041",
+      "subTotalPages": 9
+    },
+    {
+      "id": "1772801896661_6d9a4ba9be1518",
+      "title": "件名 : 恋人を×してください",
+      "author": "9o6",
+      "introUrl": "https://note.com/9o6/n/n185069dc5771",
+      "startUrl": "https://k9o6.shop/",
+      "url": "https://k9o6.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人からのメール。件名は「恋人を探してください」。添えられたリンクには「俺は今日死ぬ」と書かれたブログ。",
+      "compatibility": "",
+      "totalPages": 16,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-10",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772801969876_57dfa259bfc838",
+      "title": "サンタさんとおしゃべりしよう！",
+      "author": "御酒よい",
+      "introUrl": "https://note.com/kawaiiosaka41/n/n1ba02c9d94c0",
+      "startUrl": "https://merrygift444.shop/",
+      "url": "https://merrygift444.shop/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "返答するサンタサイトで正しい挨拶の条件を探り、隠れた意味に迫る。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-10"
+    },
+    {
+      "id": "1772802027717_c639b83d492e98",
+      "title": "中古PCにご注意を",
+      "author": "まよありあ",
+      "introUrl": "https://note.com/mayo_aria/n/n673f48dc4de6",
+      "startUrl": "https://nonoharaarea.shop/top.html",
+      "url": "https://nonoharaarea.shop/top.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "中古PCに残されたデータから、前所有者にまつわる不穏な痕跡を辿る。",
+      "compatibility": "",
+      "totalPages": 24,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-10"
+    },
+    {
+      "id": "1772802091836_a11a52817eeb5",
+      "title": "とある箱について",
+      "author": "Ly_FAWNSYSTEM",
+      "introUrl": "https://note.com/ly_fawnsystem/n/nb1a5e6ece39c",
+      "startUrl": "https://fawnsystem.shop/box/mail.html",
+      "url": "https://fawnsystem.shop/box/mail.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人が示した都市伝説を追ってサイトを巡り、最終ページを目指す。",
+      "compatibility": "",
+      "totalPages": 15,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-10",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772802167892_fc0661b22cc8c",
+      "title": "Re:Colledtion α　前途洋々",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/n8d313c83d8dd",
+      "startUrl": "https://neocities.stars.ne.jp/zentoyoyo/index.html",
+      "url": "https://neocities.stars.ne.jp/zentoyoyo/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "大学時代の友の失踪と訃報を手掛かりに、止まった関係の時間を辿る。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11"
+    },
+    {
+      "id": "1772802227373_9de8a1718dc178",
+      "title": "BACK GROUND",
+      "author": "RANK22",
+      "introUrl": "https://note.com/due_rank22/n/n23aebbf9332f",
+      "startUrl": "http://www.rank22.shop/blog.html",
+      "url": "http://www.rank22.shop/blog.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "あらゆる写真、物の【背景の記録】を見られる謎のデバイスを体験する。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-05"
+    },
+    {
+      "id": "1772802322708_fbbae44bdd8f68",
+      "title": "#みんなで特定ゲーム ーここはどこ？ー",
+      "author": "アンダーフレーム・Ｅ",
+      "introUrl": "https://note.com/underframe_e/n/n655276804929",
+      "startUrl": "https://whereareyou.halfmoon.jp/",
+      "url": "https://whereareyou.halfmoon.jp/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "写真の断片情報を頼りに、場所を推理して特定していく連続問題集。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11"
+    },
+    {
+      "id": "1772802377351_15fe2463008a78",
+      "title": "アレキサンドライトの疑惑",
+      "author": "黒埜棗",
+      "introUrl": "https://note.com/kurononatsume/n/na5063ded5414",
+      "startUrl": "https://chronoclebook.jp/content/uranai/index.html",
+      "url": "https://chronoclebook.jp/content/uranai/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "高精度すぎる占いサイトと変わった友人の様子から、背後の仕組みを探る。",
+      "compatibility": "",
+      "totalPages": 34,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772802529491_0673f97fe98328",
+      "title": "清く流れる",
+      "author": "茜",
+      "introUrl": "https://note.com/machine72462/n/n144e60bec13f",
+      "startUrl": "https://ss1324151.website/",
+      "url": "https://ss1324151.website/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "recommended",
+      "status": "active",
+      "shortDescription": "財政再建中の村で担当官が消えた経緯を、公開情報の空白から追跡する。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11"
+    },
+    {
+      "id": "1772802742404_bfd20345aa6af",
+      "title": "戸口にあらわれなかったきみへ",
+      "author": "神馬藻　了（リョージィ）",
+      "introUrl": "http://www.onthedoorstep.shop/prologue.html",
+      "startUrl": "http://www.onthedoorstep.shop/prologue.html",
+      "url": "http://www.onthedoorstep.shop/prologue.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "戻らなかった友人のPCに残る暗号化データを解き、失踪前後の真相を追う。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11"
+    },
+    {
+      "id": "1772802797419_7921e059ab52d8",
+      "title": "今日のバイトは妖精のエサやり",
+      "author": "いっぱく",
+      "introUrl": "https://note.com/ippaku_u/n/nc3b2d3815f5d",
+      "startUrl": "https://feed4031.ippaku.shop/feedstart.html",
+      "url": "https://feed4031.ippaku.shop/feedstart.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "隔離飼育施設で餌やりを続ける中、奇妙な生物と職場の違和感が浮かび上がる。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-11"
+    },
+    {
+      "id": "1772802856564_247bbb0c34c64",
+      "title": "2015年の【連続不審死事件】を知っていますか？",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/n81f3e4c10507",
+      "startUrl": "https://transmitter.sakura.ne.jp/graybox/",
+      "url": "https://transmitter.sakura.ne.jp/graybox/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "招待されたクラウドストレージを起点に、連続不審死事件の手掛かりを追う。",
+      "compatibility": "",
+      "totalPages": 16,
+      "sortTitle": "にせんじゅうごねんのれんぞくふしんしじけんをしっていますか",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-12",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0033",
+      "subTotalPages": 1,
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772802948027_f675d1fbd1a1d",
+      "title": "恋人捜索依頼　～美術館の怪～",
+      "author": "椚木",
+      "introUrl": "https://note.com/kunugi77/n/n5e8094c41b36",
+      "startUrl": "https://kunugi77.stars.ne.jp/ProjectSun/index.html",
+      "url": "https://kunugi77.stars.ne.jp/ProjectSun/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "「組織」の新人として、依頼主の恋人の捜索任務を開始する。が、依頼主は恋人の名前を覚えていないという。",
+      "compatibility": "",
+      "totalPages": 62,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-01-15"
+    },
+    {
+      "id": "1772803008486_dd2e22ac9e2248",
+      "title": "三人組アイドルEIDOLieは■■なのか",
+      "author": "いさかわ",
+      "introUrl": "https://note.com/yoryormary/n/nd294bb426fb1",
+      "startUrl": "https://yoryormary.com/eidoLie/index.html",
+      "url": "https://yoryormary.com/eidoLie/index.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "同日に別々の場所で死亡した三人組アイドルの真相を、公開情報から探る。ゲーム内に便利なリスト・メモ機能あり。",
+      "compatibility": "",
+      "totalPages": 43,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-03",
+      "subTotalPages": 1,
+      "estPlayHours": {
+        "normalMin": 2.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772803153555_e980d6c7bf69a8",
+      "title": "チャット型ARG「Baby-X」",
+      "author": "Chirue",
+      "introUrl": "https://note.com/chirue_creates/n/na7cb69778225",
+      "startUrl": "https://baby-x-nine.vercel.app/ja",
+      "url": "https://baby-x-nine.vercel.app/ja",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "胎児と会話できる新サービスを体験する。特殊なページのため、本ツールは非対応です。",
+      "compatibility": "not_recommended",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-14",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0037"
+    },
+    {
+      "id": "1772803275763_dddc5a289abd5",
+      "title": "アセビ現像センター",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/n58742dfdc358",
+      "startUrl": "https://transmitter.sakura.ne.jp/asebi/items/7999997/",
+      "url": "https://transmitter.sakura.ne.jp/asebi/items/7999997/",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "限定公開の現像ショップに並ぶ特殊商品を手掛かりに、依頼の背景を読み解く。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-21",
+      "estPlayHours": {
+        "normalMin": 0.25,
+        "normalMax": 0.75,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1772805415449_f0f88bc0ffe29",
+      "title": "神サプリ解明案件",
+      "author": "sim3",
+      "introUrl": "https://note.com/sim/n/n2d79ecaa3ebe",
+      "startUrl": "https://www.kariya.jp/",
+      "url": "https://www.kariya.jp/",
+      "categories": [],
+      "playStyleTags": [
+        "長編"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "非公開サプリ成分の原材料と供給経路を、企業サイトへの潜入調査で明らかにしていく。",
+      "compatibility": "",
+      "totalPages": 133,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-07-21"
+    },
+    {
+      "id": "1772805520099_7f531fb6deb0a8",
+      "title": "ネトゲ異常案件",
+      "author": "sim3",
+      "introUrl": "https://note.com/sim/n/nb2c407b2eafa",
+      "startUrl": "https://banditgames.jp/",
+      "url": "https://banditgames.jp/",
+      "categories": [],
+      "playStyleTags": [
+        "長編"
+      ],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "放置されたMMORPGで横行するチート疑惑を追い、不正アカウントの実態を探る。",
+      "compatibility": "",
+      "totalPages": 120,
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-04-20"
+    },
+    {
+      "id": "1772805558186_adff1c9a623ca8",
+      "title": "マインドインスペクター",
+      "author": "sim3",
+      "introUrl": "https://note.com/sim/n/n4d6e51ebda7e",
+      "startUrl": "https://www.mid-portal.jp/",
+      "url": "https://www.mid-portal.jp/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "記憶を国家管理する時代に、精神データ閲覧を通じて事件の核心へ踏み込む。",
+      "compatibility": "",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-10-18"
+    },
+    {
+      "id": "1772805959400_196a2f08275e5",
+      "title": "カレキニハナヲ",
+      "author": "UnitSIM3",
+      "introUrl": "https://note.com/sim/n/nd5e97ca97c93",
+      "startUrl": "https://www.ninecat.jp/kyle/",
+      "url": "https://www.ninecat.jp/kyle/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "香歴町で失踪した友人の捜索、という依頼を受け、サポートシステムKYLEとともに調査に乗り出す。",
+      "compatibility": "",
+      "totalPages": 120,
+      "addedAt": "2026-03-06",
+      "publishedAt": "2026-03-06",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0003"
+    },
+    {
+      "id": "1772806486552_2ecd6c24257828",
+      "title": "2泊14日の旅",
+      "author": "岡 鉄郎",
+      "introUrl": "https://note.com/oka_tetsuro/n/nac624ab4c963",
+      "startUrl": "https://codex-machina.org/soudablog-shinji-k7m2x9/",
+      "url": "https://codex-machina.org/soudablog-shinji-k7m2x9/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "妻失踪を綴った削除済みブログのアーカイブを読み解く。前編無料。後編は500円。",
+      "compatibility": "",
+      "sortTitle": "にはくじゅうよっかのたび",
+      "addedAt": "2026-03-06",
+      "publishedAt": "2026-02-28",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0023"
+    },
+    {
+      "id": "1772806641849_91a8355c69d0d8",
+      "title": "愛宝学園かがみの特殊少年更生施設",
+      "author": "第四境界",
+      "introUrl": "https://kagamino-jrep.net/",
+      "startUrl": "https://kagamino-jrep.net/",
+      "url": "https://kagamino-jrep.net/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "再犯率0％を掲げる更生施設サイトを調べ、隠された深い闇を探る。",
+      "compatibility": "",
+      "totalPages": 127,
+      "addedAt": "2026-03-06",
+      "publishedAt": "2024-04-01"
+    },
+    {
+      "id": "1774418118890_92ee9d53b599e8",
+      "title": "《閲覧注意_残響》",
+      "author": "霊域探査室",
+      "introUrl": "https://note.com/reiki_files/n/nfc3028373268",
+      "startUrl": "https://miyama-photocontest.r-eo.com/index.html",
+      "url": "https://miyama-photocontest.r-eo.com/index.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "展示で観覧者が錯乱した受賞写真「夏の残響」の異常原因を追う。",
+      "compatibility": "",
+      "totalPages": 40,
+      "sortTitle": "えつらんちゅういざんきょう",
+      "addedAt": "2026-03-25",
+      "publishedAt": "2025-12-07",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0027",
+      "estPlayHours": {
+        "normalMin": 4,
+        "normalMax": 6,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1774612406791_109f85372e8ad",
+      "title": "声は水音にかき消され",
+      "author": "Fiction Hole",
+      "introUrl": "https://fictionhole.pages.dev/arg/koemizu/",
+      "startUrl": "https://soliy.pages.dev/user/sae0620",
+      "url": "https://soliy.pages.dev/user/sae0620",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "日常投稿の裏に埋もれた声を追い、九月上旬の出来事の手掛かりを集める。",
+      "compatibility": "full",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-01-22",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0036",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1.5,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1774615569363_ac1e9b9e879358",
+      "title": "【もしもラボ】思考実験ベースのミニ性格診断",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/ndc83f17d11d7",
+      "startUrl": "https://transmitter.sakura.ne.jp/te/",
+      "url": "https://transmitter.sakura.ne.jp/te/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "五つの質問で進む診断ページをたどり、隠れた謎を読み解く。特殊なページのため非推奨です。",
+      "compatibility": "not_recommended",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-02-01",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0034"
+    },
+    {
+      "id": "1774615954474_195ca88cb3794",
+      "title": "【ARG】についてのアンケート",
+      "author": "しょん",
+      "introUrl": "https://note.com/shon_0_/n/nf84bd033aa79",
+      "startUrl": "https://enquete.shop/home.html",
+      "url": "https://enquete.shop/home.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "悩めるARG制作者さんのアンケートに答えてあげましょう。",
+      "compatibility": "",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-03-20",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0020"
+    },
+    {
+      "id": "1774616252794_3d4ff0f011e73",
+      "title": "その猫様、凶暴につき",
+      "author": "ねこだいすき",
+      "introUrl": "https://note.com/nekodaisukicat/n/ne75ee2656a75",
+      "startUrl": "https://catibalism.catfood.jp/meta/start_prologue.html",
+      "url": "https://catibalism.catfood.jp/meta/start_prologue.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人のペット探偵からの依頼で、突如凶暴になった猫の謎を探る。",
+      "compatibility": "",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2025-12-20",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0019"
+    },
+    {
+      "id": "1774616356209_5d2b8e48919048",
+      "title": "万年桜菓子専門店 千夜桜",
+      "author": "恵稀ヒロ",
+      "introUrl": "https://note.com/megumimahiro/n/nd5041c4f137c",
+      "startUrl": "https://senyazakura.com/",
+      "url": "https://senyazakura.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "ふと見つけたオカルトサークルのブログに載っていた失踪者のメッセージから、とある菓子販売店のサイトに辿り着く。",
+      "compatibility": "",
+      "totalPages": 42,
+      "addedAt": "2026-03-27",
+      "publishedAt": "2025-09-22",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0018",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1774616583184_a710bc43b1f0f",
+      "title": "お部屋パズル Room sweeper",
+      "author": "Xari",
+      "introUrl": "https://note.com/subana/n/n26ec6540613e",
+      "startUrl": "https://room-sweeper.pages.dev/",
+      "url": "https://room-sweeper.pages.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "このお部屋パズル、何か変…",
+      "compatibility": "",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-03-13",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0011"
+    },
+    {
+      "id": "1774616772801_6784ea4b7d03",
+      "title": "芋煮より美味い！？なぜか幻の郷土料理「ままだま汁」を作ろう【山形】",
+      "author": "戸部マミヤ",
+      "introUrl": "https://omocoro.jp/kiji/555756/",
+      "startUrl": "https://omocoro.jp/kiji/555756/",
+      "url": "https://omocoro.jp/kiji/555756/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "奇妙な郷土料理記事を入口に、不自然さの正体を探っていく。",
+      "compatibility": "",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-03-18",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0010"
+    },
+    {
+      "id": "1774617113144_e15529912db89",
+      "title": "Loveクイズ",
+      "author": "ikempty",
+      "introUrl": "https://note.com/ikempty/n/n9d97f8419949",
+      "startUrl": "https://love-quiz-arg.com/",
+      "url": "https://love-quiz-arg.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "話題の対戦クイズを遊んでいるあなたに、特別な招待が届く。「レストラン CONFORME」の続編です。",
+      "compatibility": "",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-03-06",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0008",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1774618085847_d3072751d37f2",
+      "title": "レストラン CONFORME",
+      "author": "ikempty",
+      "introUrl": "https://note.com/ikempty/n/n2d7ad2ea12f1",
+      "startUrl": "https://conforme-restaurant.com/",
+      "url": "https://conforme-restaurant.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "紹介制レストラン訪問後に失蹤した友人の手掛かりを、残されたサイトから探る。",
+      "compatibility": "",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-02-05",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0006"
+    },
+    {
+      "id": "1775054925062_ea0f49881c0c68",
+      "title": "孤島のデスゲームを終わらせてください",
+      "author": "sio",
+      "introUrl": "https://note.com/siosiorrr/n/n8f48d0518111",
+      "startUrl": "https://siosaigame.sakura.ne.jp/arg3/name.html",
+      "url": "https://siosaigame.sakura.ne.jp/arg3/name.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "謎のファイルを手がかりに、孤島デスゲーム小説の裏側を追う調査が始まる。",
+      "compatibility": "",
+      "totalPages": 45,
+      "addedAt": "2026-04-01",
+      "publishedAt": "2026-03-29",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0045"
+    },
+    {
+      "id": "1775055039774_e582085d25b5c8",
+      "title": "【あああch】オカルトスレを騒がせた 「ダムに沈んだ村から届いた手紙」",
+      "author": "sio",
+      "introUrl": "https://note.com/siosiorrr/n/n923ba1d640c3",
+      "startUrl": "https://siosaigame.sakura.ne.jp/arg2/warning.html",
+      "url": "https://siosaigame.sakura.ne.jp/arg2/warning.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "進行する掲示板スレッドを追いながら、古い手紙と水没した村の謎を調査する。",
+      "compatibility": "",
+      "addedAt": "2026-04-01",
+      "publishedAt": "2026-03-05",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0044"
+    },
+    {
+      "id": "1775055132693_bfa6f12b3f4a78",
+      "title": "高校心中 ー女教師心中事件ー",
+      "author": "sio",
+      "introUrl": "https://note.com/siosiorrr/n/n50a81c26f45d",
+      "startUrl": "https://siosiorrr.wixsite.com/siosaiarg/shinjuuirai",
+      "url": "https://siosiorrr.wixsite.com/siosaiarg/shinjuuirai",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "女教師と新入生の不可解な心中事件を、残された痕跡から検証していく。",
+      "compatibility": "",
+      "totalPages": 40,
+      "addedAt": "2026-04-01",
+      "publishedAt": "2026-01-06",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0043"
+    },
+    {
+      "id": "1775055239246_2ddf83b1b221d",
+      "title": "黒鳥探偵事務所 case1的場幸次郎",
+      "author": "山田太郎",
+      "introUrl": "https://note.com/yamataro_1010/n/n2cd97fc64573",
+      "startUrl": "https://yamataro.fem.jp/ARG/kaisya/tyousa/",
+      "url": "https://yamataro.fem.jp/ARG/kaisya/tyousa/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "同級生にかかった容疑の真偽を確かめるため、死亡事件の資料を読み解いていく。",
+      "compatibility": "",
+      "addedAt": "2026-04-01",
+      "publishedAt": "2026-03-29",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0042"
+    },
+    {
+      "id": "1775305424531_056207b283f0c8",
+      "title": "デバッグルーム404",
+      "author": "masaki",
+      "introUrl": "https://note.com/4_5matworks/n/n6e8ddcad9953",
+      "startUrl": "https://debugroom404.com/",
+      "url": "https://debugroom404.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "謎の部屋で目覚めた主人公を導き、選択と探索で歪んだ世界の正体に迫る。",
+      "compatibility": "",
+      "totalPages": 182,
+      "addedAt": "2026-04-04",
+      "publishedAt": "2026-04-01",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0046"
+    },
+    {
+      "id": "1775305504411_1bc742f1c149b8",
+      "title": "#都市伝説のXし方",
+      "author": "UnitSIM3",
+      "introUrl": "https://note.com/sim/n/nded84ab9c0ec",
+      "startUrl": "https://tlos-tk.com/agent_register.html",
+      "url": "https://tlos-tk.com/agent_register.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "秘密組織に潜入し、「トイレの花子さん」消滅の真相を追う。S4KU氏の霊域探査室シリーズ作品です。",
+      "compatibility": "",
+      "addedAt": "2026-04-04",
+      "publishedAt": "2026-04-02",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0047"
+    },
+    {
+      "id": "1775556390392_048839175d66c",
+      "title": "PROJECT_AMALGAM",
+      "author": "ドロール・ワタリガラス",
+      "introUrl": "https://note.com/droll/n/n4c2786c8a9c0",
+      "startUrl": "https://black-meadow-42e4.takaheroonisan.workers.dev/",
+      "url": "https://black-meadow-42e4.takaheroonisan.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "新種生物テラを売る企業サイトを調査し、秘密を解き明かす。",
+      "compatibility": "",
+      "totalPages": 47,
+      "addedAt": "2026-04-07",
+      "publishedAt": "2026-02-24"
+    }
+  ]
+}

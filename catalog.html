@@ -1,0 +1,772 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ARG Trail Dock - ARG Game Catalog</title>
+  <style>
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      background: #0f1115;
+      color: #e7eaf0;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+    .wrap {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 16px;
+      display: grid;
+      gap: 10px;
+    }
+    .head {
+      border: 1px solid #222837;
+      border-radius: 10px;
+      background: #151925;
+      padding: 12px;
+      display: grid;
+      gap: 8px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 20px;
+    }
+    .meta {
+      font-size: 12px;
+      opacity: 0.85;
+    }
+    .catalogFilterRow {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .catalogSortRow {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .catalogSortLabel {
+      font-size: 12px;
+      opacity: 0.88;
+      white-space: nowrap;
+    }
+    input, select, button {
+      background: #0f1115;
+      border: 1px solid #222837;
+      color: #e7eaf0;
+      border-radius: 10px;
+      padding: 8px 10px;
+      font-size: 13px;
+      box-sizing: border-box;
+    }
+    button {
+      background: #2a3550;
+      border-color: #3a4768;
+      cursor: pointer;
+    }
+    .sortBtn {
+      padding: 6px 10px;
+      font-size: 12px;
+      background: #1a2236;
+    }
+    .sortBtn.active {
+      background: #3a4f86;
+      border-color: #6b88ff;
+      box-shadow: 0 0 0 2px rgba(90, 119, 255, 0.2);
+    }
+    button.secondary { background: #1a2236; }
+    button:hover { filter: brightness(1.1); }
+    .catalogFilterRow input[type="search"] {
+      width: min(420px, 100%);
+      flex: 1 1 320px;
+    }
+    .catalogFilterRow .catalogSearchMode {
+      width: auto;
+      min-width: 132px;
+    }
+    .catalogFilterRow .catalogPlayStyleMode {
+      width: auto;
+      min-width: 144px;
+    }
+    .catalogNewOnlyWrap,
+    .catalogRecOnlyWrap,
+    .catalogNewDaysWrap {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .catalogNewOnlyWrap input,
+    .catalogRecOnlyWrap input {
+      width: 14px !important;
+      height: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .catalogNewDaysInput {
+      width: 84px !important;
+    }
+    .catalogResetBtn {
+      flex: 0 0 auto;
+      white-space: nowrap;
+    }
+    .msg {
+      font-size: 12px;
+      opacity: 0.9;
+      min-height: 1.4em;
+    }
+    .catalogList {
+      display: grid;
+      gap: 8px;
+      align-content: start;
+      grid-auto-rows: min-content;
+    }
+    .catalogCard {
+      border: 1px solid #222837;
+      border-radius: 10px;
+      background: #121625;
+      padding: 10px;
+      display: grid;
+      gap: 6px;
+      min-height: 88px;
+    }
+    .catalogCard.catalogCatBootcamp1 {
+      box-shadow: inset 4px 0 0 #4f8cff;
+    }
+    .catalogCard.catalogCatBootcamp2 {
+      box-shadow: inset 4px 0 0 #ff9c4f;
+    }
+    .catalogTitleRow {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 8px;
+      min-width: 0;
+    }
+    .catalogTitle {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .catalogTitleSep {
+      opacity: 0.72;
+      flex: 0 0 auto;
+    }
+    .catalogAuthorLink {
+      appearance: none;
+      -webkit-appearance: none;
+      background: transparent;
+      border: 0;
+      color: #9fb7ff;
+      font: inherit;
+      padding: 0;
+      margin: 0;
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      white-space: nowrap;
+      flex: 0 0 auto;
+    }
+    .catalogAuthorLink:hover {
+      color: #c5d4ff;
+    }
+    .catalogCategory {
+      font-size: 11px;
+      opacity: 0.8;
+      border: 1px solid #2c364d;
+      border-radius: 999px;
+      padding: 2px 8px;
+      flex: 0 0 auto;
+      margin-left: auto;
+      cursor: pointer;
+    }
+    .catalogCard.catalogCatBootcamp1 .catalogCategory {
+      border-bottom: 2px solid #4f8cff;
+    }
+    .catalogCard.catalogCatBootcamp2 .catalogCategory {
+      border-bottom: 2px solid #ff9c4f;
+    }
+    .catalogCuratorBadge {
+      font-size: 11px;
+      font-weight: 700;
+      color: #ffe8ab;
+      border: 1px solid #8a6a1f;
+      background: #3b2f10;
+      border-radius: 999px;
+      padding: 2px 8px;
+      flex: 0 0 auto;
+    }
+    .catalogNewBadge {
+      font-size: 11px;
+      font-weight: 700;
+      color: #ffdddd;
+      border: 1px solid #a24848;
+      background: #4c1f1f;
+      border-radius: 999px;
+      padding: 2px 8px;
+      flex: 0 0 auto;
+    }
+    .catalogSummaryRow {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+    .catalogStyleTags {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      flex: 0 0 auto;
+    }
+    .catalogStyleTag {
+      display: inline-flex;
+      align-items: center;
+      font-size: 11px;
+      border: 1px solid #3b4d74;
+      color: #d8e4ff;
+      background: #1a2640;
+      border-radius: 999px;
+      padding: 2px 8px;
+      white-space: nowrap;
+    }
+    .catalogDesc {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 12px;
+      opacity: 0.88;
+    }
+    .catalogUrl {
+      color: #9fb7ff;
+      text-decoration: none;
+      overflow-wrap: anywhere;
+      font-size: 13px;
+    }
+    .catalogUrl:hover {
+      text-decoration: underline;
+    }
+    .catalogLinkRow {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+    .catalogLinkGroup {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+    .catalogLinkGroup .catalogUrl {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+    .catalogPortalBtn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      line-height: 1.2;
+      color: #d8e4ff;
+      text-decoration: none;
+      background: #1a2236;
+      border: 1px solid #3a4768;
+      border-radius: 999px;
+      padding: 4px 10px;
+      white-space: nowrap;
+      flex: 0 0 auto;
+    }
+    .catalogPortalBtn:hover {
+      text-decoration: none;
+      filter: brightness(1.1);
+    }
+    .catalogDateMeta {
+      font-size: 11px;
+      opacity: 0.78;
+      white-space: nowrap;
+      text-align: right;
+      min-width: 228px;
+      flex: 0 0 228px;
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="head">
+      <h1>ARG Trail Dock - ARGゲームカタログ</h1>
+      <div id="meta" class="meta">読み込み前</div>
+      <div class="catalogFilterRow">
+        <input id="searchInput" type="search" placeholder="タイトル/説明/カテゴリで絞り込み" />
+        <select id="searchModeSelect" class="catalogSearchMode">
+          <option value="all">検索: すべて</option>
+          <option value="title">検索: タイトル</option>
+          <option value="author">検索: 作者</option>
+          <option value="meta">検索: カテゴリ/タグ</option>
+          <option value="desc">検索: 説明</option>
+        </select>
+        <select id="playStyleSelect" class="catalogPlayStyleMode">
+          <option value="">スタイル: すべて</option>
+          <option value="初心者向け">スタイル: 初心者向け</option>
+          <option value="短編">スタイル: 短編</option>
+          <option value="長編">スタイル: 長編</option>
+        </select>
+        <label class="catalogNewOnlyWrap">
+          <input id="newOnlyCheck" type="checkbox" />
+          <span>NEWのみ</span>
+        </label>
+        <label class="catalogRecOnlyWrap">
+          <input id="recOnlyCheck" type="checkbox" />
+          <span>おすすめのみ</span>
+        </label>
+        <label class="catalogNewDaysWrap">
+          <span>NEW日数</span>
+          <input id="newDaysInput" class="catalogNewDaysInput" type="number" min="1" max="3650" step="1" value="30" />
+        </label>
+        <button id="btnResetFilters" class="secondary catalogResetBtn" type="button">リセット</button>
+      </div>
+      <div class="catalogSortRow">
+        <span class="catalogSortLabel">並び順:</span>
+        <button id="btnSortTitle" class="sortBtn active" type="button">タイトル順</button>
+        <button id="btnSortPublishedAt" class="sortBtn" type="button">公開日順</button>
+        <button id="btnSortAddedAt" class="sortBtn" type="button">追加日順</button>
+      </div>
+      <div id="msg" class="msg"></div>
+      <div class="meta">非公式の個人運用カタログです。掲載情報の完全性・最新性・正確性は保証されません。</div>
+    </section>
+    <section id="list" class="catalogList"></section>
+  </main>
+
+  <script>
+    "use strict";
+
+    const DEFAULT_NEW_DAYS = 30;
+    const NEW_DAYS_STORAGE_KEY = "arg_trail_dock_catalog_new_days";
+
+    const els = {
+      meta: document.getElementById("meta"),
+      msg: document.getElementById("msg"),
+      list: document.getElementById("list"),
+      searchInput: document.getElementById("searchInput"),
+      searchModeSelect: document.getElementById("searchModeSelect"),
+      playStyleSelect: document.getElementById("playStyleSelect"),
+      newOnlyCheck: document.getElementById("newOnlyCheck"),
+      recOnlyCheck: document.getElementById("recOnlyCheck"),
+      newDaysInput: document.getElementById("newDaysInput"),
+      btnResetFilters: document.getElementById("btnResetFilters"),
+      btnSortTitle: document.getElementById("btnSortTitle"),
+      btnSortAddedAt: document.getElementById("btnSortAddedAt"),
+      btnSortPublishedAt: document.getElementById("btnSortPublishedAt"),
+    };
+
+    let allItems = [];
+    let queryText = "";
+    let queryMode = "all";
+    let filterNewOnly = false;
+    let filterPlayStyle = "";
+    let filterRecommendedOnly = false;
+    let newBadgeDays = DEFAULT_NEW_DAYS;
+    let sortMode = "title";
+
+    function toText(value) {
+      return String(value ?? "").trim();
+    }
+
+    function makeEl(tag, className, text) {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (typeof text === "string") node.textContent = text;
+      return node;
+    }
+
+    function toTitleSortKey(value) {
+      return String(value ?? "")
+        .normalize("NFKC")
+        .trim()
+        .replace(/^[\s"'`“”‘’「」『』【】()（）\[\]{}<>＜＞!！?？#＃*＊・:：;；,，.．\/／\\＿_ー-]+/u, "")
+        .toLowerCase();
+    }
+
+    function parseAddedAtMs(value) {
+      const s = toText(value);
+      if (!s) return null;
+      const m = s.match(/^(\d{4})[-\/](\d{1,2})[-\/](\d{1,2})$/);
+      if (m) {
+        const y = Number(m[1]);
+        const mo = Number(m[2]) - 1;
+        const d = Number(m[3]);
+        const local = new Date(y, mo, d, 0, 0, 0, 0).getTime();
+        return Number.isFinite(local) ? local : null;
+      }
+      const t = Date.parse(s);
+      return Number.isFinite(t) ? t : null;
+    }
+
+    function toDateDisplay(value) {
+      const s = toText(value);
+      if (!s) return "—";
+      const ymd = s.match(/^(\d{4})[-\/](\d{1,2})[-\/](\d{1,2})$/);
+      if (ymd) {
+        const y = ymd[1];
+        const m = String(Number(ymd[2])).padStart(2, "0");
+        const d = String(Number(ymd[3])).padStart(2, "0");
+        return `${y}-${m}-${d}`;
+      }
+      const t = Date.parse(s);
+      if (!Number.isFinite(t)) return s;
+      const dt = new Date(t);
+      const y = dt.getFullYear();
+      const m = String(dt.getMonth() + 1).padStart(2, "0");
+      const d = String(dt.getDate()).padStart(2, "0");
+      return `${y}-${m}-${d}`;
+    }
+
+    function updateSortButtons() {
+      const pairs = [
+        [els.btnSortTitle, "title"],
+        [els.btnSortAddedAt, "addedAt"],
+        [els.btnSortPublishedAt, "publishedAt"],
+      ];
+      for (const [btn, mode] of pairs) {
+        if (!btn) continue;
+        btn.classList.toggle("active", sortMode === mode);
+      }
+    }
+
+    function isNewItem(item) {
+      const ms = parseAddedAtMs(item?.addedAt);
+      if (!Number.isFinite(ms)) return false;
+      const elapsed = Date.now() - ms;
+      const windowMs = Math.max(1, Number(newBadgeDays || DEFAULT_NEW_DAYS)) * 24 * 60 * 60 * 1000;
+      return elapsed >= 0 && elapsed <= windowMs;
+    }
+
+    function readNewDaysSetting() {
+      try {
+        const raw = localStorage.getItem(NEW_DAYS_STORAGE_KEY);
+        const n = Number(raw);
+        if (Number.isFinite(n) && n >= 1 && n <= 3650) return Math.floor(n);
+      } catch {}
+      return DEFAULT_NEW_DAYS;
+    }
+
+    function writeNewDaysSetting(value) {
+      try {
+        localStorage.setItem(NEW_DAYS_STORAGE_KEY, String(value));
+      } catch {}
+    }
+
+    function asHttpUrl(value) {
+      const s = toText(value);
+      if (!s) throw new Error("empty_url");
+      const u = new URL(s);
+      if (u.protocol !== "http:" && u.protocol !== "https:") throw new Error("invalid_protocol");
+      return u.toString();
+    }
+
+    function normalizeItems(payload) {
+      const src = Array.isArray(payload)
+        ? payload
+        : (payload && typeof payload === "object" && Array.isArray(payload.items) ? payload.items : []);
+      const out = [];
+      for (const row of src) {
+        if (!row || typeof row !== "object") continue;
+        const title = toText(row.title);
+        const introRaw = toText(row.introUrl || row.url);
+        const startRaw = toText(row.startUrl || row.url);
+        if (!title || !introRaw || !startRaw) continue;
+        let introUrl = "";
+        let startUrl = "";
+        let portalUrl = "";
+        try {
+          introUrl = asHttpUrl(introRaw);
+          startUrl = asHttpUrl(startRaw);
+        } catch {
+          continue;
+        }
+        try {
+          portalUrl = row.portalUrl ? asHttpUrl(row.portalUrl) : "";
+        } catch {
+          portalUrl = "";
+        }
+        out.push({
+          id: toText(row.id || introUrl),
+          title,
+          sortTitle: toText(row.sortTitle),
+          status: (() => {
+            const s = toText(row.status).toLowerCase();
+            return (s === "suspended" || s === "removed") ? s : "active";
+          })(),
+          author: toText(row.author),
+          introUrl,
+          startUrl,
+          portalUrl,
+          shortDescription: toText(row.shortDescription),
+          category: toText(row.category),
+          categories: Array.isArray(row.categories) ? row.categories.map(toText).filter(Boolean) : [],
+          playStyleTags: Array.isArray(row.playStyleTags) ? row.playStyleTags.map(toText).filter(Boolean) : [],
+          curatorBadge: toText(row.curatorBadge),
+          addedAt: toText(row.addedAt || row.added),
+          publishedAt: toText(row.publishedAt),
+        });
+      }
+      return out;
+    }
+
+    function getFilteredItems() {
+      const rows = !queryText
+        ? allItems.slice()
+        : allItems.filter((item) => {
+          const title = `${item.title}`.toLowerCase();
+          const author = `${item.author}`.toLowerCase();
+          const desc = `${item.shortDescription}`.toLowerCase();
+          const meta = `${item.category} ${(item.categories ?? []).join(" ")} ${(item.playStyleTags ?? []).join(" ")} ${item.curatorBadge ?? ""}`.toLowerCase();
+          if (queryMode === "title") return title.includes(queryText);
+          if (queryMode === "author") return author.includes(queryText);
+          if (queryMode === "meta") return meta.includes(queryText);
+          if (queryMode === "desc") return desc.includes(queryText);
+          return `${title} ${author} ${desc} ${meta}`.includes(queryText);
+        });
+
+      const onlyActive = rows.filter((item) => String(item.status ?? "active") === "active");
+      let filtered = filterNewOnly ? onlyActive.filter((item) => isNewItem(item)) : onlyActive;
+      if (filterPlayStyle) {
+        filtered = filtered.filter((item) => (item.playStyleTags ?? []).some((t) => String(t ?? "").trim() === filterPlayStyle));
+      }
+      if (filterRecommendedOnly) {
+        filtered = filtered.filter((item) => String(item.curatorBadge ?? "").trim() === "recommended");
+      }
+      if (sortMode === "addedAt") {
+        filtered.sort((a, b) => {
+          const ams = parseAddedAtMs(a.addedAt);
+          const bms = parseAddedAtMs(b.addedAt);
+          if (Number.isFinite(ams) && Number.isFinite(bms)) return bms - ams;
+          if (Number.isFinite(ams)) return -1;
+          if (Number.isFinite(bms)) return 1;
+          const ak = toTitleSortKey(a.sortTitle || a.title);
+          const bk = toTitleSortKey(b.sortTitle || b.title);
+          return ak.localeCompare(bk, "ja", { numeric: true, sensitivity: "base" });
+        });
+      } else if (sortMode === "publishedAt") {
+        filtered.sort((a, b) => {
+          const ams = parseAddedAtMs(a.publishedAt);
+          const bms = parseAddedAtMs(b.publishedAt);
+          if (Number.isFinite(ams) && Number.isFinite(bms)) return bms - ams;
+          if (Number.isFinite(ams)) return -1;
+          if (Number.isFinite(bms)) return 1;
+          const ak = toTitleSortKey(a.sortTitle || a.title);
+          const bk = toTitleSortKey(b.sortTitle || b.title);
+          return ak.localeCompare(bk, "ja", { numeric: true, sensitivity: "base" });
+        });
+      } else {
+        filtered.sort((a, b) => {
+          const ak = toTitleSortKey(a.sortTitle || a.title);
+          const bk = toTitleSortKey(b.sortTitle || b.title);
+          const byKey = ak.localeCompare(bk, "ja", { numeric: true, sensitivity: "base" });
+          if (byKey !== 0) return byKey;
+          return String(a.title ?? "").localeCompare(String(b.title ?? ""), "ja", { numeric: true, sensitivity: "base" });
+        });
+      }
+      return filtered;
+    }
+
+    function renderList() {
+      els.list.replaceChildren();
+      const rows = getFilteredItems();
+      els.msg.textContent = `${allItems.length}件を読み込みました。（表示 ${rows.length}件）`;
+
+      if (!rows.length) {
+        els.list.appendChild(makeEl("div", "catalogDesc", allItems.length ? "条件に一致するゲームがありません。" : "表示できるゲームがありません。"));
+        return;
+      }
+
+      for (const item of rows) {
+        const card = makeEl("article", "catalogCard");
+        const head = makeEl("div", "catalogTitleRow");
+        const title = makeEl("strong", "catalogTitle", item.title);
+        head.appendChild(title);
+
+        if (item.author) {
+          const sep = makeEl("span", "catalogTitleSep", "/");
+          const authorBtn = makeEl("button", "catalogAuthorLink", item.author);
+          authorBtn.type = "button";
+          authorBtn.title = "作者で絞り込み";
+          authorBtn.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            const authorKey = toText(item.author).toLowerCase();
+            const isSameAuthorFilter = queryMode === "author" && queryText === authorKey;
+            if (isSameAuthorFilter) {
+              queryMode = "all";
+              queryText = "";
+              els.searchModeSelect.value = "all";
+              els.searchInput.value = "";
+            } else {
+              queryMode = "author";
+              queryText = authorKey;
+              els.searchModeSelect.value = "author";
+              els.searchInput.value = item.author;
+            }
+            renderList();
+          });
+          head.append(sep, authorBtn);
+        }
+
+        if (isNewItem(item)) {
+          head.appendChild(makeEl("span", "catalogNewBadge", "NEW"));
+        }
+        if (item.curatorBadge === "recommended") {
+          head.appendChild(makeEl("span", "catalogCuratorBadge", "おすすめ"));
+        }
+
+        const categoryText = item.category || (item.categories?.[0] ?? "");
+        const cats = [categoryText, ...(item.categories ?? [])]
+          .map((x) => toText(x))
+          .filter(Boolean);
+        if (cats.some((c) => c.includes("第1回Webミステリーブートキャンプ"))) {
+          card.classList.add("catalogCatBootcamp1");
+        } else if (cats.some((c) => c.includes("第2回Webミステリーブートキャンプ"))) {
+          card.classList.add("catalogCatBootcamp2");
+        }
+        if (categoryText) {
+          const cat = makeEl("span", "catalogCategory", categoryText);
+          cat.title = "カテゴリで絞り込み";
+          cat.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            const categoryKey = toText(categoryText).toLowerCase();
+            const isSameCategory = queryMode === "meta" && queryText === categoryKey;
+            if (isSameCategory) {
+              queryMode = "all";
+              queryText = "";
+              els.searchModeSelect.value = "all";
+              els.searchInput.value = "";
+            } else {
+              queryMode = "meta";
+              queryText = categoryKey;
+              els.searchModeSelect.value = "meta";
+              els.searchInput.value = categoryText;
+            }
+            renderList();
+          });
+          head.appendChild(cat);
+        }
+
+        const summary = makeEl("div", "catalogSummaryRow");
+        const tagWrap = makeEl("div", "catalogStyleTags");
+        for (const tagText of (item.playStyleTags ?? [])) {
+          tagWrap.appendChild(makeEl("span", "catalogStyleTag", tagText));
+        }
+        const desc = makeEl("div", "catalogDesc", item.shortDescription || "説明なし");
+        summary.append(tagWrap, desc);
+
+        const intro = makeEl("a", "catalogUrl", item.introUrl);
+        intro.href = item.introUrl;
+        intro.target = "_blank";
+        intro.rel = "noopener noreferrer";
+        intro.referrerPolicy = "no-referrer";
+        const linkGroup = makeEl("div", "catalogLinkGroup");
+        linkGroup.appendChild(intro);
+        if (item.portalUrl) {
+          const portal = makeEl("a", "catalogPortalBtn", "ポータル詳細");
+          portal.href = item.portalUrl;
+          portal.target = "_blank";
+          portal.rel = "noopener noreferrer";
+          portal.referrerPolicy = "no-referrer";
+          portal.title = "WebARGポータル(https://www.sim3.net/portal/)の詳細ページを開く";
+          linkGroup.appendChild(portal);
+        }
+        const linkRow = makeEl("div", "catalogLinkRow");
+        const dateMeta = makeEl("div", "catalogDateMeta", `ゲーム公開: ${toDateDisplay(item.publishedAt)} / カタログ追加: ${toDateDisplay(item.addedAt)}`);
+        linkRow.append(linkGroup, dateMeta);
+
+        card.append(head, summary, linkRow);
+        els.list.appendChild(card);
+      }
+    }
+
+    async function loadCatalog() {
+      els.msg.textContent = "読み込み中...";
+      try {
+        const res = await fetch("./catalog.public.json", { cache: "no-cache" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const payload = await res.json();
+        allItems = normalizeItems(payload);
+        const updatedAt = toText(payload?.updatedAt) || "不明";
+        els.meta.textContent = `件数: ${allItems.length} / 更新: ${updatedAt}`;
+        renderList();
+      } catch (e) {
+        allItems = [];
+        els.meta.textContent = "件数: 0 / 更新: 不明";
+        renderList();
+        els.msg.textContent = `読み込み失敗: ${e && e.message ? e.message : "unknown"}`;
+      }
+    }
+
+    els.searchInput.addEventListener("input", () => {
+      queryText = toText(els.searchInput.value).toLowerCase();
+      renderList();
+    });
+    els.searchModeSelect.addEventListener("change", () => {
+      queryMode = toText(els.searchModeSelect.value) || "all";
+      renderList();
+    });
+    els.newOnlyCheck.addEventListener("change", () => {
+      filterNewOnly = !!els.newOnlyCheck.checked;
+      renderList();
+    });
+    els.playStyleSelect.addEventListener("change", () => {
+      filterPlayStyle = toText(els.playStyleSelect.value);
+      renderList();
+    });
+    els.recOnlyCheck.addEventListener("change", () => {
+      filterRecommendedOnly = !!els.recOnlyCheck.checked;
+      renderList();
+    });
+    els.newDaysInput.addEventListener("change", () => {
+      const n = Number(els.newDaysInput.value);
+      newBadgeDays = Number.isFinite(n) && n >= 1 ? Math.floor(n) : DEFAULT_NEW_DAYS;
+      els.newDaysInput.value = String(newBadgeDays);
+      writeNewDaysSetting(newBadgeDays);
+      renderList();
+    });
+    els.btnResetFilters.addEventListener("click", () => {
+      queryText = "";
+      queryMode = "all";
+      filterNewOnly = false;
+      filterPlayStyle = "";
+      filterRecommendedOnly = false;
+      els.searchInput.value = "";
+      els.searchModeSelect.value = "all";
+      els.newOnlyCheck.checked = false;
+      els.playStyleSelect.value = "";
+      els.recOnlyCheck.checked = false;
+      renderList();
+      els.searchInput.focus();
+    });
+    els.btnSortTitle.addEventListener("click", () => {
+      sortMode = "title";
+      updateSortButtons();
+      renderList();
+    });
+    els.btnSortAddedAt.addEventListener("click", () => {
+      sortMode = "addedAt";
+      updateSortButtons();
+      renderList();
+    });
+    els.btnSortPublishedAt.addEventListener("click", () => {
+      sortMode = "publishedAt";
+      updateSortButtons();
+      renderList();
+    });
+    newBadgeDays = readNewDaysSetting();
+    els.newDaysInput.value = String(newBadgeDays);
+    updateSortButtons();
+    els.searchInput.focus();
+    void loadCatalog();
+  </script>
+</body>
+</html>
