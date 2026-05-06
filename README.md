@@ -5,3 +5,5 @@ ARG Trail Dock 用ゲームカタログ（公開版）
 catalog.html の閲覧は自由です。  
 catalog.public.json の単体利用（商用利用・再配布・転載・ミラー・改変物公開を含む）は禁止します。  
 掲載情報の正確性・完全性・最新性は保証しません。  
+
+公開カタログはこちら: [catalog.html](https://bsq4ac.github.io/arg-trail-dock-catalog/catalog.html)
