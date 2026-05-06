@@ -1,2 +1,7 @@
 # arg-trail-dock-catalog
 ARG Trail Dock 用ゲームカタログ（公開版）
+
+## 利用条件
+catalog.html の閲覧は自由です。
+catalog.public.json の単体利用（商用利用・再配布・転載・ミラー・改変物公開を含む）は禁止します。
+掲載情報の正確性・完全性・最新性は保証しません。
