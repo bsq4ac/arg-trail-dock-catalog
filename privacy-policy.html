@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ARG Trail Dock プライバシーポリシー</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f8fb;
+      --card: #ffffff;
+      --text: #1b2430;
+      --muted: #526077;
+      --border: #dbe2ef;
+      --accent: #2f5ae0;
+    }
+    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif; line-height: 1.7; }
+    .wrap { max-width: 860px; margin: 32px auto; padding: 0 16px; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+    h1 { margin: 0 0 8px; font-size: 26px; line-height: 1.35; }
+    h2 { margin: 24px 0 8px; font-size: 20px; line-height: 1.4; border-left: 4px solid var(--accent); padding-left: 8px; }
+    p { margin: 8px 0; }
+    ul { margin: 8px 0 8px 22px; padding: 0; }
+    li { margin: 4px 0; }
+    .meta { color: var(--muted); font-size: 14px; }
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <article class="card">
+      <h1>ARG Trail Dock プライバシーポリシー</h1>
+      <p class="meta">最終更新日: 2026-05-07</p>
+
+      <h2>1. 概要</h2>
+      <p>ARG Trail Dock（以下「本拡張」）は、ARGプレイ時の記録整理を補助するブラウザ拡張です。<br />
+      本ポリシーは、本拡張における情報の取り扱いを説明します。</p>
+
+      <h2>2. 収集する情報</h2>
+      <p>本拡張は、ユーザーが入力・保存した以下の情報を扱います。</p>
+      <ul>
+        <li>ゲーム設定情報（タイトル、URL、スコープ等）</li>
+        <li>ページ記録、ワード、メモ、進行情報</li>
+        <li>利用時刻・プレイ時間などの利用ログ（拡張内表示用）</li>
+      </ul>
+
+      <h2>3. 保存先</h2>
+      <p>上記情報は、ユーザーのブラウザ保存領域（<code>storage</code>）に保存されます。</p>
+
+      <h2>4. 外部送信・通信</h2>
+      <ul>
+        <li>本拡張は、ゲームカタログ表示時に <code>catalog.public.json</code> 等の公開ファイルを取得します。</li>
+        <li>問い合わせフォームへの遷移時は、Googleフォーム（外部サイト）を開きます。</li>
+        <li>本拡張は、ユーザー記録データ（ページ記録・メモ等）を制作者サーバーへ自動送信しません。外部通信は、公開カタログJSONの取得と、ユーザー操作による問い合わせフォーム遷移に限られます。</li>
+      </ul>
+
+      <h2>5. 権限</h2>
+      <p>本拡張は、機能提供のために以下の権限を使用します。</p>
+      <ul>
+        <li><code>storage</code>: データ保存</li>
+        <li><code>tabs</code>, <code>scripting</code>: 対象ページでの表示・操作</li>
+        <li><code>downloads</code>（任意）: バックアップ/エクスポート保存</li>
+        <li>カタログ取得先へのホスト権限（必要時）</li>
+      </ul>
+
+      <h2>6. 第三者提供</h2>
+      <p>本拡張は、ユーザー記録データを第三者へ販売・提供することを目的としていません。<br />
+      ただし、ユーザー自身がエクスポートしたファイルの管理はユーザー責任となります。</p>
+
+      <h2>7. 免責</h2>
+      <p>掲載情報および外部リンク先情報の正確性・完全性・最新性は保証しません。<br />
+      本拡張の利用により生じた損害について、制作者は責任を負いません。</p>
+
+      <h2>8. 変更</h2>
+      <p>本ポリシーは、必要に応じて予告なく更新される場合があります。</p>
+
+      <h2>9. 問い合わせ窓口</h2>
+      <p>不具合報告・要望・掲載停止依頼は、以下のフォームから受け付けます。<br />
+      <a href="https://forms.gle/YtWJ5vf6D3gQuHtH6" target="_blank" rel="noopener noreferrer">https://forms.gle/YtWJ5vf6D3gQuHtH6</a></p>
+    </article>
+  </main>
+</body>
+</html>
