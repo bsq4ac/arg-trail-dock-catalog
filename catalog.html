@@ -332,9 +332,9 @@
       </div>
       <div class="catalogSortRow">
         <span class="catalogSortLabel">並び順:</span>
-        <button id="btnSortTitle" class="sortBtn active" type="button">タイトル順</button>
+        <button id="btnSortTitle" class="sortBtn" type="button">タイトル順</button>
         <button id="btnSortPublishedAt" class="sortBtn" type="button">公開日順</button>
-        <button id="btnSortAddedAt" class="sortBtn" type="button">追加日順</button>
+        <button id="btnSortAddedAt" class="sortBtn active" type="button">追加日順</button>
       </div>
       <div id="msg" class="msg"></div>
       <div class="meta">非公式の個人運用カタログです。掲載情報の完全性・最新性・正確性は保証されません。</div>
@@ -371,7 +371,7 @@
     let filterPlayStyle = "";
     let filterRecommendedOnly = false;
     let newBadgeDays = DEFAULT_NEW_DAYS;
-    let sortMode = "title";
+    let sortMode = "addedAt";
 
     function toText(value) {
       return String(value ?? "").trim();
