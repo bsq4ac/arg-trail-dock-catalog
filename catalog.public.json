@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T07:17:03.357Z",
+  "updatedAt": "2026-05-12T08:23:38.957Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -19,7 +19,9 @@
       "compatibility": "full",
       "totalPages": 125,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-02-01"
+      "publishedAt": "2025-02-01",
+      "publishedAtSource": "https://note.com/sim/n/n9ccec3c0a871",
+      "lastUpdatedAt": "2026-03-22T16:43:42.843Z"
     },
     {
       "id": "1768475373361_0be672e8334c1",
@@ -35,7 +37,9 @@
       "shortDescription": "時代も場所も違う記録写真に現れる同じ顔の女、その正体を追う。前半無料、後半有料。",
       "compatibility": "full",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-25"
+      "publishedAt": "2025-12-25",
+      "publishedAtSource": "https://note.com/sim/n/n4e5ae759b007",
+      "lastUpdatedAt": "2026-03-22T16:43:42.843Z"
     },
     {
       "id": "1768480376381_ff09a8d7badba8",
@@ -57,7 +61,9 @@
       "totalPages": 80,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-05",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0069"
+      "publishedAtSource": "https://note.com/nmkmnbaby/n/n7f0c125a36a5",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0069",
+      "lastUpdatedAt": "2026-05-09T04:42:36.248Z"
     },
     {
       "id": "1768574836811_9eba043d5c6468",
@@ -76,7 +82,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-08",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0014"
+      "publishedAtSource": "https://note.com/takenamaco/n/n85f017b0c7fe",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0014",
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
     },
     {
       "id": "1770624671155_854d3343ec1f38",
@@ -95,7 +103,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-08",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0017"
+      "publishedAtSource": "https://note.com/chirue_creates/n/n406f89234a03",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0017",
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
     },
     {
       "id": "1768664234190_6a76081f0e5fd",
@@ -114,7 +124,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-09",
+      "publishedAtSource": "https://note.com/asapinakg/n/nb6dbe4e8654c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0062",
+      "lastUpdatedAt": "2026-05-09T04:28:17.674Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
@@ -141,7 +153,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-04",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0028"
+      "publishedAtSource": "https://note.com/shon_0_/n/neb35fc1ba706",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0028",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1768738342764_1bcdbeb1143548",
@@ -159,7 +173,9 @@
       "shortDescription": "差出人不明の招待状を起点に、記憶を失った「彼」と送り主の真意を探る。",
       "compatibility": "full",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-09"
+      "publishedAt": "2026-01-09",
+      "publishedAtSource": "https://note.com/hakushi_no_bi/n/n31d08ecfb36c",
+      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
     },
     {
       "id": "1768881739237_461c403dab701",
@@ -177,7 +193,9 @@
       "shortDescription": "結婚を控えた主人公が再構築アプリを通じ、封じた過去の記憶に向き合う。",
       "compatibility": "full",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-01"
+      "publishedAt": "2025-12-01",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n640dc46d7dcb",
+      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
     },
     {
       "id": "1768985917004_5fd9aee040afd",
@@ -195,7 +213,9 @@
       "shortDescription": "保育園に届いた見知らぬ手紙をきっかけに、職員サイトに隠れた事情を辿る。",
       "compatibility": "partial",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-09"
+      "publishedAt": "2026-01-09",
+      "publishedAtSource": "https://note.com/cray_briony253/n/ne2c0bd0553ae",
+      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
     },
     {
       "id": "1769081880356_de5a9f329aced",
@@ -213,7 +233,9 @@
       "shortDescription": "長期ログアウト不能アカウントの増加を追い、メタバースの異常の背景を調べる。",
       "compatibility": "full",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-30"
+      "publishedAt": "2025-12-30",
+      "publishedAtSource": "https://note.com/note_shokkaku/n/n312a2a5ae923",
+      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
     },
     {
       "id": "1769252722063_4d6683c4d257d",
@@ -230,7 +252,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-24",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0021"
+      "publishedAtSource": "https://note.com/oka_tetsuro/n/n5e20faa1c842",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0021",
+      "lastUpdatedAt": "2026-03-27T12:52:14.690Z"
     },
     {
       "id": "1769353310410_f8b942f234323",
@@ -247,7 +271,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-24",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0012"
+      "publishedAtSource": "https://note.com/twinkle_arg/n/nef0e515203e8",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0012",
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
     },
     {
       "id": "1769433783978_f5ecc5003c288",
@@ -266,7 +292,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-11",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0024"
+      "publishedAtSource": "https://note.com/birukamosu/n/n79caa11c5e4c",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0024",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1769578663164_3cf2efe15739c8",
@@ -283,7 +311,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-27",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0029"
+      "publishedAtSource": "https://note.com/maru444/n/ndf43994599e2",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0029",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1769690233452_ca0039e494dff",
@@ -302,7 +332,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-23",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0030"
+      "publishedAtSource": "https://note.com/24naninu/n/n701700f22652",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0030",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1769766863154_c9b437ff4ecd28",
@@ -321,7 +353,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-23",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0032"
+      "publishedAtSource": "https://note.com/harubashop/n/n8f2df763a8b4",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0032",
+      "lastUpdatedAt": "2026-03-25T05:00:24.350Z"
     },
     {
       "id": "1769772495890_9e4a999ff64ad",
@@ -340,7 +374,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-14",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0068"
+      "publishedAtSource": "https://note.com/nmkmnbaby/n/n9fc08940ce5f",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0068",
+      "lastUpdatedAt": "2026-05-09T04:42:23.632Z"
     },
     {
       "id": "1769778775289_459e1e8cb1ac2",
@@ -359,7 +395,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-11",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0009"
+      "publishedAtSource": "https://note.com/airshiplab_fune/n/naa631e398428",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0009",
+      "lastUpdatedAt": "2026-03-27T13:11:52.560Z"
     },
     {
       "id": "1769861427905_d57aa8a0cbd46",
@@ -377,7 +415,9 @@
       "shortDescription": "移住者募集サイトに潜む不穏な暗号を見抜き、村の実態を探る。",
       "compatibility": "full",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-10"
+      "publishedAt": "2026-01-10",
+      "publishedAtSource": "https://note.com/himorogimura/n/nd379e467ee3f",
+      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
     },
     {
       "id": "1770032724696_774f363b86a59",
@@ -394,7 +434,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-01",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0070"
+      "publishedAtSource": "https://note.com/nmkmnbaby/n/nf60b3b0ff465",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0070",
+      "lastUpdatedAt": "2026-05-09T04:42:49.392Z"
     },
     {
       "id": "1770092976212_fd62583c4ce0d8",
@@ -411,7 +453,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-31",
+      "publishedAtSource": "https://note.com/oka_tetsuro/n/nfe3adba45aee",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0022",
+      "lastUpdatedAt": "2026-03-27T14:18:42.593Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
@@ -435,7 +479,9 @@
       "shortDescription": "友人との通話に混じる不気味な軋み音を手掛かりに、背後の異変を追っていく。",
       "compatibility": "partial",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-29"
+      "publishedAt": "2025-12-29",
+      "publishedAtSource": "https://note.com/legit_hound7580/n/n023836ef698b",
+      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
     },
     {
       "id": "1770533964225_39ae21bde1fc38",
@@ -452,7 +498,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-07",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0013"
+      "publishedAtSource": "https://note.com/hanamakaze/n/na989362a7488",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0013",
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
     },
     {
       "id": "1770978063599_37a4df99dc4be8",
@@ -472,7 +520,9 @@
       "totalPages": 35,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-13",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0039"
+      "publishedAtSource": "https://note.com/sim/n/n9265a69fbdb8",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0039",
+      "lastUpdatedAt": "2026-03-27T12:33:20.524Z"
     },
     {
       "id": "1772090985780_d0909d04f9e818",
@@ -493,7 +543,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-20",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0038"
+      "publishedAtSource": "https://note.com/kinami_eggyolk/n/n9ec48fd8df52",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0038",
+      "lastUpdatedAt": "2026-03-27T12:33:20.524Z"
     },
     {
       "id": "1772457686955_7da413e0e996c",
@@ -511,7 +563,9 @@
       "shortDescription": "天気を完璧に断定する『気象断定センター』。謎の施設のホームページを探索する。",
       "compatibility": "partial",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-11"
+      "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://note.com/kuron_2424/n/nbf142e2fbce5",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "game-28",
@@ -532,7 +586,9 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-02",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0025"
+      "publishedAtSource": "https://note.com/reiki_files/n/n232dd00e876b",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0025",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1772796155057_13faaded8cdae",
@@ -551,7 +607,9 @@
       "compatibility": "",
       "totalPages": 35,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/twinkle_arg/n/n689fe696eed3",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772796367394_b8121a0c504",
@@ -569,7 +627,9 @@
       "shortDescription": "友人の救難メッセージを手掛かりに、結婚相談所の内部データを調査する。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-01"
+      "publishedAt": "2025-08-01",
+      "publishedAtSource": "https://note.com/mitsu_nazoarg/n/n93f38c2562dd",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772796434681_9bb07e712078c",
@@ -589,7 +649,9 @@
       "totalPages": 40,
       "sortTitle": "れいじのにっき",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/tmnz/n/n5b028de4c5d9",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772796546834_dd0ecff0e4c5a8",
@@ -609,6 +671,8 @@
       "totalPages": 36,
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-02",
+      "publishedAtSource": "https://note.com/yoryormary/n/n86fcc595ab84",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": null,
@@ -632,7 +696,9 @@
       "shortDescription": "新聞部員として過去の資料を洗い直し、決勝戦の決定的瞬間の人物を特定する。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-04"
+      "publishedAt": "2025-08-04",
+      "publishedAtSource": "https://x.com/Kunugirih/status/1952320674787397941",
+      "lastUpdatedAt": "2026-03-22T17:28:32.784Z"
     },
     {
       "id": "1772796730009_1a91064f1b474",
@@ -651,6 +717,8 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/kurononatsume/n/nc632f018a865",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 1.5,
@@ -675,6 +743,8 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-07-17",
+      "publishedAtSource": "https://note.com/yzmchan/n/nfc20c758b6b5",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -699,6 +769,8 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-07-07",
+      "publishedAtSource": "https://note.com/hanamakaze/n/ndc0fd1163506",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": null,
@@ -723,7 +795,9 @@
       "compatibility": "",
       "totalPages": 32,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n430b3a7994b7",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772797663192_0671143c621a28",
@@ -742,7 +816,9 @@
       "compatibility": "",
       "totalPages": 34,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n0a8569b687a1",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772797672272_3b293b6d75b6f8",
@@ -761,7 +837,9 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/note_shokkaku/n/n301ba81b2ca9",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0040",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
@@ -787,7 +865,9 @@
       "totalPages": 52,
       "addedAt": "2026-03-05",
       "publishedAt": "2025-07-27",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0004"
+      "publishedAtSource": "https://mia31.fanbox.cc/posts/10250125",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0004",
+      "lastUpdatedAt": "2026-03-27T13:30:29.671Z"
     },
     {
       "id": "1772797967843_7f836dadafc6a8",
@@ -806,7 +886,9 @@
       "compatibility": "",
       "sortTitle": "まるまるをとくていせよ",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/otaru_minzoku/n/n804272d0c81f",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772798303599_ae4511ec089918",
@@ -825,7 +907,9 @@
       "compatibility": "",
       "totalPages": 29,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/tegawara_ken/n/n9ede863a051a",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772798362463_157290236642f8",
@@ -844,7 +928,9 @@
       "compatibility": "",
       "totalPages": 13,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-03"
+      "publishedAt": "2025-08-03",
+      "publishedAtSource": "https://note.com/sumi0n/n/n21591c4d678e",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772798495527_5cbed006d5d7d",
@@ -862,7 +948,9 @@
       "shortDescription": "相互フォロワーの失踪疑惑を受け、友人証言と残された記録から行方を追う。xのアカウントがスタートページです。",
       "compatibility": "partial",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-07"
+      "publishedAt": "2025-08-07",
+      "publishedAtSource": "https://note.com/nekodaisukicat/n/n683f030a0711",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772798824087_770021ab24142",
@@ -880,7 +968,9 @@
       "shortDescription": "AIアプリで起きた不自然な表示と消えた履歴を手掛かりに、違和感の原因を探る。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-07-19"
+      "publishedAt": "2025-07-19",
+      "publishedAtSource": "https://note.com/saika_azsa/n/n739885afa7a0",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772798925550_17cd18ebe0578",
@@ -899,7 +989,9 @@
       "compatibility": "",
       "totalPages": 53,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-09"
+      "publishedAt": "2025-08-09",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n9d7e16c979c7",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772799020103_796a9d53d0d438",
@@ -917,7 +1009,9 @@
       "shortDescription": "失踪した新聞部員の言葉を頼りに、学校サイト内の隠された手掛かりを探す。",
       "compatibility": "partial",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-06"
+      "publishedAt": "2025-08-06",
+      "publishedAtSource": "https://note.com/firm_snipe5633/n/n126fb2af9048",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772799071006_d77f261be84c8",
@@ -936,7 +1030,9 @@
       "compatibility": "",
       "totalPages": 20,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-08-10"
+      "publishedAt": "2025-08-10",
+      "publishedAtSource": "https://note.com/ichise_/n/naeab41d7672b",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772799315950_8a3d296ce8da8",
@@ -955,7 +1051,9 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-17",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0016"
+      "publishedAtSource": "https://note.com/yono_rabe/n/n43391da77bdf",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0016",
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
     },
     {
       "id": "1772799380926_52eee353321108",
@@ -975,6 +1073,8 @@
       "totalPages": 25,
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-30",
+      "publishedAtSource": "https://note.com/otaru_minzoku/n/ne6402d395a5e",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": null,
@@ -1000,7 +1100,9 @@
       "totalPages": 49,
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-31",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0026"
+      "publishedAtSource": "https://note.com/reiki_files/n/nab816dee1bf4",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0026",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1772799582038_dfb024ec57a83",
@@ -1019,7 +1121,9 @@
       "compatibility": "",
       "totalPages": 36,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-11-16"
+      "publishedAt": "2025-11-16",
+      "publishedAtSource": "https://x.com/rin_utero/status/1989886453745328585",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772801028836_47d1d15fd79598",
@@ -1037,7 +1141,9 @@
       "shortDescription": "亡き双子の妹が遺した品を手掛かりに、閉ざされた記憶を辿っていく。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-16"
+      "publishedAt": "2025-12-16",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n74d48a399c96",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772801133941_89943a508fa46",
@@ -1055,7 +1161,8 @@
       "shortDescription": "家庭用アンドロイドによる死亡事件の経緯を、残存機体のメモリー解析で解明する。",
       "compatibility": "",
       "totalPages": 19,
-      "addedAt": "2026-03-05"
+      "addedAt": "2026-03-05",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772801259068_70046750230548",
@@ -1074,7 +1181,9 @@
       "compatibility": "",
       "totalPages": 163,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-20"
+      "publishedAt": "2025-12-20",
+      "publishedAtSource": "https://note.com/kunugi77/n/ncf537d675ea4",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772801268948_bc6c487d39ae6",
@@ -1092,7 +1201,9 @@
       "shortDescription": "自警団員として集団変死事件の記録に向き合い、未解決案件を捜査する。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-17"
+      "publishedAt": "2025-12-17",
+      "publishedAtSource": "https://note.com/nvl_thr/n/nb50725072a49",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772801490525_24929c4abd1d98",
@@ -1111,7 +1222,9 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-21",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0031"
+      "publishedAtSource": "https://note.com/harubashop/n/n4a6ecb909b69",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0031",
+      "lastUpdatedAt": "2026-03-27T12:48:41.755Z"
     },
     {
       "id": "1772801642004_26f9c1d36fbab",
@@ -1129,7 +1242,9 @@
       "shortDescription": "図書館のおとまり会で届く館内画像を辿り、不思議な一夜を体験する。特殊なページのため本ツールは非対応です。",
       "compatibility": "not_recommended",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-12-30"
+      "publishedAt": "2025-12-30",
+      "publishedAtSource": "https://note.com/saika_azsa/n/naf39f9d40870",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772801769092_2e55c63095af7",
@@ -1149,7 +1264,9 @@
       "totalPages": 60,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-08",
+      "publishedAtSource": "https://note.com/matsaman_ai/n/n16797e97453d",
       "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0041",
+      "lastUpdatedAt": "2026-04-01T14:56:39.894Z",
       "subTotalPages": 9
     },
     {
@@ -1170,6 +1287,8 @@
       "totalPages": 16,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-10",
+      "publishedAtSource": "https://note.com/9o6/n/n185069dc5771",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -1193,7 +1312,9 @@
       "shortDescription": "返答するサンタサイトで正しい挨拶の条件を探り、隠れた意味に迫る。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-10"
+      "publishedAt": "2026-01-10",
+      "publishedAtSource": "https://note.com/kawaiiosaka41/n/n1ba02c9d94c0",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802027717_c639b83d492e98",
@@ -1212,7 +1333,9 @@
       "compatibility": "",
       "totalPages": 24,
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-10"
+      "publishedAt": "2026-01-10",
+      "publishedAtSource": "https://note.com/mayo_aria/n/n673f48dc4de6",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802091836_a11a52817eeb5",
@@ -1232,7 +1355,9 @@
       "totalPages": 15,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-10",
+      "publishedAtSource": "https://note.com/ly_fawnsystem/n/nb1a5e6ece39c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0053",
+      "lastUpdatedAt": "2026-05-09T03:51:32.681Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
@@ -1256,7 +1381,9 @@
       "shortDescription": "大学時代の友の失踪と訃報を手掛かりに、止まった関係の時間を辿る。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-11"
+      "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n8d313c83d8dd",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802227373_9de8a1718dc178",
@@ -1274,7 +1401,9 @@
       "shortDescription": "あらゆる写真、物の【背景の記録】を見られる謎のデバイスを体験する。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-05"
+      "publishedAt": "2026-01-05",
+      "publishedAtSource": "https://note.com/due_rank22/n/n23aebbf9332f",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802322708_fbbae44bdd8f68",
@@ -1292,7 +1421,9 @@
       "shortDescription": "写真の断片情報を頼りに、場所を推理して特定していく連続問題集。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-11"
+      "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://note.com/underframe_e/n/n655276804929",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802377351_15fe2463008a78",
@@ -1312,6 +1443,8 @@
       "totalPages": 34,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://note.com/kurononatsume/n/na5063ded5414",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": null,
@@ -1335,7 +1468,9 @@
       "shortDescription": "財政再建中の村で担当官が消えた経緯を、公開情報の空白から追跡する。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-11"
+      "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://note.com/machine72462/n/n144e60bec13f",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802742404_bfd20345aa6af",
@@ -1353,7 +1488,9 @@
       "shortDescription": "戻らなかった友人のPCに残る暗号化データを解き、失踪前後の真相を追う。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-11"
+      "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://bs-days.com/?p=7703",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802797419_7921e059ab52d8",
@@ -1371,7 +1508,9 @@
       "shortDescription": "隔離飼育施設で餌やりを続ける中、奇妙な生物と職場の違和感が浮かび上がる。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2026-01-11"
+      "publishedAt": "2026-01-11",
+      "publishedAtSource": "https://note.com/ippaku_u/n/nc3b2d3815f5d",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772802856564_247bbb0c34c64",
@@ -1392,7 +1531,9 @@
       "sortTitle": "にせんじゅうごねんのれんぞくふしんしじけんをしっていますか",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-12",
+      "publishedAtSource": "https://note.com/harubashop/n/n81f3e4c10507",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0033",
+      "lastUpdatedAt": "2026-03-27T12:47:40.443Z",
       "subTotalPages": 1,
       "estPlayHours": {
         "normalMin": 0.5,
@@ -1419,7 +1560,9 @@
       "totalPages": 62,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-15",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0064"
+      "publishedAtSource": "https://note.com/kunugi77/n/n5e8094c41b36",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0064",
+      "lastUpdatedAt": "2026-05-09T04:34:47.081Z"
     },
     {
       "id": "1772803008486_dd2e22ac9e2248",
@@ -1439,6 +1582,8 @@
       "totalPages": 43,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-03",
+      "publishedAtSource": "https://note.com/yoryormary/n/nd294bb426fb1",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "subTotalPages": 1,
       "estPlayHours": {
         "normalMin": 2.5,
@@ -1464,7 +1609,9 @@
       "compatibility": "not_recommended",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-14",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0037"
+      "publishedAtSource": "https://note.com/chirue_creates/n/na7cb69778225",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0037",
+      "lastUpdatedAt": "2026-03-27T12:33:20.524Z"
     },
     {
       "id": "1772803275763_dddc5a289abd5",
@@ -1483,6 +1630,8 @@
       "compatibility": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-21",
+      "publishedAtSource": "https://note.com/harubashop/n/n58742dfdc358",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
       "estPlayHours": {
         "normalMin": 0.25,
         "normalMax": 0.75,
@@ -1507,7 +1656,9 @@
       "compatibility": "",
       "totalPages": 133,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-07-21"
+      "publishedAt": "2025-07-21",
+      "publishedAtSource": "https://note.com/sim/n/n2d79ecaa3ebe",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772805520099_7f531fb6deb0a8",
@@ -1526,7 +1677,9 @@
       "compatibility": "",
       "totalPages": 120,
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-04-20"
+      "publishedAt": "2025-04-20",
+      "publishedAtSource": "https://note.com/sim/n/nb2c407b2eafa",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772805558186_adff1c9a623ca8",
@@ -1542,7 +1695,9 @@
       "shortDescription": "記憶を国家管理する時代に、精神データ閲覧を通じて事件の核心へ踏み込む。",
       "compatibility": "",
       "addedAt": "2026-03-05",
-      "publishedAt": "2025-10-18"
+      "publishedAt": "2025-10-18",
+      "publishedAtSource": "https://note.com/sim/n/n4d6e51ebda7e",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1772805959400_196a2f08275e5",
@@ -1560,7 +1715,9 @@
       "totalPages": 120,
       "addedAt": "2026-03-06",
       "publishedAt": "2026-03-06",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0003"
+      "publishedAtSource": "https://note.com/sim/n/nd5e97ca97c93",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0003",
+      "lastUpdatedAt": "2026-03-27T13:30:29.671Z"
     },
     {
       "id": "1772806486552_2ecd6c24257828",
@@ -1578,7 +1735,9 @@
       "sortTitle": "にはくじゅうよっかのたび",
       "addedAt": "2026-03-06",
       "publishedAt": "2026-02-28",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0023"
+      "publishedAtSource": "https://note.com/oka_tetsuro/n/nac624ab4c963",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0023",
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
     },
     {
       "id": "1772806641849_91a8355c69d0d8",
@@ -1595,7 +1754,9 @@
       "compatibility": "",
       "totalPages": 127,
       "addedAt": "2026-03-06",
-      "publishedAt": "2024-04-01"
+      "publishedAt": "2024-04-01",
+      "publishedAtSource": "https://shop.daiyonkyokai.net/products/kagaminomain",
+      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
     },
     {
       "id": "1774418118890_92ee9d53b599e8",
@@ -1614,7 +1775,9 @@
       "sortTitle": "えつらんちゅういざんきょう",
       "addedAt": "2026-03-25",
       "publishedAt": "2025-12-07",
+      "publishedAtSource": "https://note.com/reiki_files/n/nfc3028373268",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0027",
+      "lastUpdatedAt": "2026-03-25T06:12:59.612Z",
       "estPlayHours": {
         "normalMin": 4,
         "normalMax": 6,
@@ -1637,7 +1800,9 @@
       "compatibility": "full",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-01-22",
+      "publishedAtSource": "https://x.com/Fiction_Hole/status/2014248391619014935",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0036",
+      "lastUpdatedAt": "2026-03-27T14:16:04.067Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1.5,
@@ -1660,7 +1825,8 @@
       "compatibility": "not_recommended",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-02-01",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0034"
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0034",
+      "lastUpdatedAt": "2026-03-27T14:16:04.067Z"
     },
     {
       "id": "1774615954474_195ca88cb3794",
@@ -1677,7 +1843,8 @@
       "compatibility": "",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-03-20",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0020"
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0020",
+      "lastUpdatedAt": "2026-03-27T14:16:04.067Z"
     },
     {
       "id": "1774616252794_3d4ff0f011e73",
@@ -1694,7 +1861,9 @@
       "compatibility": "",
       "addedAt": "2026-03-27",
       "publishedAt": "2025-12-20",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0019"
+      "publishedAtSource": "https://note.com/nekodaisukicat/n/ne75ee2656a75",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0019",
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
     },
     {
       "id": "1774616356209_5d2b8e48919048",
@@ -1712,7 +1881,9 @@
       "totalPages": 42,
       "addedAt": "2026-03-27",
       "publishedAt": "2025-09-22",
+      "publishedAtSource": "https://note.com/megumimahiro/n/nd5041c4f137c",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0018",
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": 3,
@@ -1735,7 +1906,9 @@
       "compatibility": "",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-03-13",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0011"
+      "publishedAtSource": "https://note.com/subana/n/n26ec6540613e",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0011",
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
     },
     {
       "id": "1774616772801_6784ea4b7d03",
@@ -1752,7 +1925,9 @@
       "compatibility": "",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-03-18",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0010"
+      "publishedAtSource": "https://omocoro.jp/kiji/555756/",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0010",
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
     },
     {
       "id": "1774617113144_e15529912db89",
@@ -1769,7 +1944,9 @@
       "compatibility": "",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-03-06",
+      "publishedAtSource": "https://note.com/ikempty/n/n9d97f8419949",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0008",
+      "lastUpdatedAt": "2026-03-27T14:17:28.922Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": null,
@@ -1792,7 +1969,9 @@
       "compatibility": "",
       "addedAt": "2026-03-27",
       "publishedAt": "2026-02-05",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0006"
+      "publishedAtSource": "https://note.com/ikempty/n/n2d7ad2ea12f1",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0006",
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
     },
     {
       "id": "1775054925062_ea0f49881c0c68",
@@ -1810,7 +1989,9 @@
       "totalPages": 45,
       "addedAt": "2026-04-01",
       "publishedAt": "2026-03-29",
-      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0045"
+      "publishedAtSource": "https://note.com/siosiorrr/n/n8f48d0518111",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0045",
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
     },
     {
       "id": "1775055039774_e582085d25b5c8",
@@ -1827,7 +2008,9 @@
       "compatibility": "",
       "addedAt": "2026-04-01",
       "publishedAt": "2026-03-05",
-      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0044"
+      "publishedAtSource": "https://note.com/siosiorrr/n/n923ba1d640c3",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0044",
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
     },
     {
       "id": "1775055132693_bfa6f12b3f4a78",
@@ -1845,7 +2028,9 @@
       "totalPages": 40,
       "addedAt": "2026-04-01",
       "publishedAt": "2026-01-06",
-      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0043"
+      "publishedAtSource": "https://note.com/siosiorrr/n/n50a81c26f45d",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0043",
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
     },
     {
       "id": "1775055239246_2ddf83b1b221d",
@@ -1862,7 +2047,9 @@
       "compatibility": "",
       "addedAt": "2026-04-01",
       "publishedAt": "2026-03-29",
-      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0042"
+      "publishedAtSource": "https://note.com/yamataro_1010/n/n2cd97fc64573",
+      "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0042",
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
     },
     {
       "id": "1775305424531_056207b283f0c8",
@@ -1880,7 +2067,9 @@
       "totalPages": 182,
       "addedAt": "2026-04-04",
       "publishedAt": "2026-04-01",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0046"
+      "publishedAtSource": "https://note.com/4_5matworks/n/n6e8ddcad9953",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0046",
+      "lastUpdatedAt": "2026-04-04T12:33:55.624Z"
     },
     {
       "id": "1775305504411_1bc742f1c149b8",
@@ -1897,7 +2086,9 @@
       "compatibility": "",
       "addedAt": "2026-04-04",
       "publishedAt": "2026-04-02",
-      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0047"
+      "publishedAtSource": "https://note.com/sim/n/nded84ab9c0ec",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0047",
+      "lastUpdatedAt": "2026-04-04T12:38:34.345Z"
     },
     {
       "id": "1775556390392_048839175d66c",
@@ -1914,7 +2105,9 @@
       "compatibility": "",
       "totalPages": 47,
       "addedAt": "2026-04-07",
-      "publishedAt": "2026-02-24"
+      "publishedAt": "2026-02-24",
+      "publishedAtSource": "https://note.com/droll/n/n4c2786c8a9c0",
+      "lastUpdatedAt": "2026-04-07T10:19:44.721Z"
     },
     {
       "id": "1778293608479_a8af26ca0b6fc8",
@@ -1929,9 +2122,11 @@
       "status": "active",
       "shortDescription": "友人から届いた不気味なゲーム攻略WikiのURLをきっかけに、返信の途絶えた理由を追う。",
       "compatibility": "",
-      "addedAt": "2026-05-09",
+      "addedAt": "2026-05-08",
       "publishedAt": "2026-04-01",
+      "publishedAtSource": "https://x.com/pa_n___da/status/2039260521975984520",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0048",
+      "lastUpdatedAt": "2026-05-09T02:40:35.084Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -1943,7 +2138,7 @@
       "id": "1778294452645_ff765f7029fea8",
       "title": "人のゲーム",
       "author": "第三境界",
-      "introUrl": "https://example.com/intro",
+      "introUrl": "https://sim3.net/portal/work.php?id=arg-0049",
       "startUrl": "https://kunugi77.stars.ne.jp/D3KK/lobby.html",
       "url": "https://kunugi77.stars.ne.jp/D3KK/lobby.html",
       "categories": [],
@@ -1952,9 +2147,11 @@
       "status": "active",
       "shortDescription": "『「オラクル」はあなたの力を求めています。』謎の組織に導かれ、極秘任務が始まる。※編集者註：WebARGポータルの詳細ページを導入ページとしています。",
       "compatibility": "",
-      "addedAt": "2026-05-09",
+      "addedAt": "2026-05-08",
       "publishedAt": "2026-04-11",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0049"
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0049",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0049",
+      "lastUpdatedAt": "2026-05-09T02:51:42.379Z"
     },
     {
       "id": "1778295130842_dc8a7e17ccedd8",
@@ -1971,7 +2168,9 @@
       "compatibility": "",
       "addedAt": "2026-05-09",
       "publishedAt": "2025-08-23",
+      "publishedAtSource": "https://note.com/nekoze_of_shake/n/n0824d60ebbfa#89baa0ce-ed90-43a1-aab3-24215454d0d0",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0050",
+      "lastUpdatedAt": "2026-05-09T02:58:08.988Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 4,
@@ -1994,7 +2193,9 @@
       "compatibility": "",
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-15",
+      "publishedAtSource": "https://note.com/hanamakaze/n/n30a5a84f808b",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0051",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
       "subTotalPages": 25
     },
     {
@@ -2013,7 +2214,9 @@
       "totalPages": 26,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-19",
+      "publishedAtSource": "https://note.com/nagopine_zz/n/ne5d2d0f5e73a",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0052",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 3,
@@ -2037,7 +2240,9 @@
       "totalPages": 14,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-19",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0058"
+      "publishedAtSource": "https://fakenote.pages.dev/",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0058",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
     },
     {
       "id": "1778299782870_8d0e54aaf83da",
@@ -2055,7 +2260,9 @@
       "totalPages": 51,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-26",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0059"
+      "publishedAtSource": "https://note.com/minideraco/n/n460eabbb8e80",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0059",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
     },
     {
       "id": "1778299883982_99192bc7cc77e8",
@@ -2072,7 +2279,9 @@
       "compatibility": "",
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-28",
+      "publishedAtSource": "https://note.com/oka_tetsuro/n/n3696c678039c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0060",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
       "estPlayHours": {
         "normalMin": 3,
         "normalMax": 4,
@@ -2096,7 +2305,9 @@
       "totalPages": 24,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-24",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0061"
+      "publishedAtSource": "https://note.com/ryutaro_akashi/n/n4a9c16afc7d2",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0061",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
     },
     {
       "id": "1778300802219_b1bf4195b0bd08",
@@ -2113,7 +2324,9 @@
       "compatibility": "",
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-30",
+      "publishedAtSource": "https://note.com/twinkle_arg/n/ncb79a483281d",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0056",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": 3,
@@ -2137,7 +2350,9 @@
       "totalPages": 33,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-23",
+      "publishedAtSource": "https://note.com/saikyo_0401/n/n061cd01a4415",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0065",
+      "lastUpdatedAt": "2026-05-09T07:16:14.173Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
@@ -2161,7 +2376,9 @@
       "totalPages": 20,
       "addedAt": "2026-05-09",
       "publishedAt": "2002-05-07",
+      "publishedAtSource": "https://note.com/saikyo_0401/n/ndb178fda7d1c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0066",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
@@ -2185,7 +2402,9 @@
       "totalPages": 9,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-03-30",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0071"
+      "publishedAtSource": "https://note.com/nmkmnbaby/n/nf1a5f9ead15e",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0071",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
     },
     {
       "id": "1778301876706_6bd7b547a6bfb",
@@ -2203,7 +2422,9 @@
       "totalPages": 80,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-29",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0072"
+      "publishedAtSource": "https://note.com/nmkmnbaby/n/nb8603c926ba1",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0072",
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
     },
     {
       "id": "1778310094055_719fc567f529a8",
@@ -2213,14 +2434,18 @@
       "startUrl": "https://phos.system03.jp/",
       "url": "https://phos.system03.jp/",
       "categories": [],
-      "playStyleTags": [],
+      "playStyleTags": [
+        "長編"
+      ],
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "突如活動停止したVTuberからの公式DMを手掛かりに、失踪の真相を探る。※同作の機能アップデート版です。",
       "compatibility": "",
       "totalPages": 125,
-      "addedAt": "2026-05-09",
-      "publishedAt": "2026-05-08"
+      "addedAt": "2026-05-10",
+      "publishedAt": "2026-05-08",
+      "publishedAtSource": "https://note.com/sim/n/n9ccec3c0a871",
+      "lastUpdatedAt": "2026-05-09T07:04:06.095Z"
     }
   ]
 }
