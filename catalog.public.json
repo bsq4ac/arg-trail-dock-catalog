@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T14:49:16.937Z",
+  "updatedAt": "2026-05-22T15:09:46.252Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -2535,8 +2535,10 @@
       "compatibility": "",
       "totalPages": 35,
       "addedAt": "2026-05-22",
+      "publishedAt": "2026-05-20",
+      "publishedAtSource": "https://note.com/9o6/n/n881a82cd4d74",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0079",
-      "lastUpdatedAt": "2026-05-22T14:41:42.528Z",
+      "lastUpdatedAt": "2026-05-22T15:09:46.252Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": null,
