@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T15:09:46.252Z",
+  "updatedAt": "2026-06-06T11:42:42.193Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -2345,14 +2345,14 @@
       "playStyleTags": [],
       "curatorBadge": "",
       "status": "active",
-      "shortDescription": "製品開発に向けた「テイスティング嗜好調査」を実施している蒸留所のサイトを調査する。",
+      "shortDescription": "製品開発に向けた「テイスティング嗜好調査」を実施している蒸留所のサイトを調査する。「閲覧履歴」に自動的に発見ページが記録される仕様です。",
       "compatibility": "",
       "totalPages": 33,
       "addedAt": "2026-05-09",
       "publishedAt": "2026-04-23",
       "publishedAtSource": "https://note.com/saikyo_0401/n/n061cd01a4415",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0065",
-      "lastUpdatedAt": "2026-05-09T07:16:14.173Z",
+      "lastUpdatedAt": "2026-06-06T11:34:45.285Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
@@ -2371,14 +2371,14 @@
       "playStyleTags": [],
       "curatorBadge": "",
       "status": "active",
-      "shortDescription": "ジュエリー店のHPを探索する。",
+      "shortDescription": "ジュエリー店のHPを探索する。「VIEW HISTORY」に自動的に発見ページが記録される仕様です。",
       "compatibility": "",
       "totalPages": 20,
       "addedAt": "2026-05-09",
       "publishedAt": "2002-05-07",
       "publishedAtSource": "https://note.com/saikyo_0401/n/ndb178fda7d1c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0066",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "lastUpdatedAt": "2026-06-06T11:35:12.466Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
@@ -2565,6 +2565,52 @@
       "publishedAtSource": "https://note.com/ls_0328/n/n41e9daf7fbbb",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0080",
       "lastUpdatedAt": "2026-05-22T14:39:46.672Z"
+    },
+    {
+      "id": "1780745305155_297ec56e4a2c68",
+      "title": "フォロワーが遺したARGを攻略してください",
+      "author": "Kaniken",
+      "introUrl": "https://note.com/mi6_kny/n/n33b4cdd76ef6",
+      "startUrl": "https://dining.etranger-d.org/",
+      "url": "https://dining.etranger-d.org/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "音信不通のフォロワーが遺したARGサイトを攻略する。",
+      "compatibility": "",
+      "totalPages": 44,
+      "addedAt": "2026-06-06",
+      "publishedAt": "2026-05-26",
+      "publishedAtSource": "https://note.com/mi6_kny/n/n33b4cdd76ef6",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0083",
+      "lastUpdatedAt": "2026-06-06T11:41:02.534Z"
+    },
+    {
+      "id": "1780745429506_4e07fb1b28f78",
+      "title": "Recall_Gift",
+      "author": "☆最強霊媒吸収最強ネキ★",
+      "introUrl": "https://note.com/saikyo_0401/n/n146b2ab5ae22",
+      "startUrl": "https://dailyperch.pages.dev/",
+      "url": "https://dailyperch.pages.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "香水店のHPを探索する。「閲覧履歴」に自動的に発見ページが記録される仕様です。",
+      "compatibility": "",
+      "totalPages": 22,
+      "addedAt": "2026-06-06",
+      "publishedAt": "2026-05-24",
+      "publishedAtSource": "https://note.com/saikyo_0401/n/n146b2ab5ae22",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0084",
+      "lastUpdatedAt": "2026-06-06T11:42:42.193Z",
+      "estPlayHours": {
+        "normalMin": 1.5,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
     }
   ]
 }
