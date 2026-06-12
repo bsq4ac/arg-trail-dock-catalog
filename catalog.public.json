@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T09:23:29.330Z",
+  "updatedAt": "2026-06-12T18:41:58.008Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -2611,6 +2611,25 @@
         "hintMin": null,
         "hintMax": null
       }
+    },
+    {
+      "id": "1781289341992_24b473c162312",
+      "title": "平和の像は不吉に輝く",
+      "author": "みにでらこ",
+      "introUrl": "https://note.com/minideraco/n/n49a88bdf7325",
+      "startUrl": "https://shiranami-city.org/",
+      "url": "https://shiranami-city.org/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "市役所職員として、地震後に白波市で相次ぐ異変を調査する。ページ上部の「表示履歴」で、発見したページ一覧を見ることができます。",
+      "compatibility": "",
+      "totalPages": 29,
+      "addedAt": "2026-06-13",
+      "publishedAt": "2026-06-08",
+      "publishedAtSource": "https://note.com/minideraco/n/n49a88bdf7325",
+      "lastUpdatedAt": "2026-06-12T18:41:58.007Z"
     }
   ]
 }
