@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T18:41:58.008Z",
+  "updatedAt": "2026-06-24T12:25:25.754Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -2613,6 +2613,27 @@
       }
     },
     {
+      "id": "1781288934881_4bf006f25bff3",
+      "title": "潜影探偵事務所 vol.2「霧嶺レジャーランド」",
+      "author": "マッサマン",
+      "introUrl": "https://note.com/matsaman_ai/n/n13bc34dce60f",
+      "startUrl": "https://kirimine-park.jp/",
+      "url": "https://kirimine-park.jp/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "更新され続ける、謎の廃園遊園地のサイトを調査する。",
+      "compatibility": "",
+      "totalPages": 73,
+      "addedAt": "2026-06-24",
+      "publishedAt": "2026-06-12",
+      "publishedAtSource": "https://note.com/matsaman_ai/n/n13bc34dce60f",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0098",
+      "lastUpdatedAt": "2026-06-24T12:25:25.753Z",
+      "subTotalPages": 30
+    },
+    {
       "id": "1781289341992_24b473c162312",
       "title": "平和の像は不吉に輝く",
       "author": "みにでらこ",
@@ -2629,7 +2650,8 @@
       "addedAt": "2026-06-13",
       "publishedAt": "2026-06-08",
       "publishedAtSource": "https://note.com/minideraco/n/n49a88bdf7325",
-      "lastUpdatedAt": "2026-06-12T18:41:58.007Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0096",
+      "lastUpdatedAt": "2026-06-24T12:13:07.838Z"
     }
   ]
 }
