@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T10:07:21.744Z",
+  "updatedAt": "2026-07-04T16:49:31.747Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -417,7 +417,8 @@
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-10",
       "publishedAtSource": "https://note.com/himorogimura/n/nd379e467ee3f",
-      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0111",
+      "lastUpdatedAt": "2026-07-04T16:07:33.713Z"
     },
     {
       "id": "1770032724696_774f363b86a59",
@@ -2670,7 +2671,8 @@
       "addedAt": "2026-06-24",
       "publishedAt": "2026-06-24",
       "publishedAtSource": "https://note.com/mimi_arg/n/ncaf6a6507710",
-      "lastUpdatedAt": "2026-06-24T12:47:59.028Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0109",
+      "lastUpdatedAt": "2026-07-04T16:05:21.497Z"
     },
     {
       "id": "1782304767748_e7c3b2b69d33c8",
@@ -2746,7 +2748,8 @@
       "addedAt": "2026-06-24",
       "publishedAt": "2026-06-20",
       "publishedAtSource": "https://note.com/ls_0328/n/n605000798915",
-      "lastUpdatedAt": "2026-06-24T13:07:32.567Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0103",
+      "lastUpdatedAt": "2026-07-04T15:54:15.414Z"
     },
     {
       "id": "1782381833511_736ec2cf2c889",
@@ -2765,10 +2768,153 @@
       "addedAt": "2026-06-25",
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/mei_takanashi/n/n6f4fb7079438",
-      "lastUpdatedAt": "2026-06-25T10:07:21.744Z",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0104",
+      "lastUpdatedAt": "2026-07-04T15:54:27.597Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1783180812027_6d0063976e07c",
+      "title": "丑神聖教会",
+      "author": "twinkle",
+      "introUrl": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
+      "startUrl": "https://twinklegame.jp/ushigami-arg/browser.html",
+      "url": "https://twinklegame.jp/ushigami-arg/browser.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "「姉は、丑神聖教会に通い始めてから消えました。一緒に調べてくれませんか。」独自ブラウザ形式で、ページ履歴機能が右下にあります。",
+      "compatibility": "",
+      "addedAt": "2026-07-05",
+      "publishedAt": "2026-06-21",
+      "publishedAtSource": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0106",
+      "lastUpdatedAt": "2026-07-04T16:49:31.747Z"
+    },
+    {
+      "id": "1783180936305_e9aef7929c2ed",
+      "title": "高無メイ失踪事件",
+      "author": "高無メイ",
+      "introUrl": "https://note.com/mei_takanashi/n/n585ab0b5f9f4",
+      "startUrl": "https://itsumonokoto.net/",
+      "url": "https://itsumonokoto.net/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "大学生のブログを調査する。",
+      "compatibility": "",
+      "totalPages": 37,
+      "addedAt": "2026-07-05",
+      "publishedAt": "2026-06-22",
+      "publishedAtSource": "https://note.com/mei_takanashi/n/n585ab0b5f9f4",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0107",
+      "lastUpdatedAt": "2026-07-04T16:48:59.716Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1783181146105_8fc286986603f8",
+      "title": "Iris＋",
+      "author": "うに",
+      "introUrl": "https://note.com/ls_0328/n/n2600d872649a",
+      "startUrl": "https://iris-plus.site/",
+      "url": "https://iris-plus.site/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "カラコン通販サイトを調査する。アーカイブに自動的に発見ページが記録される仕様です。",
+      "compatibility": "",
+      "totalPages": 32,
+      "addedAt": "2026-07-05",
+      "publishedAt": "2026-06-25",
+      "publishedAtSource": "https://note.com/ls_0328/n/n2600d872649a",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0110",
+      "lastUpdatedAt": "2026-07-04T16:44:59.045Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1783181356920_df2cb04a190638",
+      "title": "ミヤマクラ リフォーム",
+      "author": "高無メイ",
+      "introUrl": "https://note.com/mei_takanashi/n/ne9e8bd06adbb",
+      "startUrl": "https://miyayamakura-reform.com/",
+      "url": "https://miyayamakura-reform.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "謎の人物から、怪しいサイトの調査依頼のメールが届く。",
+      "compatibility": "",
+      "totalPages": 27,
+      "addedAt": "2026-07-05",
+      "publishedAt": "2026-06-28",
+      "publishedAtSource": "https://note.com/mei_takanashi/n/ne9e8bd06adbb",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0113",
+      "lastUpdatedAt": "2026-07-04T16:43:52.873Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1783181998132_84cd7b38277788",
+      "title": "深森浜総合病院",
+      "author": "Mito_Intersect",
+      "introUrl": "https://note.com/mito_intersect/n/n2b6de13f4dd3",
+      "startUrl": "https://mimorihama-hospital.netlify.app/",
+      "url": "https://mimorihama-hospital.netlify.app/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "治験バイトに向かった友人から、予定より早く無言のURLだけが届く。",
+      "compatibility": "",
+      "totalPages": 25,
+      "addedAt": "2026-07-05",
+      "publishedAt": "2026-07-01",
+      "publishedAtSource": "https://note.com/mito_intersect/n/n2b6de13f4dd3",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0115",
+      "lastUpdatedAt": "2026-07-04T16:42:04.206Z"
+    },
+    {
+      "id": "1783182114771_886e88605520e",
+      "title": "久生戸工務店社長失踪事件",
+      "author": "奈雪霜",
+      "introUrl": "https://note.com/local_memory/n/n3b63b5c57555",
+      "startUrl": "https://example.com/",
+      "url": "https://example.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "大学の友人・久生戸慶太の父が失踪し、SNSで行方を捜す彼に手を貸す。",
+      "compatibility": "",
+      "addedAt": "2026-07-05",
+      "publishedAt": "2026-07-02",
+      "publishedAtSource": "https://note.com/local_memory/n/n3b63b5c57555",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0116",
+      "lastUpdatedAt": "2026-07-04T16:33:58.720Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
         "hintMin": null,
         "hintMax": null
       }
