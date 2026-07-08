@@ -233,12 +233,26 @@
       white-space: nowrap;
     }
     .catalogDesc {
+      flex: 1 1 auto;
       min-width: 0;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
       font-size: 12px;
       opacity: 0.88;
+    }
+    .catalogDescLine {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+    .catalogCompatibilityNote {
+      color: #ff6b6b;
+      font-size: 12px;
+      font-weight: 700;
+      white-space: normal;
     }
     .catalogUrl {
       color: #9fb7ff;
@@ -345,7 +359,7 @@
   <script>
     "use strict";
 
-    const DEFAULT_NEW_DAYS = 7;
+    const DEFAULT_NEW_DAYS = 30;
     const NEW_DAYS_STORAGE_KEY = "arg_trail_dock_catalog_new_days";
 
     const els = {
@@ -507,6 +521,11 @@
           startUrl,
           portalUrl,
           shortDescription: toText(row.shortDescription),
+          compatibility: (() => {
+            const value = toText(row.compatibility).toLowerCase();
+            return ["full", "partial", "not_recommended"].includes(value) ? value : "";
+          })(),
+          compatibilityNote: toText(row.compatibilityNote),
           category: toText(row.category),
           categories: Array.isArray(row.categories) ? row.categories.map(toText).filter(Boolean) : [],
           playStyleTags: Array.isArray(row.playStyleTags) ? row.playStyleTags.map(toText).filter(Boolean) : [],
@@ -524,7 +543,7 @@
         : allItems.filter((item) => {
           const title = `${item.title}`.toLowerCase();
           const author = `${item.author}`.toLowerCase();
-          const desc = `${item.shortDescription}`.toLowerCase();
+          const desc = `${item.shortDescription} ${item.compatibilityNote}`.toLowerCase();
           const meta = `${item.category} ${(item.categories ?? []).join(" ")} ${(item.playStyleTags ?? []).join(" ")} ${item.curatorBadge ?? ""}`.toLowerCase();
           if (queryMode === "title") return title.includes(queryText);
           if (queryMode === "author") return author.includes(queryText);
@@ -660,8 +679,13 @@
         for (const tagText of (item.playStyleTags ?? [])) {
           tagWrap.appendChild(makeEl("span", "catalogStyleTag", tagText));
         }
-        const desc = makeEl("div", "catalogDesc", item.shortDescription || "説明なし");
-        summary.append(tagWrap, desc);
+        const descLine = makeEl("div", "catalogDescLine");
+        const desc = makeEl("span", "catalogDesc", item.shortDescription || "説明なし");
+        descLine.appendChild(desc);
+        if (item.compatibilityNote) {
+          descLine.appendChild(makeEl("span", "catalogCompatibilityNote", item.compatibilityNote));
+        }
+        summary.append(tagWrap, descLine);
 
         const intro = makeEl("a", "catalogUrl", item.introUrl);
         intro.href = item.introUrl;
