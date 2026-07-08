@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T13:51:27.715Z",
+  "updatedAt": "2026-07-08T15:27:35.887Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -2924,7 +2924,8 @@
       "publishedAt": "2026-06-22",
       "publishedAtSource": "https://note.com/mei_takanashi/n/n585ab0b5f9f4",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0107",
-      "lastUpdatedAt": "2026-07-04T16:48:59.716Z",
+      "lastUpdatedAt": "2026-07-08T15:27:35.887Z",
+      "disableAutoLinkOnAddPage": true,
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
