@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T16:49:31.747Z",
+  "updatedAt": "2026-07-08T13:51:27.715Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -2776,25 +2776,6 @@
         "hintMin": null,
         "hintMax": null
       }
-    },
-    {
-      "id": "1783180812027_6d0063976e07c",
-      "title": "丑神聖教会",
-      "author": "twinkle",
-      "introUrl": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
-      "startUrl": "https://twinklegame.jp/ushigami-arg/browser.html",
-      "url": "https://twinklegame.jp/ushigami-arg/browser.html",
-      "categories": [],
-      "playStyleTags": [],
-      "curatorBadge": "",
-      "status": "active",
-      "shortDescription": "「姉は、丑神聖教会に通い始めてから消えました。一緒に調べてくれませんか。」独自ブラウザ形式で、ページ履歴機能が右下にあります。",
-      "compatibility": "",
-      "addedAt": "2026-07-05",
-      "publishedAt": "2026-06-21",
-      "publishedAtSource": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0106",
-      "lastUpdatedAt": "2026-07-04T16:49:31.747Z"
     },
     {
       "id": "1783180936305_e9aef7929c2ed",
