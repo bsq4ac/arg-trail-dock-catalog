@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T15:41:22.794Z",
+  "updatedAt": "2026-07-09T03:14:19.890Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -1285,6 +1285,27 @@
       "lastUpdatedAt": "2026-03-27T12:48:41.755Z"
     },
     {
+      "id": "1772801642004_26f9c1d36fbab",
+      "title": "魔法の夜のおとまり会",
+      "author": "彩霞梓",
+      "introUrl": "https://watariyuki.web.fc2.com/mimori-town-library/message/start.html",
+      "startUrl": "https://watariyuki.web.fc2.com/mimori-town-library/message/start.html",
+      "url": "https://watariyuki.web.fc2.com/mimori-town-library/message/start.html",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "図書館のおとまり会で届く館内画像を辿り、不思議な一夜を体験する。",
+      "compatibility": "not_recommended",
+      "compatibilityNote": "特殊なページのため本ツールは非対応です。",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2025-12-30",
+      "publishedAtSource": "https://note.com/saika_azsa/n/naf39f9d40870",
+      "lastUpdatedAt": "2026-07-09T03:12:05.198Z"
+    },
+    {
       "id": "1772801769092_2e55c63095af7",
       "title": "潜影探偵事務所 vol.1「株式会社AIsle」",
       "author": "マッサマン",
@@ -1646,6 +1667,28 @@
       }
     },
     {
+      "id": "1772803153555_e980d6c7bf69a8",
+      "title": "チャット型ARG「Baby-X」",
+      "author": "Chirue",
+      "introUrl": "https://note.com/chirue_creates/n/na7cb69778225",
+      "startUrl": "https://baby-x-nine.vercel.app/ja",
+      "url": "https://baby-x-nine.vercel.app/ja",
+      "categories": [
+        "第2回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "胎児と会話できる新サービスを体験する。",
+      "compatibility": "not_recommended",
+      "compatibilityNote": "特殊なページのため、本ツールは非対応です。",
+      "addedAt": "2026-03-05",
+      "publishedAt": "2026-02-14",
+      "publishedAtSource": "https://note.com/chirue_creates/n/na7cb69778225",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0037",
+      "lastUpdatedAt": "2026-07-09T03:12:23.029Z"
+    },
+    {
       "id": "1772803275763_dddc5a289abd5",
       "title": "アセビ現像センター",
       "author": "Haruka",
@@ -1850,6 +1893,25 @@
         "hintMin": null,
         "hintMax": null
       }
+    },
+    {
+      "id": "1774615569363_ac1e9b9e879358",
+      "title": "【もしもラボ】思考実験ベースのミニ性格診断",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/ndc83f17d11d7",
+      "startUrl": "https://transmitter.sakura.ne.jp/te/",
+      "url": "https://transmitter.sakura.ne.jp/te/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "五つの質問で進む診断ページをたどり、隠れた謎を読み解く。",
+      "compatibility": "not_recommended",
+      "compatibilityNote": "特殊なページのため本ツールは非対応です。",
+      "addedAt": "2026-03-27",
+      "publishedAt": "2026-02-01",
+      "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0034",
+      "lastUpdatedAt": "2026-07-09T03:12:30.969Z"
     },
     {
       "id": "1774615954474_195ca88cb3794",
