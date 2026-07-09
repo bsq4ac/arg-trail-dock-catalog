@@ -79,8 +79,9 @@
     button.secondary { background: #1a2236; }
     button:hover { filter: brightness(1.1); }
     .catalogFilterRow input[type="search"] {
-      width: min(420px, 100%);
-      flex: 1 1 320px;
+      width: min(300px, 100%);
+      min-width: 180px;
+      flex: 1 1 200px;
     }
     .catalogFilterRow .catalogSearchMode {
       width: auto;
@@ -92,6 +93,7 @@
     }
     .catalogNewOnlyWrap,
     .catalogRecOnlyWrap,
+    .catalogHideUnsupportedWrap,
     .catalogNewDaysWrap {
       display: inline-flex;
       align-items: center;
@@ -100,7 +102,8 @@
       white-space: nowrap;
     }
     .catalogNewOnlyWrap input,
-    .catalogRecOnlyWrap input {
+    .catalogRecOnlyWrap input,
+    .catalogHideUnsupportedWrap input {
       width: 14px !important;
       height: 14px;
       margin: 0;
@@ -338,9 +341,13 @@
           <input id="recOnlyCheck" type="checkbox" />
           <span>おすすめのみ</span>
         </label>
+        <label class="catalogHideUnsupportedWrap">
+          <input id="hideUnsupportedCheck" type="checkbox" checked />
+          <span>非対応を隠す</span>
+        </label>
         <label class="catalogNewDaysWrap">
           <span>NEW日数</span>
-          <input id="newDaysInput" class="catalogNewDaysInput" type="number" min="1" max="3650" step="1" value="30" />
+          <input id="newDaysInput" class="catalogNewDaysInput" type="number" min="1" max="3650" step="1" value="7" />
         </label>
         <button id="btnResetFilters" class="secondary catalogResetBtn" type="button">リセット</button>
       </div>
@@ -371,6 +378,7 @@
       playStyleSelect: document.getElementById("playStyleSelect"),
       newOnlyCheck: document.getElementById("newOnlyCheck"),
       recOnlyCheck: document.getElementById("recOnlyCheck"),
+      hideUnsupportedCheck: document.getElementById("hideUnsupportedCheck"),
       newDaysInput: document.getElementById("newDaysInput"),
       btnResetFilters: document.getElementById("btnResetFilters"),
       btnSortTitle: document.getElementById("btnSortTitle"),
@@ -384,6 +392,7 @@
     let filterNewOnly = false;
     let filterPlayStyle = "";
     let filterRecommendedOnly = false;
+    let filterHideUnsupported = true;
     let newBadgeDays = DEFAULT_NEW_DAYS;
     let sortMode = "addedAt";
 
@@ -559,6 +568,9 @@
       }
       if (filterRecommendedOnly) {
         filtered = filtered.filter((item) => String(item.curatorBadge ?? "").trim() === "recommended");
+      }
+      if (filterHideUnsupported) {
+        filtered = filtered.filter((item) => item.compatibility !== "not_recommended");
       }
       if (sortMode === "addedAt") {
         filtered.sort((a, b) => {
@@ -750,6 +762,10 @@
       filterRecommendedOnly = !!els.recOnlyCheck.checked;
       renderList();
     });
+    els.hideUnsupportedCheck.addEventListener("change", () => {
+      filterHideUnsupported = !!els.hideUnsupportedCheck.checked;
+      renderList();
+    });
     els.newDaysInput.addEventListener("change", () => {
       const n = Number(els.newDaysInput.value);
       newBadgeDays = Number.isFinite(n) && n >= 1 ? Math.floor(n) : DEFAULT_NEW_DAYS;
@@ -763,11 +779,13 @@
       filterNewOnly = false;
       filterPlayStyle = "";
       filterRecommendedOnly = false;
+      filterHideUnsupported = true;
       els.searchInput.value = "";
       els.searchModeSelect.value = "all";
       els.newOnlyCheck.checked = false;
       els.playStyleSelect.value = "";
       els.recOnlyCheck.checked = false;
+      els.hideUnsupportedCheck.checked = true;
       renderList();
       els.searchInput.focus();
     });
