@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T17:29:27.797Z",
+  "updatedAt": "2026-07-10T15:39:35.286Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -1298,12 +1298,12 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "図書館のおとまり会で届く館内画像を辿り、不思議な一夜を体験する。",
-      "compatibility": "partial",
-      "compatibilityNote": "一部対応：固定URLのため、ページ記録・フロー表示は利用できません。ワードプール・全体メモは利用できます",
+      "compatibility": "not_recommended",
+      "compatibilityNote": "特殊なページのため本ツールは非対応です。",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-30",
       "publishedAtSource": "https://note.com/saika_azsa/n/naf39f9d40870",
-      "lastUpdatedAt": "2026-07-10T17:29:12.484Z"
+      "lastUpdatedAt": "2026-07-09T03:12:05.198Z"
     },
     {
       "id": "1772801769092_2e55c63095af7",
@@ -2917,14 +2917,13 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "「姉は、丑神聖教会に通い始めてから消えました。一緒に調べてくれませんか。」独自ブラウザ形式で、ページ履歴機能が右下にあります。",
-      "compatibility": "partial",
-      "compatibilityNote": "一部対応：固定URLのため、ページ記録・フロー表示は利用できません。ワードプール・全体メモは利用できます",
+      "compatibility": "not_recommended",
+      "compatibilityNote": "独自ブラウザ形式のため本ツールは非対応です。",
       "addedAt": "2026-07-05",
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0106",
-      "lastUpdatedAt": "2026-07-10T17:29:27.797Z",
-      "disableAutoLinkOnAddPage": true
+      "lastUpdatedAt": "2026-07-10T15:39:35.285Z"
     },
     {
       "id": "1783180936305_e9aef7929c2ed",
