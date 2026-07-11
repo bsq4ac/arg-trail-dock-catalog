@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T15:39:35.286Z",
+  "updatedAt": "2026-07-11T14:55:35.876Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -221,11 +221,11 @@
       "status": "active",
       "shortDescription": "保育園に届いた見知らぬ手紙をきっかけに、職員サイトに隠れた事情を辿る。",
       "compatibility": "partial",
-      "compatibilityNote": "",
+      "compatibilityNote": "HTTPページのため、ブラウザのセキュリティ制限により、クリップボードへのコピー機能を利用できない場合があります。",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-09",
       "publishedAtSource": "https://note.com/cray_briony253/n/ne2c0bd0553ae",
-      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
+      "lastUpdatedAt": "2026-07-11T14:54:48.940Z"
     },
     {
       "id": "1769081880356_de5a9f329aced",
@@ -501,11 +501,11 @@
       "status": "active",
       "shortDescription": "友人との通話に混じる不気味な軋み音を手掛かりに、背後の異変を追っていく。",
       "compatibility": "partial",
-      "compatibilityNote": "",
+      "compatibilityNote": "HTTPページのため、ブラウザのセキュリティ制限により、クリップボードへのコピー機能を利用できない場合があります。",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-29",
       "publishedAtSource": "https://note.com/legit_hound7580/n/n023836ef698b",
-      "lastUpdatedAt": "2026-03-22T16:59:35.386Z"
+      "lastUpdatedAt": "2026-07-11T14:54:53.532Z"
     },
     {
       "id": "1770533964225_39ae21bde1fc38",
@@ -589,11 +589,11 @@
       "status": "active",
       "shortDescription": "天気を完璧に断定する『気象断定センター』。謎の施設のホームページを探索する。",
       "compatibility": "partial",
-      "compatibilityNote": "",
+      "compatibilityNote": "HTTPページのため、ブラウザのセキュリティ制限により、クリップボードへのコピー機能を利用できない場合があります。",
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-11",
       "publishedAtSource": "https://note.com/kuron_2424/n/nbf142e2fbce5",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
+      "lastUpdatedAt": "2026-07-11T14:55:03.412Z"
     },
     {
       "id": "game-28",
@@ -990,12 +990,12 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "相互フォロワーの失踪疑惑を受け、友人証言と残された記録から行方を追う。xのアカウントがスタートページです。",
-      "compatibility": "partial",
+      "compatibility": "full",
       "compatibilityNote": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-07",
       "publishedAtSource": "https://note.com/nekodaisukicat/n/n683f030a0711",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
+      "lastUpdatedAt": "2026-07-11T14:55:15.602Z"
     },
     {
       "id": "1772798824087_770021ab24142",
@@ -1054,12 +1054,12 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "失踪した新聞部員の言葉を頼りに、学校サイト内の隠された手掛かりを探す。",
-      "compatibility": "partial",
+      "compatibility": "full",
       "compatibilityNote": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-06",
       "publishedAtSource": "https://note.com/firm_snipe5633/n/n126fb2af9048",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
+      "lastUpdatedAt": "2026-07-11T14:48:34.562Z"
     },
     {
       "id": "1772799071006_d77f261be84c8",
@@ -1298,12 +1298,12 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "図書館のおとまり会で届く館内画像を辿り、不思議な一夜を体験する。",
-      "compatibility": "not_recommended",
-      "compatibilityNote": "特殊なページのため本ツールは非対応です。",
+      "compatibility": "partial",
+      "compatibilityNote": "固定URLのため、ページ記録・フロー表示は利用できません。ワードプール・全体メモは利用できます",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-12-30",
       "publishedAtSource": "https://note.com/saika_azsa/n/naf39f9d40870",
-      "lastUpdatedAt": "2026-07-09T03:12:05.198Z"
+      "lastUpdatedAt": "2026-07-11T14:55:31.261Z"
     },
     {
       "id": "1772801769092_2e55c63095af7",
@@ -2917,13 +2917,14 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "「姉は、丑神聖教会に通い始めてから消えました。一緒に調べてくれませんか。」独自ブラウザ形式で、ページ履歴機能が右下にあります。",
-      "compatibility": "not_recommended",
-      "compatibilityNote": "独自ブラウザ形式のため本ツールは非対応です。",
+      "compatibility": "partial",
+      "compatibilityNote": "固定URLのため、ページ記録・フロー表示は利用できません。ワードプール・全体メモは利用できます",
       "addedAt": "2026-07-05",
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0106",
-      "lastUpdatedAt": "2026-07-10T15:39:35.285Z"
+      "lastUpdatedAt": "2026-07-11T14:55:35.876Z",
+      "disableAutoLinkOnAddPage": true
     },
     {
       "id": "1783180936305_e9aef7929c2ed",
