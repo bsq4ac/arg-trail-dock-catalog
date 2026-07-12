@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T14:55:35.876Z",
+  "updatedAt": "2026-07-12T15:10:20.220Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -3078,6 +3078,34 @@
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1783868707124_7bad367a431408",
+      "title": "高無メイ監視事件",
+      "author": "高無メイ",
+      "introUrl": "https://note.com/mei_takanashi/n/n05e0d0a6d08d",
+      "startUrl": "https://itsumonokoto.net/002/blog1/",
+      "url": "https://itsumonokoto.net/002/blog1/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "個人ゲーム制作者のブログを調査する。",
+      "compatibility": "full",
+      "compatibilityNote": "前作を追加済みの場合は、前作のパネル表示をOFFにしてからプレイしてください。",
+      "totalPages": 37,
+      "addedAt": "2026-07-13",
+      "publishedAt": "2026-07-12",
+      "publishedAtSource": "https://note.com/mei_takanashi/n/n05e0d0a6d08d",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0127",
+      "lastUpdatedAt": "2026-07-12T15:10:20.220Z",
+      "disableAutoLinkOnAddPage": true,
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
         "hintMin": null,
         "hintMax": null
       }
