@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T16:15:50.042Z",
+  "updatedAt": "2026-07-18T07:18:15.228Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -3104,6 +3104,32 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0127",
       "lastUpdatedAt": "2026-07-12T16:15:50.042Z",
       "disableAutoLinkOnAddPage": true,
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1784358736731_4d9e8107ec523",
+      "title": "都市伝説愛好会",
+      "author": "shio",
+      "introUrl": "https://note.com/shio_salty/n/n14d9449b5264",
+      "startUrl": "https://uls-blog.vercel.app/",
+      "url": "https://uls-blog.vercel.app/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "約10年ぶりに更新されたオカルト交流サイトで、謎の合言葉を探す。ページ番号、総数の記載なし。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-07-18",
+      "publishedAt": "2026-07-17",
+      "publishedAtSource": "https://note.com/shio_salty/n/n14d9449b5264",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0129",
+      "lastUpdatedAt": "2026-07-18T07:18:15.228Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
