@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T07:18:15.228Z",
+  "updatedAt": "2026-07-19T12:39:04.577Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -3133,6 +3133,33 @@
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1784464450570_1567e8c42c8268",
+      "title": "写野郷土資料室",
+      "author": "エンドウ",
+      "introUrl": "https://note.com/endows_d2series/n/n4b88cf84fb9f",
+      "startUrl": "https://utsushinomura.d2series.workers.dev/",
+      "url": "https://utsushinomura.d2series.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "ダム建設で水没した写野村の歴史と風習を、個人運営の郷土資料室からたどる。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 36,
+      "addedAt": "2026-07-19",
+      "publishedAt": "2026-07-19",
+      "publishedAtSource": "https://note.com/endows_d2series/n/n4b88cf84fb9f",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0130",
+      "lastUpdatedAt": "2026-07-19T12:39:04.577Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
         "hintMin": null,
         "hintMax": null
       }
