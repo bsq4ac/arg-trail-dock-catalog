@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T12:39:04.577Z",
+  "updatedAt": "2026-07-20T13:25:40.511Z",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -3160,6 +3160,33 @@
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1784553669464_769e98b4774c78",
+      "title": "誰かの本棚",
+      "author": "sio",
+      "introUrl": "https://note.com/siosiorrr/n/n2ccdf781bad4",
+      "startUrl": "https://siosaigame.sakura.ne.jp/arg4/main.html",
+      "url": "https://siosaigame.sakura.ne.jp/arg4/main.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "他人の本棚を覗けるサイトで情報の断片を追い、街の事件の謎に迫る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 112,
+      "addedAt": "2026-07-20",
+      "publishedAt": "2026-07-20",
+      "publishedAtSource": "https://note.com/siosiorrr/n/n2ccdf781bad4",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0131",
+      "lastUpdatedAt": "2026-07-20T13:25:40.511Z",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
         "hintMin": null,
         "hintMax": null
       }
