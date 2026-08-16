@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T14:58:53.147587+00:00",
+  "updatedAt": "2026-08-16T15:36:00.896223+00:00",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -3395,6 +3395,34 @@
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": 4,
+        "hintMin": null,
+        "hintMax": null
+      }
+    },
+    {
+      "id": "1786894350509_893c1d54f774d",
+      "title": "古物占具店 Arca Antiqua",
+      "author": "黄昏",
+      "introUrl": "https://note.com/0magatoki_hazama/n/n38d19f158432",
+      "startUrl": "https://arca-antiqua.tas0gare.com/",
+      "url": "https://arca-antiqua.tas0gare.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "投函されたチラシをきっかけに、古物占具店「Arca Antiqua」のサイトを探索する。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 36,
+      "addedAt": "2026-08-17",
+      "publishedAt": "2026-08-15",
+      "publishedAtSource": "https://note.com/0magatoki_hazama/n/n38d19f158432",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0160",
+      "lastUpdatedAt": "2026-08-16T15:35:42.412Z",
+      "subTotalPages": 1,
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
         "hintMin": null,
         "hintMax": null
       }
