@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T15:36:00.896223+00:00",
+  "updatedAt": "2026-08-18T07:25:57.334734+00:00",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -66,7 +66,8 @@
       "publishedAt": "2026-01-05",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/n7f0c125a36a5",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0069",
-      "lastUpdatedAt": "2026-05-09T04:42:36.248Z"
+      "lastUpdatedAt": "2026-05-09T04:42:36.248Z",
+      "workId": "arg-0069"
     },
     {
       "id": "1768574836811_9eba043d5c6468",
@@ -88,7 +89,8 @@
       "publishedAt": "2026-01-08",
       "publishedAtSource": "https://note.com/takenamaco/n/n85f017b0c7fe",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0014",
-      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z",
+      "workId": "arg-0014"
     },
     {
       "id": "1770624671155_854d3343ec1f38",
@@ -110,7 +112,8 @@
       "publishedAt": "2026-01-08",
       "publishedAtSource": "https://note.com/chirue_creates/n/n406f89234a03",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0017",
-      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z",
+      "workId": "arg-0017"
     },
     {
       "id": "1768664234190_6a76081f0e5fd",
@@ -138,7 +141,8 @@
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0062"
     },
     {
       "id": "1768731829027_0d976b42ae47f8",
@@ -162,7 +166,8 @@
       "publishedAt": "2026-01-04",
       "publishedAtSource": "https://note.com/shon_0_/n/neb35fc1ba706",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0028",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z",
+      "workId": "arg-0028"
     },
     {
       "id": "1768738342764_1bcdbeb1143548",
@@ -266,7 +271,8 @@
       "publishedAt": "2026-01-24",
       "publishedAtSource": "https://note.com/oka_tetsuro/n/n5e20faa1c842",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0021",
-      "lastUpdatedAt": "2026-03-27T12:52:14.690Z"
+      "lastUpdatedAt": "2026-03-27T12:52:14.690Z",
+      "workId": "arg-0021"
     },
     {
       "id": "1769353310410_f8b942f234323",
@@ -286,7 +292,8 @@
       "publishedAt": "2026-01-24",
       "publishedAtSource": "https://note.com/twinkle_arg/n/nef0e515203e8",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0012",
-      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z",
+      "workId": "arg-0012"
     },
     {
       "id": "1769433783978_f5ecc5003c288",
@@ -308,7 +315,8 @@
       "publishedAt": "2026-01-11",
       "publishedAtSource": "https://note.com/birukamosu/n/n79caa11c5e4c",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0024",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z",
+      "workId": "arg-0024"
     },
     {
       "id": "1769578663164_3cf2efe15739c8",
@@ -328,7 +336,10 @@
       "publishedAt": "2026-01-27",
       "publishedAtSource": "https://note.com/maru444/n/ndf43994599e2",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0029",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T06:06:23.871Z",
+      "workId": "arg-0029"
     },
     {
       "id": "1769690233452_ca0039e494dff",
@@ -350,7 +361,10 @@
       "publishedAt": "2025-12-23",
       "publishedAtSource": "https://note.com/24naninu/n/n701700f22652",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0030",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:25:08.712Z",
+      "workId": "arg-0030"
     },
     {
       "id": "1769766863154_c9b437ff4ecd28",
@@ -372,7 +386,8 @@
       "publishedAt": "2025-12-23",
       "publishedAtSource": "https://note.com/harubashop/n/n8f2df763a8b4",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0032",
-      "lastUpdatedAt": "2026-03-25T05:00:24.350Z"
+      "lastUpdatedAt": "2026-03-25T05:00:24.350Z",
+      "workId": "arg-0032"
     },
     {
       "id": "1769772495890_9e4a999ff64ad",
@@ -394,7 +409,8 @@
       "publishedAt": "2025-12-14",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/n9fc08940ce5f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0068",
-      "lastUpdatedAt": "2026-05-09T04:42:23.632Z"
+      "lastUpdatedAt": "2026-05-09T04:42:23.632Z",
+      "workId": "arg-0068"
     },
     {
       "id": "1769778775289_459e1e8cb1ac2",
@@ -416,7 +432,8 @@
       "publishedAt": "2026-01-11",
       "publishedAtSource": "https://note.com/airshiplab_fune/n/naa631e398428",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0009",
-      "lastUpdatedAt": "2026-03-27T13:11:52.560Z"
+      "lastUpdatedAt": "2026-03-27T13:11:52.560Z",
+      "workId": "arg-0009"
     },
     {
       "id": "1769861427905_d57aa8a0cbd46",
@@ -438,7 +455,8 @@
       "publishedAt": "2026-01-10",
       "publishedAtSource": "https://note.com/himorogimura/n/nd379e467ee3f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0111",
-      "lastUpdatedAt": "2026-07-04T16:07:33.713Z"
+      "lastUpdatedAt": "2026-07-04T16:07:33.713Z",
+      "workId": "arg-0111"
     },
     {
       "id": "1770032724696_774f363b86a59",
@@ -458,7 +476,8 @@
       "publishedAt": "2026-02-01",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/nf60b3b0ff465",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0070",
-      "lastUpdatedAt": "2026-05-09T04:42:49.392Z"
+      "lastUpdatedAt": "2026-05-09T04:42:49.392Z",
+      "workId": "arg-0070"
     },
     {
       "id": "1770092976212_fd62583c4ce0d8",
@@ -484,7 +503,8 @@
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0022"
     },
     {
       "id": "1770121301745_1de06704e4ad8",
@@ -525,7 +545,10 @@
       "publishedAt": "2026-02-07",
       "publishedAtSource": "https://note.com/hanamakaze/n/na989362a7488",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0013",
-      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:25:43.367Z",
+      "workId": "arg-0013"
     },
     {
       "id": "1770978063599_37a4df99dc4be8",
@@ -548,7 +571,8 @@
       "publishedAt": "2026-02-13",
       "publishedAtSource": "https://note.com/sim/n/n9265a69fbdb8",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0039",
-      "lastUpdatedAt": "2026-03-27T12:33:20.524Z"
+      "lastUpdatedAt": "2026-03-27T12:33:20.524Z",
+      "workId": "arg-0039"
     },
     {
       "id": "1772090985780_d0909d04f9e818",
@@ -572,7 +596,8 @@
       "publishedAt": "2026-02-20",
       "publishedAtSource": "https://note.com/kinami_eggyolk/n/n9ec48fd8df52",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0038",
-      "lastUpdatedAt": "2026-03-27T12:33:20.524Z"
+      "lastUpdatedAt": "2026-03-27T12:33:20.524Z",
+      "workId": "arg-0038"
     },
     {
       "id": "1772457686955_7da413e0e996c",
@@ -617,7 +642,10 @@
       "publishedAt": "2025-08-02",
       "publishedAtSource": "https://note.com/reiki_files/n/n232dd00e876b",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0025",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:25:29.848Z",
+      "workId": "arg-0025"
     },
     {
       "id": "1772796155057_13faaded8cdae",
@@ -885,7 +913,8 @@
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0040"
     },
     {
       "id": "1772797801999_9237367dd2d018",
@@ -908,7 +937,8 @@
       "publishedAt": "2025-07-27",
       "publishedAtSource": "https://mia31.fanbox.cc/posts/10250125",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0004",
-      "lastUpdatedAt": "2026-03-27T13:30:29.671Z"
+      "lastUpdatedAt": "2026-03-27T13:30:29.671Z",
+      "workId": "arg-0004"
     },
     {
       "id": "1772797967843_7f836dadafc6a8",
@@ -1103,7 +1133,8 @@
       "publishedAt": "2025-08-17",
       "publishedAtSource": "https://note.com/yono_rabe/n/n43391da77bdf",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0016",
-      "lastUpdatedAt": "2026-03-27T13:05:56.217Z"
+      "lastUpdatedAt": "2026-03-27T13:05:56.217Z",
+      "workId": "arg-0016"
     },
     {
       "id": "1772799380926_52eee353321108",
@@ -1154,7 +1185,10 @@
       "publishedAt": "2025-08-31",
       "publishedAtSource": "https://note.com/reiki_files/n/nab816dee1bf4",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0026",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:25:25.271Z",
+      "workId": "arg-0026"
     },
     {
       "id": "1772799582038_dfb024ec57a83",
@@ -1282,7 +1316,8 @@
       "publishedAt": "2025-12-21",
       "publishedAtSource": "https://note.com/harubashop/n/n4a6ecb909b69",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0031",
-      "lastUpdatedAt": "2026-03-27T12:48:41.755Z"
+      "lastUpdatedAt": "2026-03-27T12:48:41.755Z",
+      "workId": "arg-0031"
     },
     {
       "id": "1772801642004_26f9c1d36fbab",
@@ -1327,7 +1362,8 @@
       "publishedAtSource": "https://note.com/matsaman_ai/n/n16797e97453d",
       "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0041",
       "lastUpdatedAt": "2026-04-01T14:56:39.894Z",
-      "subTotalPages": 9
+      "subTotalPages": 9,
+      "workId": "arg-0041"
     },
     {
       "id": "1772801896661_6d9a4ba9be1518",
@@ -1427,7 +1463,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0053"
     },
     {
       "id": "1772802167892_fc0661b22cc8c",
@@ -1612,7 +1649,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0033"
     },
     {
       "id": "1772802948027_f675d1fbd1a1d",
@@ -1635,7 +1673,8 @@
       "publishedAt": "2026-01-15",
       "publishedAtSource": "https://note.com/kunugi77/n/n5e8094c41b36",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0064",
-      "lastUpdatedAt": "2026-05-09T04:34:47.081Z"
+      "lastUpdatedAt": "2026-05-09T04:34:47.081Z",
+      "workId": "arg-0064"
     },
     {
       "id": "1772803008486_dd2e22ac9e2248",
@@ -1686,7 +1725,8 @@
       "publishedAt": "2026-02-14",
       "publishedAtSource": "https://note.com/chirue_creates/n/na7cb69778225",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0037",
-      "lastUpdatedAt": "2026-07-09T03:12:23.029Z"
+      "lastUpdatedAt": "2026-07-09T03:12:23.029Z",
+      "workId": "arg-0037"
     },
     {
       "id": "1772803275763_dddc5a289abd5",
@@ -1797,7 +1837,8 @@
       "publishedAt": "2026-03-06",
       "publishedAtSource": "https://note.com/sim/n/nd5e97ca97c93",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0003",
-      "lastUpdatedAt": "2026-03-27T13:30:29.671Z"
+      "lastUpdatedAt": "2026-03-27T13:30:29.671Z",
+      "workId": "arg-0003"
     },
     {
       "id": "1772806486552_2ecd6c24257828",
@@ -1818,7 +1859,8 @@
       "publishedAt": "2026-02-28",
       "publishedAtSource": "https://note.com/oka_tetsuro/n/nac624ab4c963",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0023",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z"
+      "lastUpdatedAt": "2026-03-27T12:51:42.674Z",
+      "workId": "arg-0023"
     },
     {
       "id": "1772806641849_91a8355c69d0d8",
@@ -1860,13 +1902,16 @@
       "publishedAt": "2025-12-07",
       "publishedAtSource": "https://note.com/reiki_files/n/nfc3028373268",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0027",
-      "lastUpdatedAt": "2026-03-25T06:12:59.612Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:25:22.766Z",
       "estPlayHours": {
         "normalMin": 4,
         "normalMax": 6,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0027"
     },
     {
       "id": "1774612406791_109f85372e8ad",
@@ -1886,13 +1931,16 @@
       "publishedAt": "2026-01-22",
       "publishedAtSource": "https://x.com/Fiction_Hole/status/2014248391619014935",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0036",
-      "lastUpdatedAt": "2026-03-27T14:16:04.067Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:24:58.728Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1.5,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0036"
     },
     {
       "id": "1774615569363_ac1e9b9e879358",
@@ -1911,7 +1959,8 @@
       "addedAt": "2026-03-27",
       "publishedAt": "2026-02-01",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0034",
-      "lastUpdatedAt": "2026-07-09T03:12:30.969Z"
+      "lastUpdatedAt": "2026-07-09T03:12:30.969Z",
+      "workId": "arg-0034"
     },
     {
       "id": "1774615954474_195ca88cb3794",
@@ -1930,7 +1979,8 @@
       "addedAt": "2026-03-27",
       "publishedAt": "2026-03-20",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0020",
-      "lastUpdatedAt": "2026-03-27T14:16:04.067Z"
+      "lastUpdatedAt": "2026-03-27T14:16:04.067Z",
+      "workId": "arg-0020"
     },
     {
       "id": "1774616252794_3d4ff0f011e73",
@@ -1950,7 +2000,8 @@
       "publishedAt": "2025-12-20",
       "publishedAtSource": "https://note.com/nekodaisukicat/n/ne75ee2656a75",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0019",
-      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
+      "workId": "arg-0019"
     },
     {
       "id": "1774616356209_5d2b8e48919048",
@@ -1971,13 +2022,16 @@
       "publishedAt": "2025-09-22",
       "publishedAtSource": "https://note.com/megumimahiro/n/nd5041c4f137c",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0018",
-      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:25:40.536Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": 3,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0018"
     },
     {
       "id": "1774616583184_a710bc43b1f0f",
@@ -1997,7 +2051,8 @@
       "publishedAt": "2026-03-13",
       "publishedAtSource": "https://note.com/subana/n/n26ec6540613e",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0011",
-      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
+      "workId": "arg-0011"
     },
     {
       "id": "1774616772801_6784ea4b7d03",
@@ -2017,7 +2072,8 @@
       "publishedAt": "2026-03-18",
       "publishedAtSource": "https://omocoro.jp/kiji/555756/",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0010",
-      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
+      "workId": "arg-0010"
     },
     {
       "id": "1774617113144_e15529912db89",
@@ -2043,7 +2099,8 @@
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0008"
     },
     {
       "id": "1774618085847_d3072751d37f2",
@@ -2063,7 +2120,8 @@
       "publishedAt": "2026-02-05",
       "publishedAtSource": "https://note.com/ikempty/n/n2d7ad2ea12f1",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0006",
-      "lastUpdatedAt": "2026-03-27T14:14:20.083Z"
+      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
+      "workId": "arg-0006"
     },
     {
       "id": "1775054925062_ea0f49881c0c68",
@@ -2084,7 +2142,8 @@
       "publishedAt": "2026-03-29",
       "publishedAtSource": "https://note.com/siosiorrr/n/n8f48d0518111",
       "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0045",
-      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z",
+      "workId": "arg-0045"
     },
     {
       "id": "1775055039774_e582085d25b5c8",
@@ -2104,7 +2163,8 @@
       "publishedAt": "2026-03-05",
       "publishedAtSource": "https://note.com/siosiorrr/n/n923ba1d640c3",
       "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0044",
-      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z",
+      "workId": "arg-0044"
     },
     {
       "id": "1775055132693_bfa6f12b3f4a78",
@@ -2125,7 +2185,8 @@
       "publishedAt": "2026-01-06",
       "publishedAtSource": "https://note.com/siosiorrr/n/n50a81c26f45d",
       "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0043",
-      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z",
+      "workId": "arg-0043"
     },
     {
       "id": "1775055239246_2ddf83b1b221d",
@@ -2145,7 +2206,8 @@
       "publishedAt": "2026-03-29",
       "publishedAtSource": "https://note.com/yamataro_1010/n/n2cd97fc64573",
       "portalUrl": "https://www.sim3.net/portal/work.php?id=arg-0042",
-      "lastUpdatedAt": "2026-04-01T15:15:42.526Z"
+      "lastUpdatedAt": "2026-04-01T15:15:42.526Z",
+      "workId": "arg-0042"
     },
     {
       "id": "1775305424531_056207b283f0c8",
@@ -2166,7 +2228,8 @@
       "publishedAt": "2026-04-01",
       "publishedAtSource": "https://note.com/4_5matworks/n/n6e8ddcad9953",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0046",
-      "lastUpdatedAt": "2026-04-04T12:33:55.624Z"
+      "lastUpdatedAt": "2026-04-04T12:33:55.624Z",
+      "workId": "arg-0046"
     },
     {
       "id": "1775305504411_1bc742f1c149b8",
@@ -2186,7 +2249,10 @@
       "publishedAt": "2026-04-02",
       "publishedAtSource": "https://note.com/sim/n/nded84ab9c0ec",
       "portalUrl": "https://www.sim3.net/portal/work.html?id=arg-0047",
-      "lastUpdatedAt": "2026-04-04T12:38:34.345Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:24:49.217Z",
+      "workId": "arg-0047"
     },
     {
       "id": "1775556390392_048839175d66c",
@@ -2232,7 +2298,8 @@
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0048"
     },
     {
       "id": "1778294452645_ff765f7029fea8",
@@ -2252,7 +2319,8 @@
       "publishedAt": "2026-04-11",
       "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0049",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0049",
-      "lastUpdatedAt": "2026-05-09T02:51:42.379Z"
+      "lastUpdatedAt": "2026-05-09T02:51:42.379Z",
+      "workId": "arg-0049"
     },
     {
       "id": "1778295130842_dc8a7e17ccedd8",
@@ -2278,7 +2346,8 @@
         "normalMax": 4,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0050"
     },
     {
       "id": "1778295516185_966c75dd91b9d",
@@ -2298,8 +2367,11 @@
       "publishedAt": "2026-04-15",
       "publishedAtSource": "https://note.com/hanamakaze/n/n30a5a84f808b",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0051",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
-      "subTotalPages": 25
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:24:38.920Z",
+      "subTotalPages": 25,
+      "workId": "arg-0051"
     },
     {
       "id": "1778295633569_af24f2c3ed70a8",
@@ -2326,7 +2398,8 @@
         "normalMax": 3,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0052"
     },
     {
       "id": "1778299703654_3c11d18f21099",
@@ -2347,7 +2420,8 @@
       "publishedAt": "2026-04-19",
       "publishedAtSource": "https://fakenote.pages.dev/",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0058",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "workId": "arg-0058"
     },
     {
       "id": "1778299782870_8d0e54aaf83da",
@@ -2368,7 +2442,8 @@
       "publishedAt": "2026-04-26",
       "publishedAtSource": "https://note.com/minideraco/n/n460eabbb8e80",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0059",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "workId": "arg-0059"
     },
     {
       "id": "1778299883982_99192bc7cc77e8",
@@ -2394,7 +2469,8 @@
         "normalMax": 4,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0060"
     },
     {
       "id": "1778300712692_648513480fca58",
@@ -2415,7 +2491,8 @@
       "publishedAt": "2026-04-24",
       "publishedAtSource": "https://note.com/ryutaro_akashi/n/n4a9c16afc7d2",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0061",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "workId": "arg-0061"
     },
     {
       "id": "1778300802219_b1bf4195b0bd08",
@@ -2441,7 +2518,8 @@
         "normalMax": 3,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0056"
     },
     {
       "id": "1778301301061_fbd0c33b6647d8",
@@ -2462,13 +2540,16 @@
       "publishedAt": "2026-04-23",
       "publishedAtSource": "https://note.com/saikyo_0401/n/n061cd01a4415",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0065",
-      "lastUpdatedAt": "2026-06-06T11:34:45.285Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:24:27.895Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0065"
     },
     {
       "id": "1778301508745_d1bb87b444d8e8",
@@ -2489,13 +2570,16 @@
       "publishedAt": "2026-05-07",
       "publishedAtSource": "https://note.com/saikyo_0401/n/ndb178fda7d1c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0066",
-      "lastUpdatedAt": "2026-06-11T09:23:29.330Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:24:20.719Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0066"
     },
     {
       "id": "1778301783759_3e2f69dd8ef1c8",
@@ -2516,7 +2600,8 @@
       "publishedAt": "2026-03-30",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/nf1a5f9ead15e",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0071",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "workId": "arg-0071"
     },
     {
       "id": "1778301876706_6bd7b547a6bfb",
@@ -2537,7 +2622,8 @@
       "publishedAt": "2026-04-29",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/nb8603c926ba1",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0072",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z"
+      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "workId": "arg-0072"
     },
     {
       "id": "1778310094055_719fc567f529a8",
@@ -2580,7 +2666,10 @@
       "publishedAt": "2026-05-14",
       "publishedAtSource": "https://note.com/ls_0328/n/n8ac8b32a231c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0074",
-      "lastUpdatedAt": "2026-05-22T14:49:16.937Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:24:07.182Z",
+      "workId": "arg-0074"
     },
     {
       "id": "1779457964057_1e4323eaf15b5",
@@ -2608,7 +2697,8 @@
         "normalMax": 3,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0077"
     },
     {
       "id": "1779458245513_dbcd61be3f1458",
@@ -2635,7 +2725,8 @@
         "normalMax": 2.5,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0078"
     },
     {
       "id": "1779458380138_9584e625f97708",
@@ -2662,7 +2753,8 @@
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0079"
     },
     {
       "id": "1779459850088_ca0e297799c248",
@@ -2683,7 +2775,10 @@
       "publishedAt": "2026-05-22",
       "publishedAtSource": "https://note.com/ls_0328/n/n41e9daf7fbbb",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0080",
-      "lastUpdatedAt": "2026-05-22T14:39:46.672Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:23:58.519Z",
+      "workId": "arg-0080"
     },
     {
       "id": "1780745305155_297ec56e4a2c68",
@@ -2704,7 +2799,8 @@
       "publishedAt": "2026-05-26",
       "publishedAtSource": "https://note.com/mi6_kny/n/n33b4cdd76ef6",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0083",
-      "lastUpdatedAt": "2026-06-06T11:41:02.534Z"
+      "lastUpdatedAt": "2026-06-06T11:41:02.534Z",
+      "workId": "arg-0083"
     },
     {
       "id": "1780745429506_4e07fb1b28f78",
@@ -2725,13 +2821,16 @@
       "publishedAt": "2026-05-24",
       "publishedAtSource": "https://note.com/saikyo_0401/n/n146b2ab5ae22",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0084",
-      "lastUpdatedAt": "2026-06-06T11:42:42.193Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:23:40.489Z",
       "estPlayHours": {
         "normalMin": 1.5,
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0084"
     },
     {
       "id": "1781288934881_4bf006f25bff3",
@@ -2753,7 +2852,8 @@
       "publishedAtSource": "https://note.com/matsaman_ai/n/n13bc34dce60f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0098",
       "lastUpdatedAt": "2026-06-24T12:25:25.753Z",
-      "subTotalPages": 30
+      "subTotalPages": 30,
+      "workId": "arg-0098"
     },
     {
       "id": "1781289341992_24b473c162312",
@@ -2774,7 +2874,8 @@
       "publishedAt": "2026-06-08",
       "publishedAtSource": "https://note.com/minideraco/n/n49a88bdf7325",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0096",
-      "lastUpdatedAt": "2026-06-24T12:13:07.838Z"
+      "lastUpdatedAt": "2026-06-24T12:13:07.838Z",
+      "workId": "arg-0096"
     },
     {
       "id": "1782304586953_5756fc9ba497f",
@@ -2795,7 +2896,8 @@
       "publishedAt": "2026-06-24",
       "publishedAtSource": "https://note.com/mimi_arg/n/ncaf6a6507710",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0109",
-      "lastUpdatedAt": "2026-07-04T16:05:21.497Z"
+      "lastUpdatedAt": "2026-07-04T16:05:21.497Z",
+      "workId": "arg-0109"
     },
     {
       "id": "1782304767748_e7c3b2b69d33c8",
@@ -2816,7 +2918,8 @@
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/koyama_1717/n/ncd101c42b51c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0141",
-      "lastUpdatedAt": "2026-08-05T14:28:20.455Z"
+      "lastUpdatedAt": "2026-08-05T14:28:20.455Z",
+      "workId": "arg-0141"
     },
     {
       "id": "1782304851338_d398ffac093718",
@@ -2837,7 +2940,8 @@
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/koyama_1717/n/na26f5e57ce88",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0140",
-      "lastUpdatedAt": "2026-08-05T14:27:57.887Z"
+      "lastUpdatedAt": "2026-08-05T14:27:57.887Z",
+      "workId": "arg-0140"
     },
     {
       "id": "1782304907083_867d4050ca7bd8",
@@ -2858,7 +2962,8 @@
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/koyama_1717/n/n3d39959e950c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0142",
-      "lastUpdatedAt": "2026-08-05T14:28:41.332Z"
+      "lastUpdatedAt": "2026-08-05T14:28:41.332Z",
+      "workId": "arg-0142"
     },
     {
       "id": "1782306199702_c31cc4de02a028",
@@ -2879,7 +2984,10 @@
       "publishedAt": "2026-06-20",
       "publishedAtSource": "https://note.com/ls_0328/n/n605000798915",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0103",
-      "lastUpdatedAt": "2026-07-04T15:54:15.414Z"
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:23:04.615Z",
+      "workId": "arg-0103"
     },
     {
       "id": "1782381833511_736ec2cf2c889",
@@ -2906,7 +3014,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0104"
     },
     {
       "id": "1783180812027_6d0063976e07c",
@@ -2927,7 +3036,8 @@
       "publishedAtSource": "https://note.com/twinkle_arg/n/n85d4cbe598f6",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0106",
       "lastUpdatedAt": "2026-07-11T14:55:35.876Z",
-      "disableAutoLinkOnAddPage": true
+      "disableAutoLinkOnAddPage": true,
+      "workId": "arg-0106"
     },
     {
       "id": "1783180936305_e9aef7929c2ed",
@@ -2955,7 +3065,8 @@
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0107"
     },
     {
       "id": "1783181146105_8fc286986603f8",
@@ -2976,13 +3087,16 @@
       "publishedAt": "2026-06-25",
       "publishedAtSource": "https://note.com/ls_0328/n/n2600d872649a",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0110",
-      "lastUpdatedAt": "2026-07-04T16:44:59.045Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:22:40.416Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0110"
     },
     {
       "id": "1783181356920_df2cb04a190638",
@@ -3009,7 +3123,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0113"
     },
     {
       "id": "1783181998132_84cd7b38277788",
@@ -3030,7 +3145,8 @@
       "publishedAt": "2026-07-01",
       "publishedAtSource": "https://note.com/mito_intersect/n/n2b6de13f4dd3",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0115",
-      "lastUpdatedAt": "2026-07-04T16:42:04.206Z"
+      "lastUpdatedAt": "2026-07-04T16:42:04.206Z",
+      "workId": "arg-0115"
     },
     {
       "id": "1783182114771_886e88605520e",
@@ -3056,7 +3172,8 @@
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0116"
     },
     {
       "id": "1783697672862_7c073a23e147e",
@@ -3077,13 +3194,16 @@
       "publishedAt": "2026-07-07",
       "publishedAtSource": "https://note.com/hanamakaze/n/nb99380b71f6f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0123",
-      "lastUpdatedAt": "2026-07-10T15:39:01.006Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:22:21.176Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0123"
     },
     {
       "id": "1783868707124_7bad367a431408",
@@ -3112,7 +3232,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0127"
     },
     {
       "id": "1784358736731_4d9e8107ec523",
@@ -3138,7 +3259,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0129"
     },
     {
       "id": "1784464450570_1567e8c42c8268",
@@ -3165,7 +3287,8 @@
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0130"
     },
     {
       "id": "1784553669464_769e98b4774c78",
@@ -3192,7 +3315,8 @@
         "normalMax": 3,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0131"
     },
     {
       "id": "1785937976925_ff3cef3840e8c8",
@@ -3220,7 +3344,8 @@
         "normalMax": 2,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0132"
     },
     {
       "id": "1785938724689_a3c9b5f68d5ca8",
@@ -3248,7 +3373,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0136"
     },
     {
       "id": "1785939695355_137b542a0a152",
@@ -3274,7 +3400,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0139"
     },
     {
       "id": "1785940136371_6a3a1a69e1b52",
@@ -3295,7 +3422,8 @@
       "publishedAt": "2026-07-03",
       "publishedAtSource": "https://note.com/koyama_1717/n/na115adc7ed4e",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0143",
-      "lastUpdatedAt": "2026-08-05T14:31:55.210Z"
+      "lastUpdatedAt": "2026-08-05T14:31:55.210Z",
+      "workId": "arg-0143"
     },
     {
       "id": "1785940345192_3a77f2c3155ab8",
@@ -3322,7 +3450,8 @@
         "normalMax": 1,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0144"
     },
     {
       "id": "1785940766378_152c6edd3f22c8",
@@ -3343,7 +3472,8 @@
       "publishedAtSource": "https://note.com/subana/n/nf0778078d376",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0145",
       "lastUpdatedAt": "2026-08-05T14:42:43.784Z",
-      "disableAutoLinkOnAddPage": true
+      "disableAutoLinkOnAddPage": true,
+      "workId": "arg-0145"
     },
     {
       "id": "1785940999887_777438c1d719a8",
@@ -3370,7 +3500,8 @@
         "normalMax": 6,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0146"
     },
     {
       "id": "1785941703820_c83db6f4bb259",
@@ -3391,13 +3522,16 @@
       "publishedAt": "2026-08-01",
       "publishedAtSource": "https://note.com/ls_0328/n/n55e6f95a6f26",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0147",
-      "lastUpdatedAt": "2026-08-05T14:57:01.954Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T07:21:54.888Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": 4,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0147"
     },
     {
       "id": "1786894350509_893c1d54f774d",
@@ -3425,7 +3559,8 @@
         "normalMax": 3,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0160"
     }
   ]
 }
