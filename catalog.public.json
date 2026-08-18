@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T07:25:57.334734+00:00",
+  "updatedAt": "2026-08-18T09:48:30.067913+00:00",
   "items": [
     {
       "id": "1768375769999_e7dc8b2143fa",
@@ -1361,7 +1361,9 @@
       "publishedAt": "2026-01-08",
       "publishedAtSource": "https://note.com/matsaman_ai/n/n16797e97453d",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0041",
-      "lastUpdatedAt": "2026-04-01T14:56:39.894Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T09:48:24.162Z",
       "subTotalPages": 9,
       "workId": "arg-0041"
     },
@@ -2851,7 +2853,9 @@
       "publishedAt": "2026-06-12",
       "publishedAtSource": "https://note.com/matsaman_ai/n/n13bc34dce60f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0098",
-      "lastUpdatedAt": "2026-06-24T12:25:25.753Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T09:48:26.671Z",
       "subTotalPages": 30,
       "workId": "arg-0098"
     },
