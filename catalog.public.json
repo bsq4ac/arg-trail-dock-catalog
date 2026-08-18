@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T11:59:44.543193+00:00",
+  "updatedAt": "2026-08-18T13:47:51.761983+00:00",
   "webArgPortalExclusions": {
     "arg-0151": {
       "reason": "unsupported",
@@ -717,7 +717,11 @@
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-03",
       "publishedAtSource": "https://note.com/tmnz/n/n5b028de4c5d9",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0164",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-08-18",
+      "lastUpdatedAt": "2026-08-18T13:31:05.113Z",
+      "workId": "arg-0164"
     },
     {
       "id": "1772796546834_dd0ecff0e4c5a8",
