@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T13:47:51.761983+00:00",
+  "updatedAt": "2026-08-19T11:04:46.135848+00:00",
   "webArgPortalExclusions": {
     "arg-0151": {
       "reason": "unsupported",
@@ -172,7 +172,9 @@
       "publishedAt": "2026-01-04",
       "publishedAtSource": "https://note.com/shon_0_/n/neb35fc1ba706",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0028",
-      "lastUpdatedAt": "2026-03-27T12:51:42.674Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-19",
+      "lastUpdatedAt": "2026-08-19T04:56:55.415Z",
       "workId": "arg-0028"
     },
     {
@@ -642,7 +644,7 @@
       "curatorBadge": "recommended",
       "status": "active",
       "shortDescription": "喫茶店従業員の捜索依頼を受け、残された記録から居場所を特定する。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-02",
@@ -650,7 +652,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0025",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-08-18",
-      "lastUpdatedAt": "2026-08-18T07:25:29.848Z",
+      "lastUpdatedAt": "2026-08-19T10:58:34.873Z",
       "workId": "arg-0025"
     },
     {
@@ -667,13 +669,13 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "予報不能な異常気象が拡大する中、事件記録やSNS投稿を調査し真相に迫る。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 35,
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-03",
       "publishedAtSource": "https://note.com/twinkle_arg/n/n689fe696eed3",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z"
+      "lastUpdatedAt": "2026-08-19T10:58:34.873Z"
     },
     {
       "id": "1772796367394_b8121a0c504",
@@ -710,7 +712,7 @@
       "curatorBadge": "recommended",
       "status": "active",
       "shortDescription": "兄を捜す投稿をきっかけに、日記サイト「0時の日記」を調査する。「謎解き」要素の強い作品。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 40,
       "sortTitle": "れいじのにっき",
@@ -720,7 +722,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0164",
       "portalClearStatus": "not_listed",
       "portalClearCheckedAt": "2026-08-18",
-      "lastUpdatedAt": "2026-08-18T13:31:05.113Z",
+      "lastUpdatedAt": "2026-08-18T13:49:17.801Z",
       "workId": "arg-0164"
     },
     {
@@ -2063,7 +2065,9 @@
       "publishedAt": "2026-03-13",
       "publishedAtSource": "https://note.com/subana/n/n26ec6540613e",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0011",
-      "lastUpdatedAt": "2026-03-27T14:14:20.083Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-19",
+      "lastUpdatedAt": "2026-08-19T11:03:05.803Z",
       "workId": "arg-0011"
     },
     {
@@ -2240,7 +2244,9 @@
       "publishedAt": "2026-04-01",
       "publishedAtSource": "https://note.com/4_5matworks/n/n6e8ddcad9953",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0046",
-      "lastUpdatedAt": "2026-04-04T12:33:55.624Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-19",
+      "lastUpdatedAt": "2026-08-19T04:56:55.418Z",
       "workId": "arg-0046"
     },
     {
@@ -2366,8 +2372,8 @@
       "title": "月は綺麗ですか",
       "author": "はな",
       "introUrl": "https://note.com/hanamakaze/n/n30a5a84f808b",
-      "startUrl": "https://example.com/",
-      "url": "https://example.com/",
+      "startUrl": "https://moonbeautiful.pages.dev/",
+      "url": "https://moonbeautiful.pages.dev/",
       "categories": [],
       "playStyleTags": [],
       "curatorBadge": "",
@@ -2381,7 +2387,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0051",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-08-18",
-      "lastUpdatedAt": "2026-08-18T07:24:38.920Z",
+      "lastUpdatedAt": "2026-08-19T11:04:46.114Z",
       "subTotalPages": 25,
       "workId": "arg-0051"
     },
@@ -3127,11 +3133,12 @@
       "compatibility": "",
       "compatibilityNote": "",
       "totalPages": 27,
+      "initialScopeUrl": "https://kunato-koumuten.nyk-sm.com/",
       "addedAt": "2026-07-05",
       "publishedAt": "2026-06-28",
       "publishedAtSource": "https://note.com/mei_takanashi/n/ne9e8bd06adbb",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0113",
-      "lastUpdatedAt": "2026-07-04T16:43:52.873Z",
+      "lastUpdatedAt": "2026-08-19T11:01:38.752Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
@@ -3167,8 +3174,8 @@
       "title": "久生戸工務店社長失踪事件",
       "author": "奈雪霜",
       "introUrl": "https://note.com/local_memory/n/n3b63b5c57555",
-      "startUrl": "https://example.com/",
-      "url": "https://example.com/",
+      "startUrl": "https://sns.nyk-sm.com/kunato_Kta/",
+      "url": "https://sns.nyk-sm.com/kunato_Kta/",
       "categories": [],
       "playStyleTags": [],
       "curatorBadge": "",
@@ -3180,7 +3187,7 @@
       "publishedAt": "2026-07-02",
       "publishedAtSource": "https://note.com/local_memory/n/n3b63b5c57555",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0116",
-      "lastUpdatedAt": "2026-07-04T16:33:58.720Z",
+      "lastUpdatedAt": "2026-08-19T11:01:23.203Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -3295,7 +3302,9 @@
       "publishedAt": "2026-07-19",
       "publishedAtSource": "https://note.com/endows_d2series/n/n4b88cf84fb9f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0130",
-      "lastUpdatedAt": "2026-07-19T12:39:04.577Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-19",
+      "lastUpdatedAt": "2026-08-19T04:56:55.419Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
@@ -3485,7 +3494,9 @@
       "publishedAt": "2026-07-26",
       "publishedAtSource": "https://note.com/subana/n/nf0778078d376",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0145",
-      "lastUpdatedAt": "2026-08-05T14:42:43.784Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-19",
+      "lastUpdatedAt": "2026-08-19T11:03:08.185Z",
       "disableAutoLinkOnAddPage": true,
       "workId": "arg-0145"
     },
