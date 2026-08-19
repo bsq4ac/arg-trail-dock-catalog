@@ -1,10 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T11:04:46.135848+00:00",
+  "updatedAt": "2026-08-19T13:58:41.014528+00:00",
   "webArgPortalExclusions": {
     "arg-0151": {
       "reason": "unsupported",
       "updatedAt": "2026-08-18T11:59:37.036Z"
+    },
+    "arg-0163": {
+      "reason": "unsupported",
+      "updatedAt": "2026-08-19T13:48:04.376Z"
     }
   },
   "items": [
@@ -3586,6 +3590,35 @@
         "hintMax": null
       },
       "workId": "arg-0160"
+    },
+    {
+      "id": "1787147532509_1cf9f9bb13d258",
+      "title": "閉校式予告殺人事件",
+      "author": "はな",
+      "introUrl": "https://note.com/hanamakaze/n/nd797212cb0ac",
+      "startUrl": "https://agape-buq.pages.dev/",
+      "url": "https://agape-buq.pages.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閉校間近の母校に届いた殺害予告を巡り、卒業文集を手掛かりに調査を開始する。",
+      "compatibility": "full",
+      "compatibilityNote": "ゲーム内ページ右下に、発見したページの一覧があります。",
+      "totalPages": 49,
+      "addedAt": "2026-08-19",
+      "publishedAt": "2026-08-15",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0162",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-19",
+      "lastUpdatedAt": "2026-08-19T13:58:22.541Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0162"
     }
   ]
 }
