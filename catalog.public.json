@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T13:58:41.014528+00:00",
+  "updatedAt": "2026-08-20T10:01:36.620734+00:00",
   "webArgPortalExclusions": {
     "arg-0151": {
       "reason": "unsupported",
@@ -3619,6 +3619,36 @@
         "hintMax": null
       },
       "workId": "arg-0162"
+    },
+    {
+      "id": "1787219819614_fab150a6d87d88",
+      "title": "都合のよすぎる求人サイト",
+      "author": "能登崇",
+      "introUrl": "https://y-oz.sakura.ne.jp/ARG/01/",
+      "startUrl": "https://y-oz.sakura.ne.jp/ARG/01/",
+      "url": "https://y-oz.sakura.ne.jp/ARG/01/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "失業中の「私」は、富岡さんから高収入求人サイト「EasyJob」を紹介される。",
+      "compatibility": "full",
+      "compatibilityNote": "ページ右下に発見ページ履歴があります。",
+      "totalPages": 18,
+      "addedAt": "2026-08-20",
+      "publishedAt": "2026-08-20",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0168",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0168",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-20",
+      "lastUpdatedAt": "2026-08-20T10:01:20.901Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0168"
     }
   ]
 }
