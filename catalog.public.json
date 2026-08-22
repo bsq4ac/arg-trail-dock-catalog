@@ -1,26 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T07:42:57.591991+00:00",
+  "updatedAt": "2026-08-22T16:54:08.500230+00:00",
   "webArgPortalExclusions": {
+    "arg-0121": {
+      "reason": "unsupported",
+      "updatedAt": "2026-08-22T11:11:51.127Z"
+    },
+    "arg-0122": {
+      "reason": "unsupported",
+      "updatedAt": "2026-08-22T12:10:40.165Z"
+    },
     "arg-0151": {
       "reason": "unsupported",
-      "updatedAt": "2026-08-18T11:59:37.036Z"
+      "updatedAt": "2026-08-22T09:05:38.731Z"
     },
     "arg-0157": {
       "reason": "unsupported",
-      "updatedAt": "2026-08-22T07:10:06.955Z"
+      "updatedAt": "2026-08-22T10:23:34.500Z"
     },
     "arg-0158": {
       "reason": "unsupported",
-      "updatedAt": "2026-08-22T07:09:41.347Z"
+      "updatedAt": "2026-08-22T10:23:27.468Z"
     },
     "arg-0163": {
       "reason": "unsupported",
-      "updatedAt": "2026-08-19T13:48:04.376Z"
+      "updatedAt": "2026-08-22T11:04:55.058Z"
     },
     "arg-0167": {
       "reason": "unsupported",
-      "updatedAt": "2026-08-22T06:47:53.276Z"
+      "updatedAt": "2026-08-22T09:04:59.251Z"
     }
   },
   "items": [
@@ -628,7 +636,9 @@
       "publishedAt": "2026-02-20",
       "publishedAtSource": "https://note.com/kinami_eggyolk/n/n9ec48fd8df52",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0038",
-      "lastUpdatedAt": "2026-03-27T12:33:20.524Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-23",
+      "lastUpdatedAt": "2026-08-22T16:06:03.320Z",
       "workId": "arg-0038"
     },
     {
@@ -763,19 +773,23 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "新人刑事として、不可解な身元不明遺体に関する調査を行う。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 36,
       "addedAt": "2026-03-05",
       "publishedAt": "2025-08-02",
       "publishedAtSource": "https://note.com/yoryormary/n/n86fcc595ab84",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0174",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-23",
+      "lastUpdatedAt": "2026-08-22T16:06:03.320Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0174"
     },
     {
       "id": "1772796620704_fd2098e6a990d8",
@@ -1731,21 +1745,25 @@
       "playStyleTags": [],
       "curatorBadge": "",
       "status": "active",
-      "shortDescription": "同日に別々の場所で死亡した三人組アイドルの真相を、公開情報から探る。ゲーム内に便利なリスト・メモ機能あり。",
-      "compatibility": "",
+      "shortDescription": "同日に別々の場所で死亡した三人組アイドルの真相を、公開情報から探る。ゲーム内にブラウザを内包し、便利なリスト・メモ機能があります。",
+      "compatibility": "partial",
       "compatibilityNote": "",
       "totalPages": 43,
       "addedAt": "2026-03-05",
       "publishedAt": "2026-02-03",
       "publishedAtSource": "https://note.com/yoryormary/n/nd294bb426fb1",
-      "lastUpdatedAt": "2026-03-22T17:14:17.617Z",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0175",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-23",
+      "lastUpdatedAt": "2026-08-22T16:53:59.325Z",
       "subTotalPages": 1,
       "estPlayHours": {
         "normalMin": 2.5,
         "normalMax": null,
         "hintMin": null,
         "hintMax": null
-      }
+      },
+      "workId": "arg-0175"
     },
     {
       "id": "1772803153555_e980d6c7bf69a8",
@@ -3553,7 +3571,9 @@
       "publishedAt": "2026-08-01",
       "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0146",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0146",
-      "lastUpdatedAt": "2026-08-05T14:54:41.248Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-23",
+      "lastUpdatedAt": "2026-08-22T16:06:03.323Z",
       "estPlayHours": {
         "normalMin": 4,
         "normalMax": 6,
@@ -3764,8 +3784,9 @@
       "compatibilityNote": "「1人用」のURLを開始ページとしています。本ツールを使用する場合は「1人用」のURLで開始してください。",
       "totalPages": 34,
       "addedAt": "2026-08-22",
+      "publishedAt": "2026-08-20",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0169",
-      "lastUpdatedAt": "2026-08-22T06:35:21.085Z",
+      "lastUpdatedAt": "2026-08-22T08:52:36.266Z",
       "subTotalPages": 29,
       "disableAutoLinkOnAddPage": true,
       "estPlayHours": {
@@ -3789,15 +3810,39 @@
       "status": "active",
       "shortDescription": "施設内で拾得された忘れ物・落とし物を検索できるサイトを探索する。",
       "compatibility": "partial",
-      "compatibilityNote": "",
+      "compatibilityNote": "固定URLのため、ページ記録・フロー表示は利用できません。ワードプール・全体メモは利用できます",
       "addedAt": "2026-08-22",
       "publishedAt": "2026-08-13",
       "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0154",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0154",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-08-22",
-      "lastUpdatedAt": "2026-08-22T07:15:00.629Z",
+      "lastUpdatedAt": "2026-08-22T09:03:05.594Z",
       "workId": "arg-0154"
+    },
+    {
+      "id": "1787417398940_9d75cc13d2654",
+      "title": "ARG初心者チュートリアル！",
+      "author": "まりc",
+      "introUrl": "https://note.com/maric0604/n/n7680f9996e6c",
+      "startUrl": "https://argtutorial.marimaric.workers.dev/",
+      "url": "https://argtutorial.marimaric.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "WebARGは難しそうと感じる人が、遊びながら基本を学べるチュートリアル作品です。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 20,
+      "addedAt": "2026-08-23",
+      "publishedAt": "2026-08-23",
+      "publishedAtSource": "https://note.com/maric0604/n/n7680f9996e6c",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0176",
+      "lastUpdatedAt": "2026-08-22T16:54:08.480Z",
+      "workId": "arg-0176"
     }
   ]
 }
