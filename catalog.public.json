@@ -1,14 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T10:01:36.620734+00:00",
+  "updatedAt": "2026-08-22T07:42:57.591991+00:00",
   "webArgPortalExclusions": {
     "arg-0151": {
       "reason": "unsupported",
       "updatedAt": "2026-08-18T11:59:37.036Z"
     },
+    "arg-0157": {
+      "reason": "unsupported",
+      "updatedAt": "2026-08-22T07:10:06.955Z"
+    },
+    "arg-0158": {
+      "reason": "unsupported",
+      "updatedAt": "2026-08-22T07:09:41.347Z"
+    },
     "arg-0163": {
       "reason": "unsupported",
       "updatedAt": "2026-08-19T13:48:04.376Z"
+    },
+    "arg-0167": {
+      "reason": "unsupported",
+      "updatedAt": "2026-08-22T06:47:53.276Z"
     }
   },
   "items": [
@@ -76,7 +88,9 @@
       "publishedAt": "2026-01-05",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/n7f0c125a36a5",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0069",
-      "lastUpdatedAt": "2026-05-09T04:42:36.248Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:43:20.552Z",
       "workId": "arg-0069"
     },
     {
@@ -145,7 +159,7 @@
       "publishedAt": "2026-01-09",
       "publishedAtSource": "https://note.com/asapinakg/n/nb6dbe4e8654c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0062",
-      "lastUpdatedAt": "2026-05-09T04:28:17.674Z",
+      "lastUpdatedAt": "2026-08-22T05:58:10.316Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
@@ -398,7 +412,9 @@
       "publishedAt": "2025-12-23",
       "publishedAtSource": "https://note.com/harubashop/n/n8f2df763a8b4",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0032",
-      "lastUpdatedAt": "2026-03-25T05:00:24.350Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:41:02.384Z",
       "workId": "arg-0032"
     },
     {
@@ -421,7 +437,9 @@
       "publishedAt": "2025-12-14",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/n9fc08940ce5f",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0068",
-      "lastUpdatedAt": "2026-05-09T04:42:23.632Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:43:07.304Z",
       "workId": "arg-0068"
     },
     {
@@ -488,7 +506,9 @@
       "publishedAt": "2026-02-01",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/nf60b3b0ff465",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0070",
-      "lastUpdatedAt": "2026-05-09T04:42:49.392Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:43:31.793Z",
       "workId": "arg-0070"
     },
     {
@@ -726,7 +746,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0164",
       "portalClearStatus": "not_listed",
       "portalClearCheckedAt": "2026-08-18",
-      "lastUpdatedAt": "2026-08-18T13:49:17.801Z",
+      "lastUpdatedAt": "2026-08-22T06:50:28.413Z",
       "workId": "arg-0164"
     },
     {
@@ -1332,7 +1352,9 @@
       "publishedAt": "2025-12-21",
       "publishedAtSource": "https://note.com/harubashop/n/n4a6ecb909b69",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0031",
-      "lastUpdatedAt": "2026-03-27T12:48:41.755Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:40:52.537Z",
       "workId": "arg-0031"
     },
     {
@@ -1660,7 +1682,9 @@
       "publishedAt": "2026-01-12",
       "publishedAtSource": "https://note.com/harubashop/n/n81f3e4c10507",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0033",
-      "lastUpdatedAt": "2026-03-27T12:47:40.443Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:41:19.758Z",
       "subTotalPages": 1,
       "estPlayHours": {
         "normalMin": 0.5,
@@ -1977,7 +2001,9 @@
       "addedAt": "2026-03-27",
       "publishedAt": "2026-02-01",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0034",
-      "lastUpdatedAt": "2026-07-09T03:12:30.969Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:41:30.960Z",
       "workId": "arg-0034"
     },
     {
@@ -2622,7 +2648,9 @@
       "publishedAt": "2026-03-30",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/nf1a5f9ead15e",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0071",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:42:53.529Z",
       "workId": "arg-0071"
     },
     {
@@ -2644,7 +2672,9 @@
       "publishedAt": "2026-04-29",
       "publishedAtSource": "https://note.com/nmkmnbaby/n/nb8603c926ba1",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0072",
-      "lastUpdatedAt": "2026-05-09T05:33:03.503Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T05:42:59.771Z",
       "workId": "arg-0072"
     },
     {
@@ -2935,14 +2965,14 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "日本文化の調査中に見つけたサイト「和護の杜」で、不穏な違和感が芽生える。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 28,
       "addedAt": "2026-06-24",
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/koyama_1717/n/ncd101c42b51c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0141",
-      "lastUpdatedAt": "2026-08-05T14:28:20.455Z",
+      "lastUpdatedAt": "2026-08-22T07:18:27.136Z",
       "workId": "arg-0141"
     },
     {
@@ -2957,14 +2987,14 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "地図にない久木村の観光サイトを見つけた私は、その正体を調べ始める。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 23,
       "addedAt": "2026-06-24",
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/koyama_1717/n/na26f5e57ce88",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0140",
-      "lastUpdatedAt": "2026-08-05T14:27:57.887Z",
+      "lastUpdatedAt": "2026-08-22T07:18:27.136Z",
       "workId": "arg-0140"
     },
     {
@@ -2979,14 +3009,14 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "闇バイトの噂を追い、怪しいデータ復旧会社のサイトを調べる。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 70,
       "addedAt": "2026-06-24",
       "publishedAt": "2026-06-21",
       "publishedAtSource": "https://note.com/koyama_1717/n/n3d39959e950c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0142",
-      "lastUpdatedAt": "2026-08-05T14:28:41.332Z",
+      "lastUpdatedAt": "2026-08-22T07:18:27.136Z",
       "workId": "arg-0142"
     },
     {
@@ -3134,7 +3164,7 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "謎の人物から、怪しいサイトの調査依頼のメールが届く。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 27,
       "initialScopeUrl": "https://kunato-koumuten.nyk-sm.com/",
@@ -3142,7 +3172,7 @@
       "publishedAt": "2026-06-28",
       "publishedAtSource": "https://note.com/mei_takanashi/n/ne9e8bd06adbb",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0113",
-      "lastUpdatedAt": "2026-08-19T11:01:38.752Z",
+      "lastUpdatedAt": "2026-08-22T07:39:09.320Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
@@ -3163,14 +3193,14 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "治験バイトに向かった友人から、予定より早く無言のURLだけが届く。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "totalPages": 25,
       "addedAt": "2026-07-05",
       "publishedAt": "2026-07-01",
       "publishedAtSource": "https://note.com/mito_intersect/n/n2b6de13f4dd3",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0115",
-      "lastUpdatedAt": "2026-07-04T16:42:04.206Z",
+      "lastUpdatedAt": "2026-08-22T07:39:09.320Z",
       "workId": "arg-0115"
     },
     {
@@ -3185,13 +3215,13 @@
       "curatorBadge": "",
       "status": "active",
       "shortDescription": "大学の友人・久生戸慶太の父が失踪し、SNSで行方を捜す彼に手を貸す。",
-      "compatibility": "",
+      "compatibility": "full",
       "compatibilityNote": "",
       "addedAt": "2026-07-05",
       "publishedAt": "2026-07-02",
       "publishedAtSource": "https://note.com/local_memory/n/n3b63b5c57555",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0116",
-      "lastUpdatedAt": "2026-08-19T11:01:23.203Z",
+      "lastUpdatedAt": "2026-08-22T07:42:52.742Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -3649,6 +3679,125 @@
         "hintMax": null
       },
       "workId": "arg-0168"
+    },
+    {
+      "id": "1787377479900_adfb1f5c531d48",
+      "title": "メゾン・ド・ロム集団失踪事件",
+      "author": "戯戯戯",
+      "introUrl": "https://note.com/gigigi_sunset/n/n7b05cc6e03a1",
+      "startUrl": "https://takahashi-investigation.vercel.app/",
+      "url": "https://takahashi-investigation.vercel.app/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人の失踪を知り、夕霧町で起きたマンション入居者全員失踪事件の調査を始める。",
+      "compatibility": "partial",
+      "compatibilityNote": "固定URLのため、ページ記録・フロー表示は利用できません。ワードプール・全体メモは利用できます",
+      "addedAt": "2026-08-22",
+      "publishedAt": "2026-08-21",
+      "publishedAtSource": "https://note.com/gigigi_sunset/n/n7b05cc6e03a1",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0172",
+      "lastUpdatedAt": "2026-08-22T05:55:45.467Z",
+      "workId": "arg-0172"
+    },
+    {
+      "id": "1787378212851_d9ee4da0005668",
+      "title": "よあかり文庫",
+      "author": "shio",
+      "introUrl": "https://note.com/shio_salty/n/nf190ac7e2cad",
+      "startUrl": "https://yoakari-bunko.shio-arg.workers.dev/",
+      "url": "https://yoakari-bunko.shio-arg.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閉店したブックカフェの常連に託された謎のメモが、店に隠された出来事へと導く。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-08-22",
+      "publishedAt": "2026-08-21",
+      "publishedAtSource": "https://note.com/shio_salty/n/nf190ac7e2cad",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0171",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T06:00:45.547Z",
+      "workId": "arg-0171"
+    },
+    {
+      "id": "1787378472683_fc233367e9aab",
+      "title": "呪いの数式",
+      "author": "math-raku",
+      "introUrl": "https://note.com/math_raku/n/nb6c2e81c5a2a",
+      "startUrl": "https://theorem-qux.github.io/gaiablog/",
+      "url": "https://theorem-qux.github.io/gaiablog/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "不可解な「呪いの数式」を手がかりに、AIの学習元に潜む真相を探る。",
+      "compatibility": "full",
+      "compatibilityNote": "chatGPTとのチャット画面が本来の開始ページですが、本カタログ内の開始ページ設定は導入noteと同じにしています。",
+      "initialScopeUrl": "https://theorem-qux.github.io/",
+      "addedAt": "2026-08-22",
+      "publishedAt": "2026-03-23",
+      "publishedAtSource": "https://www.youtube.com/watch?v=GCtjBqio6oY",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0170",
+      "lastUpdatedAt": "2026-08-22T06:15:06.580Z",
+      "workId": "arg-0170"
+    },
+    {
+      "id": "1787379369931_52f62fbdf9f428",
+      "title": "表裏シリーズ:市立荒奈江高等学校",
+      "author": "エンドウ",
+      "introUrl": "https://note.com/endows_d2series/n/na930d7d020ee",
+      "startUrl": "https://aranae-archive-pages.d2series.workers.dev/",
+      "url": "https://aranae-archive-pages.d2series.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "市立荒奈江高校で広まる奇妙な遊びと、古い噂のつながりを追う。左下に発見ページ履歴ボタンがあります。",
+      "compatibility": "full",
+      "compatibilityNote": "「1人用」のURLを開始ページとしています。本ツールを使用する場合は「1人用」のURLで開始してください。",
+      "totalPages": 34,
+      "addedAt": "2026-08-22",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0169",
+      "lastUpdatedAt": "2026-08-22T06:35:21.085Z",
+      "subTotalPages": 29,
+      "disableAutoLinkOnAddPage": true,
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0169"
+    },
+    {
+      "id": "1787382707812_6809d40b6bb3b8",
+      "title": "遺失物のご案内",
+      "author": "宵継商会",
+      "introUrl": "https://cold-lab-4e35.yoitsugi-shokai.workers.dev/",
+      "startUrl": "https://cold-lab-4e35.yoitsugi-shokai.workers.dev/",
+      "url": "https://cold-lab-4e35.yoitsugi-shokai.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "施設内で拾得された忘れ物・落とし物を検索できるサイトを探索する。",
+      "compatibility": "partial",
+      "compatibilityNote": "",
+      "addedAt": "2026-08-22",
+      "publishedAt": "2026-08-13",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0154",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0154",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-08-22",
+      "lastUpdatedAt": "2026-08-22T07:15:00.629Z",
+      "workId": "arg-0154"
     }
   ]
 }
