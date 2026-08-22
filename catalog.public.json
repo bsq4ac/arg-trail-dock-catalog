@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T16:54:08.500230+00:00",
+  "updatedAt": "2026-08-22T18:17:21.142889+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -3836,12 +3836,12 @@
       "shortDescription": "WebARGは難しそうと感じる人が、遊びながら基本を学べるチュートリアル作品です。",
       "compatibility": "full",
       "compatibilityNote": "",
-      "totalPages": 20,
+      "totalPages": 12,
       "addedAt": "2026-08-23",
       "publishedAt": "2026-08-23",
       "publishedAtSource": "https://note.com/maric0604/n/n7680f9996e6c",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0176",
-      "lastUpdatedAt": "2026-08-22T16:54:08.480Z",
+      "lastUpdatedAt": "2026-08-22T18:17:21.120Z",
       "workId": "arg-0176"
     }
   ]
