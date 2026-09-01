@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T18:27:41.145453+00:00",
+  "updatedAt": "2026-09-01T14:38:54.728846+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -3883,7 +3883,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0195",
       "portalClearStatus": "not_listed",
       "portalClearCheckedAt": "2026-09-01",
-      "lastUpdatedAt": "2026-08-31T18:11:02.651Z",
+      "lastUpdatedAt": "2026-09-01T14:16:24.525Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": 1,
@@ -4272,6 +4272,127 @@
         "hintMax": null
       },
       "workId": "arg-0177"
+    },
+    {
+      "id": "1788272084890_4d15d1eb75d778",
+      "title": "Echo Again",
+      "author": "旅するうまさん",
+      "introUrl": "https://note.com/nachiko0215/n/n7160168d5528",
+      "startUrl": "https://echoagain.nachiko-umasan0215.workers.dev/",
+      "url": "https://echoagain.nachiko-umasan0215.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "三上から届いたブログを手がかりに、夜ごと出かける奈緒の異変を追う。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 20,
+      "addedAt": "2026-09-01",
+      "publishedAt": "2026-08-31",
+      "publishedAtSource": "https://note.com/nachiko0215/n/n7160168d5528",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0196",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-01",
+      "lastUpdatedAt": "2026-09-01T14:37:50.633Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0196"
+    },
+    {
+      "id": "1788272208465_5041aed73a1288",
+      "title": "瑪瑙（メノウ）",
+      "author": "しょん",
+      "introUrl": "https://note.com/shon_0_/n/n39c6c139bb75",
+      "startUrl": "https://damp-paper-083c.shonxshon.workers.dev/",
+      "url": "https://damp-paper-083c.shonxshon.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "古い祠の石を見た日から様子が変わった同級生と担任、その過去の真相を追う。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 15,
+      "addedAt": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0197",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0197",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-09-01",
+      "lastUpdatedAt": "2026-09-01T14:37:50.633Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0197"
+    },
+    {
+      "id": "1788272382696_2d095bd6599dd8",
+      "title": "開運のポットはいかが？",
+      "author": "水平リーベは僕の姉",
+      "introUrl": "https://note.com/hhelibebcnane/n/n042976b06770",
+      "startUrl": "https://lucky-pot.hhelibebcnane.workers.dev/",
+      "url": "https://lucky-pot.hhelibebcnane.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "推しのバーチャルライバーが売る怪しい「開運のポット」の安全性を調べ始める。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 13,
+      "addedAt": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0198",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0198",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-01",
+      "lastUpdatedAt": "2026-09-01T14:27:55.508Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0198"
+    },
+    {
+      "id": "1788272497703_32aebea08124d8",
+      "title": "オーロラの彼方",
+      "author": "room_404",
+      "introUrl": "https://note.com/lush_zephyr6900/n/n63243f17e9f1",
+      "startUrl": "https://beyond-the-aurora.pages.dev/",
+      "url": "https://beyond-the-aurora.pages.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "SNSで見つけた奇妙な黒いログを手がかりに、閉じ込められた「AURORA」の正体を追う。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0199",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0199",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-01",
+      "lastUpdatedAt": "2026-09-01T14:38:54.705Z",
+      "workId": "arg-0199"
     }
   ]
 }
