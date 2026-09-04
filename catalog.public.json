@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T13:32:00.138942+00:00",
+  "updatedAt": "2026-09-04T13:37:07.197964+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4395,7 +4395,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0199",
       "portalClearStatus": "not_listed",
       "portalClearCheckedAt": "2026-09-01",
-      "lastUpdatedAt": "2026-09-01T14:38:54.705Z",
+      "lastUpdatedAt": "2026-09-04T13:35:04.472Z",
       "workId": "arg-0199"
     },
     {
@@ -4405,7 +4405,9 @@
       "introUrl": "https://note.com/due_rank22/n/nf47c4bd30f8a",
       "startUrl": "https://kokuhatsusensei.pages.dev/californiagarage",
       "url": "https://kokuhatsusensei.pages.dev/californiagarage",
-      "categories": [],
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
       "playStyleTags": [],
       "curatorBadge": "",
       "status": "active",
@@ -4419,7 +4421,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0200",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-09-04",
-      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "lastUpdatedAt": "2026-09-04T13:36:39.804Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -4474,7 +4476,7 @@
       "publishedAt": "2026-09-04",
       "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0208",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0208",
-      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "lastUpdatedAt": "2026-09-04T13:37:07.171Z",
       "estPlayHours": {
         "normalMin": 2,
         "normalMax": 3,
@@ -4490,7 +4492,9 @@
       "introUrl": "https://note.com/takenamaco/n/n442c38b8c00d",
       "startUrl": "https://swamp.takenamaco884.workers.dev/",
       "url": "https://swamp.takenamaco884.workers.dev/",
-      "categories": [],
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
       "playStyleTags": [],
       "curatorBadge": "",
       "status": "active",
@@ -4504,7 +4508,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0209",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-09-04",
-      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "lastUpdatedAt": "2026-09-04T13:36:39.805Z",
       "workId": "arg-0209"
     },
     {
@@ -4514,7 +4518,9 @@
       "introUrl": "https://note.com/proper_snipe6726/n/n928a1110937e",
       "startUrl": "https://pfd1.pages.dev/",
       "url": "https://pfd1.pages.dev/",
-      "categories": [],
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
       "playStyleTags": [],
       "curatorBadge": "",
       "status": "active",
@@ -4526,7 +4532,7 @@
       "publishedAt": "2026-09-03",
       "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0204",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0204",
-      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "lastUpdatedAt": "2026-09-04T13:36:39.805Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
