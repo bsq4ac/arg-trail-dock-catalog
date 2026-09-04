@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T14:38:54.728846+00:00",
+  "updatedAt": "2026-09-04T13:32:00.138942+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -41,6 +41,10 @@
     "arg-0193": {
       "reason": "unsupported",
       "updatedAt": "2026-08-31T17:08:43.340Z"
+    },
+    "arg-0201": {
+      "reason": "unsupported",
+      "updatedAt": "2026-09-04T12:35:31.465Z"
     }
   },
   "items": [
@@ -488,7 +492,7 @@
     {
       "id": "1769861427905_d57aa8a0cbd46",
       "title": "ひもろぎ村移住者募集中",
-      "author": "ひもろぎ村へようこそ",
+      "author": "和井栄知",
       "introUrl": "https://note.com/himorogimura/n/nd379e467ee3f",
       "startUrl": "https://www.argserver.shop/himorogimura/index.html",
       "url": "https://www.argserver.shop/himorogimura/index.html",
@@ -504,9 +508,9 @@
       "addedAt": "2026-03-05",
       "publishedAt": "2026-01-10",
       "publishedAtSource": "https://note.com/himorogimura/n/nd379e467ee3f",
-      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0111",
-      "lastUpdatedAt": "2026-07-04T16:07:33.713Z",
-      "workId": "arg-0111"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0206",
+      "lastUpdatedAt": "2026-09-04T12:56:38.034Z",
+      "workId": "arg-0206"
     },
     {
       "id": "1770032724696_774f363b86a59",
@@ -4393,6 +4397,143 @@
       "portalClearCheckedAt": "2026-09-01",
       "lastUpdatedAt": "2026-09-01T14:38:54.705Z",
       "workId": "arg-0199"
+    },
+    {
+      "id": "1788525180995_25dfa82f409ec",
+      "title": "告発先生",
+      "author": "RANK22",
+      "introUrl": "https://note.com/due_rank22/n/nf47c4bd30f8a",
+      "startUrl": "https://kokuhatsusensei.pages.dev/californiagarage",
+      "url": "https://kokuhatsusensei.pages.dev/californiagarage",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "数々の謎を解いてきたあなたは、奇妙な商品名と画像が並ぶヴィンテージ雑貨店の闇市場に挑む。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 6,
+      "addedAt": "2026-09-04",
+      "publishedAt": "2026-09-02",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0200",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0200",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-09-04",
+      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0200"
+    },
+    {
+      "id": "1788525770656_aa1220b78bf348",
+      "title": "願いを叶えるポイントサイト",
+      "author": "皐桜タツト",
+      "introUrl": "https://note.com/koharutatuto/n/nf57d3e778cd0",
+      "startUrl": "https://o.skr.jp/tubopoint/",
+      "url": "https://o.skr.jp/tubopoint/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "怪しいDMに導かれ、願いが叶うという招待制ポイントサイトへ足を踏み入れる。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 15,
+      "addedAt": "2026-09-04",
+      "publishedAt": "2026-09-04",
+      "publishedAtSource": "https://note.com/koharutatuto/n/nf57d3e778cd0",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0207",
+      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0207"
+    },
+    {
+      "id": "1788525930320_cd60034b184938",
+      "title": "#シガトモ",
+      "author": "和井栄知",
+      "introUrl": "https://note.com/shinobi_kagerou/n/n65fb38df6559",
+      "startUrl": "https://yume-gypso.blog.jp/",
+      "url": "https://yume-gypso.blog.jp/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "謎解き忍者・影狼が、少女の日誌に隠された謎を追う。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-09-04",
+      "publishedAt": "2026-09-04",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0208",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0208",
+      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0208"
+    },
+    {
+      "id": "1788526112559_7e78a7c674245",
+      "title": "ある沼の噂について",
+      "author": "笠",
+      "introUrl": "https://note.com/takenamaco/n/n442c38b8c00d",
+      "startUrl": "https://swamp.takenamaco884.workers.dev/",
+      "url": "https://swamp.takenamaco884.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "謝礼付きの広告をきっかけに、とある沼の噂をSNSで探り始める。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 26,
+      "addedAt": "2026-09-04",
+      "publishedAt": "2026-09-04",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0209",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0209",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-09-04",
+      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "workId": "arg-0209"
+    },
+    {
+      "id": "1788526764761_02e98a8da917a",
+      "title": "平行未来データベース　ある研究者の記録",
+      "author": "うまのこうじ",
+      "introUrl": "https://note.com/proper_snipe6726/n/n928a1110937e",
+      "startUrl": "https://pfd1.pages.dev/",
+      "url": "https://pfd1.pages.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閲覧官となったあなたは、未来の平行世界から届く記録の閲覧を始める。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 35,
+      "addedAt": "2026-09-04",
+      "publishedAt": "2026-09-03",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0204",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0204",
+      "lastUpdatedAt": "2026-09-04T13:32:00.108Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0204"
     }
   ]
 }
