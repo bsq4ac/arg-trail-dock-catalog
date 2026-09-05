@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T11:38:37.883203+00:00",
+  "updatedAt": "2026-09-05T13:12:29.224261+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -45,6 +45,10 @@
     "arg-0201": {
       "reason": "unsupported",
       "updatedAt": "2026-09-04T12:35:31.465Z"
+    },
+    "arg-0210": {
+      "reason": "unsupported",
+      "updatedAt": "2026-09-05T13:08:00.281Z"
     }
   },
   "items": [
@@ -4558,7 +4562,7 @@
       "publishedAt": "2026-09-03",
       "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0204",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0204",
-      "lastUpdatedAt": "2026-09-04T13:36:39.805Z",
+      "lastUpdatedAt": "2026-09-05T13:10:35.442Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
@@ -4566,6 +4570,39 @@
         "hintMax": null
       },
       "workId": "arg-0204"
+    },
+    {
+      "id": "1788613694615_e1e7ea58fc55c8",
+      "title": "無敵のお弁当",
+      "author": "Chirue",
+      "introUrl": "https://note.com/chirue_creates/n/nb187de33105e",
+      "startUrl": "https://muteki-obento.vercel.app/cometter/status/1",
+      "url": "https://muteki-obento.vercel.app/cometter/status/1",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "SNSで話題の投稿をきっかけに、「星の入った美味しい卵焼き」の正体を調べる。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 38,
+      "initialScopeUrl": "https://muteki-obento.vercel.app/",
+      "addedAt": "2026-09-05",
+      "publishedAt": "2026-09-05",
+      "publishedAtSource": "https://note.com/chirue_creates/n/nb187de33105e",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0211",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-05",
+      "lastUpdatedAt": "2026-09-05T13:12:29.199Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0211"
     }
   ]
 }
