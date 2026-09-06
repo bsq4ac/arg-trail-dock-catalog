@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T06:31:39.355485+00:00",
+  "updatedAt": "2026-09-06T11:57:50.588440+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4593,9 +4593,9 @@
       "publishedAt": "2026-09-05",
       "publishedAtSource": "https://note.com/chirue_creates/n/nb187de33105e",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0211",
-      "portalClearStatus": "not_listed",
-      "portalClearCheckedAt": "2026-09-05",
-      "lastUpdatedAt": "2026-09-05T13:12:29.199Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-09-06",
+      "lastUpdatedAt": "2026-09-06T11:57:50.560Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": 2,
