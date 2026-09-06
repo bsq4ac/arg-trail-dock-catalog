@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T05:47:38.415150+00:00",
+  "updatedAt": "2026-09-06T06:31:39.355485+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4626,8 +4626,29 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0212",
       "portalClearStatus": "not_listed",
       "portalClearCheckedAt": "2026-09-06",
-      "lastUpdatedAt": "2026-09-06T05:47:38.384Z",
+      "lastUpdatedAt": "2026-09-06T06:27:47.899Z",
       "workId": "arg-0212"
+    },
+    {
+      "id": "1788676014545_4faff8a121c0c",
+      "title": "1996年の夏休み日記",
+      "author": "DetFox",
+      "introUrl": "https://note.com/detfox/n/n000479aac32b",
+      "startUrl": "https://summerdiary.pages.dev/chat",
+      "url": "https://summerdiary.pages.dev/chat",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "学生の少女「紡」から依頼を受け、協力して古い日記サイトを調査する。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-09-06",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://note.com/detfox/n/n000479aac32b",
+      "lastUpdatedAt": "2026-09-06T06:31:39.328Z"
     }
   ]
 }
