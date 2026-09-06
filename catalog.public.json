@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T13:12:29.224261+00:00",
+  "updatedAt": "2026-09-06T05:47:38.415150+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4538,7 +4538,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0209",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-09-04",
-      "lastUpdatedAt": "2026-09-04T13:36:39.805Z",
+      "lastUpdatedAt": "2026-09-06T05:36:19.442Z",
       "workId": "arg-0209"
     },
     {
@@ -4603,6 +4603,31 @@
         "hintMax": null
       },
       "workId": "arg-0211"
+    },
+    {
+      "id": "1788672703338_847237f055a678",
+      "title": "ジャルダン代々木下原",
+      "author": "ikempty",
+      "introUrl": "https://note.com/ikempty/n/n7c1a6fc6beb0",
+      "startUrl": "https://jardin-redi.com/",
+      "url": "https://jardin-redi.com/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "一見、良さそうな新築マンション広告だが…？",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-09-06",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://note.com/ikempty/n/n7c1a6fc6beb0",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0212",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-06",
+      "lastUpdatedAt": "2026-09-06T05:47:38.384Z",
+      "workId": "arg-0212"
     }
   ]
 }
