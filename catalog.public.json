@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T15:19:44.240173+00:00",
+  "updatedAt": "2026-09-06T15:29:15.411153+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4787,6 +4787,26 @@
         "hintMax": null
       },
       "workId": "arg-0213"
+    },
+    {
+      "id": "1788708312635_d1d22dc9820cc",
+      "title": "ルモエヒカリちゃんを探しています。",
+      "author": "Endows",
+      "introUrl": "https://note.com/endows_d2series/n/nc846d7d0f16e",
+      "startUrl": "https://missing-frame.d2series.workers.dev/sousaku/",
+      "url": "https://missing-frame.d2series.workers.dev/sousaku/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "2000年7月に消息を絶った少女の手がかりを、親族が開設した捜索サイトで探る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 49,
+      "addedAt": "2026-09-07",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://note.com/endows_d2series/n/nc846d7d0f16e",
+      "lastUpdatedAt": "2026-09-06T15:29:15.377Z"
     }
   ]
 }
