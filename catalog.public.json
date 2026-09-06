@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T11:57:50.588440+00:00",
+  "updatedAt": "2026-09-06T15:19:44.240173+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4626,7 +4626,13 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0212",
       "portalClearStatus": "not_listed",
       "portalClearCheckedAt": "2026-09-06",
-      "lastUpdatedAt": "2026-09-06T06:27:47.899Z",
+      "lastUpdatedAt": "2026-09-06T15:19:44.209Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
       "workId": "arg-0212"
     },
     {
@@ -4648,7 +4654,139 @@
       "addedAt": "2026-09-06",
       "publishedAt": "2026-09-06",
       "publishedAtSource": "https://note.com/detfox/n/n000479aac32b",
-      "lastUpdatedAt": "2026-09-06T06:31:39.328Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0214",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-07",
+      "lastUpdatedAt": "2026-09-06T15:19:44.209Z",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0214"
+    },
+    {
+      "id": "1788706580628_b989168f42e1f8",
+      "title": "合格者のいないWebテスト",
+      "author": "みにでらこ",
+      "introUrl": "https://note.com/minideraco/n/n4fefd6bbffd5",
+      "startUrl": "https://indexa-finder.com/",
+      "url": "https://indexa-finder.com/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "日当３万円ながら合格者が見当たらない選考の噂を追い、検索ツールで真相を探る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 43,
+      "addedAt": "2026-09-06",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://note.com/minideraco/n/n4fefd6bbffd5",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0217",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-06",
+      "lastUpdatedAt": "2026-09-06T15:19:44.209Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0217"
+    },
+    {
+      "id": "1788706696195_ed578236d0827",
+      "title": "幸運のおまじない",
+      "author": "ELIS",
+      "introUrl": "https://note.com/elis_argcreate/n/nbe78adfb4c05",
+      "startUrl": "https://fortune-spell.elis-argcreate.workers.dev/",
+      "url": "https://fortune-spell.elis-argcreate.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "大学の民俗学サークルの依頼で、ネット怪談「幸運のおまじない」の投稿者と目的を探る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 36,
+      "addedAt": "2026-09-06",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://note.com/elis_argcreate/n/nbe78adfb4c05",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0216",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-06",
+      "lastUpdatedAt": "2026-09-06T15:19:44.209Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0216"
+    },
+    {
+      "id": "1788706828123_ef251fe9b5f758",
+      "title": "ハナゾノマサミの捜索",
+      "author": "KOYAMA",
+      "introUrl": "https://note.com/koyama_1717/n/n759e6cf7c152",
+      "startUrl": "https://arg-disappearance.pages.dev/",
+      "url": "https://arg-disappearance.pages.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "SNSで見かけた捜索依頼をきっかけに、失踪した女性のSNSやブログから行方をたどる。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 30,
+      "addedAt": "2026-09-07",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://note.com/koyama_1717/n/n759e6cf7c152",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0215",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-07",
+      "lastUpdatedAt": "2026-09-06T15:16:03.026Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0215"
+    },
+    {
+      "id": "1788707054724_9f54a8e73bc13",
+      "title": "■呼ばれる映画■",
+      "author": "猿",
+      "introUrl": "https://note.com/lively_oxalis123/n/ne408a0e2840d",
+      "startUrl": "https://curly-boat-9698.salvare-07-sypytrick.workers.dev/",
+      "url": "https://curly-boat-9698.salvare-07-sypytrick.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閉館した青葉映画館に残された無題の予告編にまつわる噂に興味を持ったあなたは、奇妙なサイトを調査する。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 36,
+      "addedAt": "2026-09-07",
+      "publishedAt": "2026-09-06",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0213",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0213",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-07",
+      "lastUpdatedAt": "2026-09-06T15:19:44.209Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0213"
     }
   ]
 }
