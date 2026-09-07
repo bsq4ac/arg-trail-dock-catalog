@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T15:31:55.189923+00:00",
+  "updatedAt": "2026-09-07T07:59:59.287821+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -4715,9 +4715,9 @@
       "publishedAt": "2026-09-06",
       "publishedAtSource": "https://note.com/elis_argcreate/n/nbe78adfb4c05",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0216",
-      "portalClearStatus": "not_listed",
-      "portalClearCheckedAt": "2026-09-06",
-      "lastUpdatedAt": "2026-09-06T15:19:44.209Z",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-09-07",
+      "lastUpdatedAt": "2026-09-07T07:59:59.261Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": null,
@@ -4747,9 +4747,9 @@
       "publishedAt": "2026-09-06",
       "publishedAtSource": "https://note.com/koyama_1717/n/n759e6cf7c152",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0215",
-      "portalClearStatus": "not_listed",
+      "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-09-07",
-      "lastUpdatedAt": "2026-09-06T15:16:03.026Z",
+      "lastUpdatedAt": "2026-09-07T07:59:59.261Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": null,
@@ -4806,7 +4806,17 @@
       "addedAt": "2026-09-07",
       "publishedAt": "2026-09-06",
       "publishedAtSource": "https://note.com/endows_d2series/n/nc846d7d0f16e",
-      "lastUpdatedAt": "2026-09-06T15:31:55.155Z"
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0218",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-07",
+      "lastUpdatedAt": "2026-09-07T07:59:59.261Z",
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0218"
     }
   ]
 }
