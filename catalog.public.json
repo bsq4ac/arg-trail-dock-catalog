@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T16:54:15.656606+00:00",
+  "updatedAt": "2026-09-15T19:01:02.313983+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -46,6 +46,10 @@
       "reason": "unsupported",
       "updatedAt": "2026-09-04T12:35:31.465Z"
     },
+    "arg-0203": {
+      "reason": "unsupported",
+      "updatedAt": "2026-09-15T18:41:18.719Z"
+    },
     "arg-0210": {
       "reason": "unsupported",
       "updatedAt": "2026-09-05T13:08:00.281Z"
@@ -65,6 +69,14 @@
     "arg-0225": {
       "reason": "unsupported",
       "updatedAt": "2026-09-09T16:48:24.784Z"
+    },
+    "arg-0230": {
+      "reason": "unsupported",
+      "updatedAt": "2026-09-15T18:42:34.157Z"
+    },
+    "arg-0236": {
+      "reason": "unsupported",
+      "updatedAt": "2026-09-15T18:55:45.309Z"
     }
   },
   "items": [
@@ -4765,7 +4777,7 @@
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0215",
       "portalClearStatus": "available",
       "portalClearCheckedAt": "2026-09-07",
-      "lastUpdatedAt": "2026-09-07T07:59:59.261Z",
+      "lastUpdatedAt": "2026-09-15T18:28:45.395Z",
       "estPlayHours": {
         "normalMin": 1,
         "normalMax": null,
@@ -4833,6 +4845,148 @@
         "hintMax": null
       },
       "workId": "arg-0218"
+    },
+    {
+      "id": "1789496857476_dc4dbdb0e8bd08",
+      "title": "未整理記録",
+      "author": "蟻喰ういろ",
+      "introUrl": "https://note.com/uirodet/n/n2b6763fae312",
+      "startUrl": "https://unorganizelog.kotokonkon.workers.dev/",
+      "url": "https://unorganizelog.kotokonkon.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "死亡した知人から届いた謎のURLを手掛かりに、事件の真相を調べる。 作品内に発見したページの履歴を確認できる機能があります。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 63,
+      "addedAt": "2026-09-16",
+      "publishedAt": "2026-09-11",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0229",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-16",
+      "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0229"
+    },
+    {
+      "id": "1789497846385_4d7d73ddf92f58",
+      "title": "重要文化財 雪白寮",
+      "author": "NAT STUDIO",
+      "introUrl": "https://www.nat-studio.games/works/yukishiro",
+      "startUrl": "https://yukishiro.nat-studio.games/",
+      "url": "https://yukishiro.nat-studio.games/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "歴史ある学生自治寮で失踪した寮生の手がかりを、公式サイトから探り出す。 作品内に発見したページの履歴を確認できる機能があります。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 32,
+      "addedAt": "2026-09-16",
+      "publishedAt": "2026-09-12",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0231",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0231",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-16",
+      "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
+      "subTotalPages": 17,
+      "estPlayHours": {
+        "normalMin": 1,
+        "normalMax": 2,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0231"
+    },
+    {
+      "id": "1789498044289_9b481c0d25708",
+      "title": "[Restoration No.001:Sion]削除された曲を探しています",
+      "author": "105号室より",
+      "introUrl": "https://note.com/from105/n/na93d3b665cc2",
+      "startUrl": "https://restoration-no001.from105.workers.dev/",
+      "url": "https://restoration-no001.from105.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "失われた音楽を復元するため、謎の制作者サイトから楽曲に隠された物語を探る。 作品内に発見したページの履歴を確認できる機能があります。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 11,
+      "addedAt": "2026-09-16",
+      "publishedAt": "2026-09-12",
+      "publishedAtSource": "https://note.com/from105/n/na93d3b665cc2",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0233",
+      "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0233"
+    },
+    {
+      "id": "1789498176880_5cbfe4a84c2f88",
+      "title": "成央大学オカルト研究会",
+      "author": "ayano",
+      "introUrl": "https://sim3.net/portal/work.php?id=arg-0234",
+      "startUrl": "https://seiocc.x0.com/index.html",
+      "url": "https://seiocc.x0.com/index.html",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "更新の止まった大学オカルト研究会サイトに残る調査記録や部員のやり取りを辿る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-09-16",
+      "publishedAt": "2026-09-13",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0234",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0234",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-16",
+      "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0234"
+    },
+    {
+      "id": "1789498444312_b858a224c41fe8",
+      "title": "凪原団地の修繕依頼",
+      "author": "ゆるくさ",
+      "introUrl": "https://sim3.net/portal/work.php?id=arg-0235",
+      "startUrl": "https://yurukusa.github.io/nagihara-records/",
+      "url": "https://yurukusa.github.io/nagihara-records/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "取り壊されたはずの団地から届く修繕依頼の謎を追う。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-09-16",
+      "publishedAt": "2026-09-14",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0235",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0235",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-16",
+      "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
+      "workId": "arg-0235"
     }
   ]
 }
