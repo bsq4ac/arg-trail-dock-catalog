@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T19:01:02.313983+00:00",
+  "updatedAt": "2026-10-01T15:37:18.880102+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -77,6 +77,38 @@
     "arg-0236": {
       "reason": "unsupported",
       "updatedAt": "2026-09-15T18:55:45.309Z"
+    },
+    "arg-0239": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:00:06.292Z"
+    },
+    "arg-0240": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T14:59:59.290Z"
+    },
+    "arg-0242": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:02:53.856Z"
+    },
+    "arg-0243": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:05:23.338Z"
+    },
+    "arg-0244": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:05:15.955Z"
+    },
+    "arg-0248": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:15:06.187Z"
+    },
+    "arg-0249": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:17:16.754Z"
+    },
+    "arg-0250": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-01T15:17:51.528Z"
     }
   },
   "items": [
@@ -4927,7 +4959,9 @@
       "publishedAt": "2026-09-12",
       "publishedAtSource": "https://note.com/from105/n/na93d3b665cc2",
       "portalUrl": "https://sim3.net/portal/work.php?id=arg-0233",
-      "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-09-16",
+      "lastUpdatedAt": "2026-09-15T19:03:28.234Z",
       "estPlayHours": {
         "normalMin": 0.5,
         "normalMax": null,
@@ -4987,6 +5021,146 @@
       "portalClearCheckedAt": "2026-09-16",
       "lastUpdatedAt": "2026-09-15T19:01:02.284Z",
       "workId": "arg-0235"
+    },
+    {
+      "id": "1790866467619_54d4128c40ccc8",
+      "title": "高無メイ消失事件",
+      "author": "高無メイ",
+      "introUrl": "https://note.com/mei_takanashi/n/nad85d22fc10f",
+      "startUrl": "https://itsumonokoto.net/003/",
+      "url": "https://itsumonokoto.net/003/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "ARG製作者、高無メイの今までとこれからを探る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 22,
+      "addedAt": "2026-10-01",
+      "publishedAt": "2026-09-17",
+      "publishedAtSource": "https://note.com/mei_takanashi/n/nad85d22fc10f",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0237",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-10-01",
+      "lastUpdatedAt": "2026-10-01T15:36:03.266Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": null,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0237"
+    },
+    {
+      "id": "1790866620010_6d5103408632c8",
+      "title": "通貨撲滅委員会",
+      "author": "喜瀨野",
+      "introUrl": "https://note.com/kiseno256/n/n79070dbb55e2",
+      "startUrl": "https://kiseno256.vercel.app/news/20260419",
+      "url": "https://kiseno256.vercel.app/news/20260419",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "怪しげな通貨撲滅委員会をめぐる噂と被害報告から、その正体を探る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-10-01",
+      "publishedAt": "2026-09-17",
+      "publishedAtSource": "https://note.com/kiseno256/n/n79070dbb55e2",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0238",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-01",
+      "lastUpdatedAt": "2026-10-01T15:36:03.266Z",
+      "workId": "arg-0238"
+    },
+    {
+      "id": "1790866854384_b068f458ba7eb",
+      "title": "アクセス履歴特定依頼",
+      "author": "Kijime",
+      "introUrl": "https://note.com/forecollect/n/n72bbcc506a3b",
+      "startUrl": "https://ahp.forecollect.workers.dev/",
+      "url": "https://ahp.forecollect.workers.dev/",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "違法行為の疑いで個人サイトの調査を開始する。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 22,
+      "addedAt": "2026-10-02",
+      "publishedAt": "2026-09-22",
+      "publishedAtSource": "https://note.com/forecollect/n/n72bbcc506a3b",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0241",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-02",
+      "lastUpdatedAt": "2026-10-01T15:37:18.852Z",
+      "workId": "arg-0241"
+    },
+    {
+      "id": "1790867505256_152d56e727729",
+      "title": "冷たい銀の導き",
+      "author": "憂杞",
+      "introUrl": "https://note.com/0816yk/n/nd9f67b2d387c",
+      "startUrl": "https://c0ldsi1ver.mgaiyk0816.workers.dev/contents/contact",
+      "url": "https://c0ldsi1ver.mgaiyk0816.workers.dev/contents/contact",
+      "categories": [
+        "第3回Webミステリーブートキャンプ"
+      ],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "近所の廃墟で起きた失踪事件を知り、謎の呼びかけに導かれて真相を追う。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-10-02",
+      "publishedAt": "2026-09-25",
+      "publishedAtSource": "https://note.com/0816yk/n/nd9f67b2d387c",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0247",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-02",
+      "lastUpdatedAt": "2026-10-01T15:37:18.852Z",
+      "estPlayHours": {
+        "normalMin": 2,
+        "normalMax": 3,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0247"
+    },
+    {
+      "id": "1790867575999_4bcd79268fe9",
+      "title": "#異世界喫茶Daydream",
+      "author": "和井栄知",
+      "introUrl": "https://note.com/shinobi_kagerou/n/na97e852dab1e",
+      "startUrl": "https://daydream-8rr.pages.dev/bbs",
+      "url": "https://daydream-8rr.pages.dev/bbs",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閲覧できたりできなかったりする謎のサイトを、謎解き忍者・影狼とともに手がかりを求めて調査する。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 10,
+      "addedAt": "2026-10-02",
+      "publishedAt": "2026-09-25",
+      "publishedAtSource": "https://note.com/shinobi_kagerou/n/na97e852dab1e",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0246",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-02",
+      "lastUpdatedAt": "2026-10-01T15:32:19.691Z",
+      "estPlayHours": {
+        "normalMin": 0.5,
+        "normalMax": 1,
+        "hintMin": null,
+        "hintMax": null
+      },
+      "workId": "arg-0246"
     }
   ]
 }
