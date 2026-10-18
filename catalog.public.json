@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T15:37:18.880102+00:00",
+  "updatedAt": "2026-10-18T12:51:28.669956+00:00",
   "webArgPortalExclusions": {
     "arg-0121": {
       "reason": "unsupported",
@@ -109,6 +109,50 @@
     "arg-0250": {
       "reason": "unsupported",
       "updatedAt": "2026-10-01T15:17:51.528Z"
+    },
+    "arg-0253": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:37:03.833Z"
+    },
+    "arg-0254": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:37:30.140Z"
+    },
+    "arg-0255": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:37:45.287Z"
+    },
+    "arg-0256": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:38:49.132Z"
+    },
+    "arg-0258": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:40:53.928Z"
+    },
+    "arg-0259": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:41:14.543Z"
+    },
+    "arg-0260": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:41:51.107Z"
+    },
+    "arg-0263": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:43:07.181Z"
+    },
+    "arg-0265": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:47:29.734Z"
+    },
+    "arg-0267": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:48:13.147Z"
+    },
+    "arg-0268": {
+      "reason": "unsupported",
+      "updatedAt": "2026-10-18T12:48:30.959Z"
     }
   },
   "items": [
@@ -5161,6 +5205,100 @@
         "hintMax": null
       },
       "workId": "arg-0246"
+    },
+    {
+      "id": "1792326819628_91ef0e9966cc4",
+      "title": "湖畔ロッジ水郷",
+      "author": "栞",
+      "introUrl": "https://note.com/iromizu_ice/n/n55cc9abd3687",
+      "startUrl": "https://suikyo-lakesidelodge2.iromizu-ice.workers.dev/",
+      "url": "https://suikyo-lakesidelodge2.iromizu-ice.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "友人に勧められた湖畔ロッジ水郷を調べ、先輩の不可解な発言に隠された秘密へ迫る。 作品内に発見したページの履歴を確認できる機能があります。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-10-18",
+      "publishedAt": "2026-10-02",
+      "publishedAtSource": "https://note.com/iromizu_ice/n/n55cc9abd3687",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0251",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-18",
+      "lastUpdatedAt": "2026-10-18T12:51:28.645Z",
+      "workId": "arg-0251"
+    },
+    {
+      "id": "1792326930899_cd528eff77b728",
+      "title": "ハピネスピープル",
+      "author": "Haruka",
+      "introUrl": "https://note.com/harubashop/n/n61210911e3a2",
+      "startUrl": "https://happiness-people.jpn.org/",
+      "url": "https://happiness-people.jpn.org/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "「合法会社ハピネス・ピープル」の求人に応募し、職員ポータルから企業の実態を探るミステリー. 作品内に発見したページの履歴を確認できる機能があります。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 17,
+      "addedAt": "2026-10-18",
+      "publishedAt": "2026-10-02",
+      "publishedAtSource": "https://note.com/harubashop/n/n61210911e3a2",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0252",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-18",
+      "lastUpdatedAt": "2026-10-18T12:51:28.645Z",
+      "workId": "arg-0252"
+    },
+    {
+      "id": "1792327159570_3d6be029f511c8",
+      "title": "卒研アンケート",
+      "author": "t3mplate",
+      "introUrl": "https://note.com/t3mplate/n/nbab200929507",
+      "startUrl": "https://keiyo-univ.t3mplate001.workers.dev/",
+      "url": "https://keiyo-univ.t3mplate001.workers.dev/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "SNSで見かけた卒業研究アンケートに、終了した研究プロジェクトとの奇妙な共通点が見つかる。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "totalPages": 25,
+      "addedAt": "2026-10-18",
+      "publishedAt": "2026-10-07",
+      "publishedAtSource": "https://note.com/t3mplate/n/nbab200929507",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0257",
+      "portalClearStatus": "not_listed",
+      "portalClearCheckedAt": "2026-10-18",
+      "lastUpdatedAt": "2026-10-18T12:51:28.645Z",
+      "workId": "arg-0257"
+    },
+    {
+      "id": "1792327469537_f9ee238ce9fdb",
+      "title": "ご用件をどうぞ",
+      "author": "僕のたどり着く場所.APP",
+      "introUrl": "https://bktsk.app/01/",
+      "startUrl": "https://fushigi.01.bktsk.app/",
+      "url": "https://fushigi.01.bktsk.app/",
+      "categories": [],
+      "playStyleTags": [],
+      "curatorBadge": "",
+      "status": "active",
+      "shortDescription": "閉鎖された研究所の窓口と対話し、匿名掲示板の書き込みを手がかりに隠された出来事を探る。",
+      "compatibility": "full",
+      "compatibilityNote": "",
+      "addedAt": "2026-10-18",
+      "publishedAt": "2026-10-11",
+      "publishedAtSource": "https://sim3.net/portal/work.php?id=arg-0264",
+      "portalUrl": "https://sim3.net/portal/work.php?id=arg-0264",
+      "portalClearStatus": "available",
+      "portalClearCheckedAt": "2026-10-18",
+      "lastUpdatedAt": "2026-10-18T12:51:28.645Z",
+      "workId": "arg-0264"
     }
   ]
 }
